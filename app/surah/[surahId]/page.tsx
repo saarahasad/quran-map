@@ -6,6 +6,13 @@ import AyahMap from "@/components/AyahMap";
 import { getSurahData } from "@/lib/surah";
 import { getUniqueThemeColorMapping } from "@/lib/theme-colors";
 
+/** Surah IDs that have JSON data (for static export to GitHub Pages) */
+const AVAILABLE_SURAH_IDS = [7, 8, 9, 10, 11, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 85, 86, 87, 91, 92, 93, 94];
+
+export async function generateStaticParams() {
+  return AVAILABLE_SURAH_IDS.map((surahId) => ({ surahId: String(surahId) }));
+}
+
 interface SurahPageProps {
   params: { surahId: string };
 }

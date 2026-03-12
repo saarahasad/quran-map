@@ -195,6 +195,22 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000). Use “Al-A'raf (Surah 7)” to open the example surah page.
 
+## Deploying to GitHub Pages
+
+The app is configured for static export and GitHub Pages. To deploy:
+
+1. **Push your code** to a GitHub repo named `quran-map` (or update `basePath` and `assetPrefix` in `next.config.js` if your repo has a different name).
+
+2. **Enable GitHub Pages** in your repo:
+   - Go to **Settings → Pages**
+   - Under **Build and deployment**, set **Source** to **GitHub Actions**
+
+3. **Push to `main`** (or `master`). The workflow in `.github/workflows/deploy.yml` will build and deploy automatically.
+
+4. Your site will be live at: `https://<your-username>.github.io/quran-map/`
+
+**Note:** If you see "404 File not found", ensure (a) GitHub Pages source is set to **GitHub Actions**, (b) the workflow has run successfully (check the **Actions** tab), and (c) you're visiting the correct URL including `/quran-map/`.
+
 ## Adding more surahs
 
 Add a JSON file at `data/surah/{surahId}.json` following the schema above. The surah will be available at `/surah/{surahId}`. You can add a link on the home page in `app/page.tsx` or generate the list from available files.
