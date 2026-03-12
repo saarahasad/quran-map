@@ -2,7 +2,7 @@
 
 import { Ayah } from "@/lib/types";
 import { getWordHighlights } from "@/lib/ayah";
-import { getThemeBorderHex, getThemeLabel } from "@/lib/theme-colors";
+import { getThemeBorderHex, getThemeLabel, getThemeBgLightHex } from "@/lib/theme-colors";
 import { getHighlightSegments } from "@/lib/highlight-text";
 
 interface JourneyAyahCardProps {
@@ -18,9 +18,14 @@ export default function JourneyAyahCard({
   pathSide = "right",
 }: JourneyAyahCardProps) {
   const themeHex = getThemeBorderHex(ayah.theme, colorMapping);
+  const themeBgLight = getThemeBgLightHex(ayah.theme, colorMapping);
   const themeLabel = getThemeLabel(ayah.theme);
   const highlights = getWordHighlights(ayah);
+  const arabicPhrases = highlights.map((h) => h.arabic);
   const translationPhrases = highlights.map((h) => h.translation);
+  const arabicSegments = getHighlightSegments(ayah.arabic, arabicPhrases, {
+    caseSensitive: true,
+  });
   const translationSegments = getHighlightSegments(ayah.translation, translationPhrases, {
     caseSensitive: false,
   });
@@ -42,18 +47,35 @@ export default function JourneyAyahCard({
         {ayah.ayahNumber}
       </div>
 
-      {/* Card: translation + theme tag (matches map circle polish) */}
+      {/* Card: Arabic + translation + theme tag (matches map circle polish) */}
       <div
         className={`min-w-0 flex-1 rounded-xl border border-slate-200/90 bg-white px-4 py-3 shadow-lg ring-1 ring-black/5 ${
           pathSide === "left" ? "ml-0" : "mr-0"
         }`}
       >
+        {/* Arabic with highlighted words */}
+        <p
+          dir="rtl"
+          className="mb-2 text-right text-lg leading-loose text-slate-800 md:text-xl"
+          style={{ fontFamily: "var(--font-arabic-uthmani), 'Traditional Arabic', serif" }}
+        >
+          {arabicSegments.map((seg, i) =>
+            seg.highlight ? (
+              <span key={i} className="text-slate-900" style={{ backgroundColor: themeBgLight }}>
+                {seg.text}
+              </span>
+            ) : (
+              <span key={i}>{seg.text}</span>
+            )
+          )}
+        </p>
+        {/* English translation with highlighted words */}
         <p className="text-sm leading-relaxed text-slate-700 md:text-base">
           {translationSegments.map((seg, i) =>
             seg.highlight ? (
-              <strong key={i} className="font-semibold text-slate-800">
+              <span key={i} className="text-slate-800" style={{ backgroundColor: themeBgLight }}>
                 {seg.text}
-              </strong>
+              </span>
             ) : (
               <span key={i}>{seg.text}</span>
             )
