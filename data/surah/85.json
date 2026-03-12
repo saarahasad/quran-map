@@ -1,0 +1,353 @@
+{
+  "surahId": 85,
+  "surahNameArabic": "البروج",
+  "surahNameEnglish": "The Mansions of the Stars",
+  "revelationType": "Makki",
+  "totalAyahs": 22,
+  "thesis": "Allah swears by the sky and the promised Day; the companions of the trench persecuted believers for their faith and were cursed—those who torture believers and do not repent face Hell; those who believe and do good have Gardens; your Lord's grip is severe, and He is Forgiving, the Doer of what He wills; the Qur'an is glorious, in a Preserved Tablet.",
+  "gist": [
+    "Oath by the sky with constellations and the promised Day",
+    "Condemnation of the companions of the trench who burned believers",
+    "Punishment for persecutors who do not repent; Gardens for believers who do good",
+    "Allah's severity and mercy; His dominion; the Qur'an in the Preserved Tablet"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "warning": "orange",
+    "hereafter": "yellow",
+    "stories": "fuchsia",
+    "revelation": "purple"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ ١",
+      "translation": "By the sky full of constellations,",
+      "summary": "Oath by the sky containing the great stars/constellations.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّمَآءِ", "translation": "The sky" },
+        { "arabic": "ٱلْبُرُوجِ", "translation": "Constellations / mansions" }
+      ],
+      "tafsirSummary": "Allah swears by the sky full of constellations—the fixed stations of the stars and the majesty of the heavens. The burūj are a sign of order, beauty, and the Creator's power. The oath leads to the gravity of the promised Day and the fate of those who persecuted the believers.",
+      "lessonReflection": "The sky with its constellations is a sign of the One who will judge on the promised Day—so let the heavens remind us of accountability.",
+      "beforeThisAyah": "The surah opens with oaths that introduce the story of the trench and the fate of persecutors and believers.",
+      "afterThisAyah": "The promised Day is sworn by next."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَٱلْيَوْمِ ٱلْمَوْعُودِ ٢",
+      "translation": "and the promised Day ˹of Judgment˺,",
+      "summary": "And by the promised Day.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ٱلْيَوْمِ ٱلْمَوْعُودِ", "translation": "The promised Day" }
+      ],
+      "tafsirSummary": "And by the promised Day—the Day of Judgment that Allah and His messengers have promised. It is the day when the witness and the witnessed will stand before the Judge. The oath ties the majesty of creation to the certainty of reckoning.",
+      "lessonReflection": "The promised Day is not a metaphor; it is the day when every soul will see what it did—so live in light of that promise.",
+      "beforeThisAyah": "The sky with its constellations was sworn by.",
+      "afterThisAyah": "The witness and what is witnessed are sworn by."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَشَاهِدٍۢ وَمَشْهُودٍۢ ٣",
+      "translation": "and the witness and what is witnessed!",
+      "summary": "And by the witness and what is witnessed.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "شَاهِدٍۢ", "translation": "The witness" },
+        { "arabic": "مَشْهُودٍۢ", "translation": "What is witnessed" }
+      ],
+      "tafsirSummary": "And by the witness and what is witnessed—on the Day of Judgment, Allah or His angels or the prophets bear witness, and the people and their deeds are the witnessed. Nothing is hidden; every act is seen and recorded. The oath emphasizes the completeness of divine knowledge and the reality of the Hour.",
+      "lessonReflection": "On that Day there is a witness and a witnessed—we will be the witnessed; let that awareness keep our deeds in check.",
+      "beforeThisAyah": "The promised Day was sworn by.",
+      "afterThisAyah": "The surah declares: condemned are the companions of the trench."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ ٤",
+      "translation": "Condemned are the makers of the ditch—",
+      "summary": "Destroyed (cursed) were the companions of the trench.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "أَصْحَـٰبُ ٱلْأُخْدُودِ", "translation": "Companions of the trench" },
+        { "arabic": "قُتِلَ", "translation": "Destroyed / cursed" }
+      ],
+      "tafsirSummary": "Condemned are the companions of the trench—the people who dug a fire-filled ditch and cast believers into it for no reason other than their faith. The curse is Allah's verdict on their tyranny. The story is set in a pre-Islamic context: a tyrannical ruler and his agents who tortured and killed believers; their evil earned them the curse of Allah.",
+      "lessonReflection": "Those who persecute believers for their faith are cursed by Allah—the trench is a lasting symbol of the fate of persecutors.",
+      "beforeThisAyah": "The witness and the witnessed were sworn by.",
+      "afterThisAyah": "The fire of the trench and their sitting around it are described."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ ٥",
+      "translation": "the fire ˹pit˺, filled with fuel—",
+      "summary": "The fire full of fuel.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "ٱلنَّارِ", "translation": "The fire" },
+        { "arabic": "ٱلْوَقُودِ", "translation": "Fuel" }
+      ],
+      "tafsirSummary": "The fire full of fuel—they kept the trench burning to torture the believers. The image is stark: a pit of fire, fed with wood, and human beings thrown into it for believing in Allah. Their cruelty is remembered so that every generation knows the cost of persecution and the certainty of divine judgment.",
+      "lessonReflection": "The fire they filled and used against the believers becomes a sign of their own moral fire—and a warning to any who would follow their path.",
+      "beforeThisAyah": "The companions of the trench were declared condemned.",
+      "afterThisAyah": "They were sitting by it, watching what they did to the believers."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌۭ ٦",
+      "translation": "when they sat around it,",
+      "summary": "When they were sitting near it.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "قُعُودٌۭ", "translation": "Sitting" },
+        { "arabic": "عَلَيْهَا", "translation": "Around it" }
+      ],
+      "tafsirSummary": "When they sat around it—they did not only dig the trench and light the fire; they sat and watched. Their presence at the scene of the crime shows their full complicity. They witnessed the suffering they had ordered and did not turn back. Sitting at the edge of the fire, they became witnesses against themselves.",
+      "lessonReflection": "They sat and watched—complicity is not only in the act but in the silence and the watching; we must refuse to be bystanders to injustice.",
+      "beforeThisAyah": "The fire full of fuel was described.",
+      "afterThisAyah": "They were witnesses to what they did to the believers."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌۭ ٧",
+      "translation": "watching what they had ˹ordered to be˺ done to the believers,",
+      "summary": "They were witnesses to what they did against the believers.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "شُهُودٌۭ", "translation": "Witnesses" },
+        { "arabic": "ٱلْمُؤْمِنِينَ", "translation": "The believers" }
+      ],
+      "tafsirSummary": "And they were witnesses to what they did to the believers—they watched the believers burn. Their witnessing did not move them to mercy; it sealed their guilt. On the Day of Judgment, they will be the witnessed, and their own witnessing of their crime will be part of the evidence against them. Allah is Witness over all things.",
+      "lessonReflection": "What they witnessed and did not stop will witness against them on the Day of Judgment—our gaze and our inaction are recorded.",
+      "beforeThisAyah": "They were sitting around the fire.",
+      "afterThisAyah": "The only reason they resented the believers was their faith in Allah."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ ٨",
+      "translation": "who they resented for no reason other than belief in Allah—the Almighty, the Praiseworthy—",
+      "summary": "They resented them only because they believed in Allah, the Exalted in Might, the Praiseworthy.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "نَقَمُوا۟", "translation": "They resented" },
+        { "arabic": "يُؤْمِنُوا۟ بِٱللَّهِ", "translation": "Believe in Allah" },
+        { "arabic": "ٱلْعَزِيزِ ٱلْحَمِيدِ", "translation": "The Almighty, the Praiseworthy" }
+      ],
+      "tafsirSummary": "They had no grievance against the believers except that they believed in Allah, the Almighty, the Praiseworthy. The persecution was not for any crime or harm the believers had done; it was purely for faith. The names of Allah here—Al-Azīz, Al-Hamīd—remind us that the One they believed in is powerful and worthy of all praise; their belief was the truth, and the persecutors' hatred was the crime.",
+      "lessonReflection": "When people are hated only for believing in Allah, the fault lies with the persecutor—and Allah is Witness to that injustice.",
+      "beforeThisAyah": "They were witnesses to the torture of the believers.",
+      "afterThisAyah": "Allah is described: to Him belongs the kingdom of the heavens and the earth, and He is Witness over all things."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ ٩",
+      "translation": "˹the One˺ to Whom belongs the kingdom of the heavens and earth. And Allah is a Witness over all things.",
+      "summary": "To whom belongs the dominion of the heavens and the earth. And Allah is Witness over all things.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ", "translation": "Kingdom of the heavens and earth" },
+        { "arabic": "شَهِيدٌ", "translation": "Witness" }
+      ],
+      "tafsirSummary": "To Him belongs the kingdom of the heavens and the earth—He is the true King, and the persecutors are only temporary tyrants. And Allah is Witness over all things: He saw what they did to the believers and He sees every oppression. The verse grounds the story in divine sovereignty and omniscience; the Judge sees everything and will recompense.",
+      "lessonReflection": "The kingdom is His, and He is Witness—no persecution goes unseen; the King will call the persecutors to account.",
+      "beforeThisAyah": "The believers were resented only for believing in Allah.",
+      "afterThisAyah": "Those who tortured the believers and did not repent will have the punishment of Hell."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ ١٠",
+      "translation": "Those who persecute the believing men and women and then do not repent will certainly suffer the punishment of Hell and the torment of burning.",
+      "summary": "Those who tortured the believing men and women and did not repent will have the punishment of Hell and the Burning Fire.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "فَتَنُوا۟", "translation": "Persecuted / tortured" },
+        { "arabic": "لَمْ يَتُوبُوا۟", "translation": "Did not repent" },
+        { "arabic": "عَذَابُ جَهَنَّمَ", "translation": "Punishment of Hell" }
+      ],
+      "tafsirSummary": "Those who persecuted the believing men and women and then did not repent will have the punishment of Hell and the torment of the Burning Fire. The verse extends the lesson beyond the historical trench: anyone who tortures or persecutes believers and does not turn back to Allah will face the same verdict. Repentance is the only way out; without it, the punishment is certain.",
+      "lessonReflection": "Persecution of believers, without repentance, leads to Hell and the Burning Fire—so we must never persecute, and if we have wronged, we must repent.",
+      "beforeThisAyah": "Allah was described as the King and Witness over all things.",
+      "afterThisAyah": "Those who believe and do good will have Gardens beneath which rivers flow."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ ١١",
+      "translation": "Surely those who believe and do good will have Gardens under which rivers flow. That is the greatest triumph.",
+      "summary": "Those who believed and did righteous deeds will have gardens beneath which rivers flow. That is the great attainment.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ", "translation": "Believe and do good" },
+        { "arabic": "جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ", "translation": "Gardens beneath which rivers flow" },
+        { "arabic": "ٱلْفَوْزُ ٱلْكَبِيرُ", "translation": "The greatest triumph" }
+      ],
+      "tafsirSummary": "Those who believe and do righteous deeds will have Gardens beneath which rivers flow—that is the great attainment. The contrast is complete: persecutors who do not repent face Hell and the Burning Fire; believers who hold fast to faith and good deeds receive the highest success. The Gardens are the eternal home of peace and pleasure, and the rivers are a symbol of endless blessing.",
+      "lessonReflection": "The greatest triumph is not in this world—it is in the Gardens under which rivers flow, for those who believe and do good.",
+      "beforeThisAyah": "The punishment for persecutors who do not repent was stated.",
+      "afterThisAyah": "The grip of your Lord is described as severe."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ ١٢",
+      "translation": "Indeed, the ˹crushing˺ grip of your Lord is severe.",
+      "summary": "Indeed, the assault (vengeance) of your Lord is severe.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "بَطْشَ رَبِّكَ", "translation": "Grip / assault of your Lord" },
+        { "arabic": "لَشَدِيدٌ", "translation": "Is severe" }
+      ],
+      "tafsirSummary": "The grip of your Lord is indeed severe—when He seizes the wrongdoers, none can escape. This is a comfort to the oppressed and a warning to the oppressor: the same Lord who promises Gardens to the believers promises a severe reckoning for those who persecute and do not repent. His power is not only creative and sustaining but also judicial.",
+      "lessonReflection": "The grip of the Lord is severe—so let the oppressor fear, and let the oppressed take heart that justice will be done.",
+      "beforeThisAyah": "The Gardens for the believers were described.",
+      "afterThisAyah": "He is the One who originates and resurrects."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ ١٣",
+      "translation": "˹For˺ He is certainly the One Who originates and resurrects ˹all˺.",
+      "summary": "Indeed, it is He who originates [creation] and repeats.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "يُبْدِئُ", "translation": "Originates" },
+        { "arabic": "يُعِيدُ", "translation": "Resurrects / repeats" }
+      ],
+      "tafsirSummary": "He is the One who originates creation and brings it back—He gives life the first time and will give it again on the Day of Resurrection. So the same Power that created the heavens and the earth and human beings is the One who will raise the dead and hold the persecutors and the believers to account. There is no escape by death; He will bring back.",
+      "lessonReflection": "He who originated creation will bring it back—resurrection is not a metaphor; it is the act of the same God who created us.",
+      "beforeThisAyah": "The severity of the Lord's grip was stated.",
+      "afterThisAyah": "He is the All-Forgiving, the All-Loving."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ ١٤",
+      "translation": "And He is the All-Forgiving, All-Loving—",
+      "summary": "And He is the Forgiving, the Affectionate.",
+      "theme": "mercy",
+      "wordHighlights": [
+        { "arabic": "ٱلْغَفُورُ", "translation": "The Forgiving" },
+        { "arabic": "ٱلْوَدُودُ", "translation": "The Affectionate / Loving" }
+      ],
+      "tafsirSummary": "And He is the Forgiving, the Affectionate—alongside His severity is His mercy. He forgives those who repent and turn to Him, and He loves His righteous servants. The persecutor who repents can still hope for His forgiveness; the believer who stumbles can seek His pardon. The names balance the surah: justice for the unrepentant, mercy for the penitent.",
+      "lessonReflection": "He is severe in justice and forgiving in mercy—so we fear His grip and hope in His love and forgiveness when we repent.",
+      "beforeThisAyah": "He was described as the One who originates and resurrects.",
+      "afterThisAyah": "He is the Lord of the Throne, the All-Glorious."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ ١٥",
+      "translation": "Lord of the Throne, the All-Glorious,",
+      "summary": "Honorable Owner of the Throne.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ذُو ٱلْعَرْشِ", "translation": "Owner of the Throne" },
+        { "arabic": "ٱلْمَجِيدُ", "translation": "The All-Glorious" }
+      ],
+      "tafsirSummary": "He is the Lord of the Throne, the All-Glorious—the Throne is the symbol of His sovereignty and majesty. He is above creation, ruling with power and honor. The combination of forgiveness and love with lordship of the Throne shows that His mercy and His judgment are both expressions of His supreme authority.",
+      "lessonReflection": "The Lord of the Throne is the same who is Forgiving and Loving—so we worship the Glorious One with awe and hope.",
+      "beforeThisAyah": "He was described as the Forgiving and the Affectionate.",
+      "afterThisAyah": "He is the Doer of whatever He wills."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ ١٦",
+      "translation": "Doer of whatever He wills.",
+      "summary": "Effecter of what He intends.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "فَعَّالٌۭ", "translation": "Doer" },
+        { "arabic": "لِّمَا يُرِيدُ", "translation": "Of what He wills" }
+      ],
+      "tafsirSummary": "He is the Doer of whatever He wills—nothing can prevent His decree. If He wills to punish the persecutors, He does so; if He wills to forgive the repentant, He does so. If He wills to give the believers Gardens, He does so. His will is effective in every matter. The verse closes the description of divine attributes and leads to the story of the destroyed forces and the Qur'an.",
+      "lessonReflection": "What He wills, He does—so our safety is in aligning our will with His and seeking His mercy and guidance.",
+      "beforeThisAyah": "He was described as the Lord of the Throne, the All-Glorious.",
+      "afterThisAyah": "The Prophet is asked: Has the story of the forces reached you?"
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ ١٧",
+      "translation": "Has the story of the ˹destroyed˺ forces reached you ˹O Prophet˺—",
+      "summary": "Has there reached you the story of the soldiers—",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "حَدِيثُ ٱلْجُنُودِ", "translation": "Story of the forces" }
+      ],
+      "tafsirSummary": "Has the story of the destroyed forces reached you?—Allah asks the Prophet (and the listener) to recall the fate of mighty armies that opposed the truth. The story reinforces the lesson of the trench: those who use power against believers are not ultimately victorious; Allah destroys their plans and their legacy. The \"forces\" are the armies of Pharaoh and Thamūd, among others.",
+      "lessonReflection": "The story of the destroyed forces is a reminder: earthly power that opposes faith is doomed—so put your trust in Allah, not in armies.",
+      "beforeThisAyah": "Allah was described as the Doer of what He wills.",
+      "afterThisAyah": "Pharaoh and Thamūd are named."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "فِرْعَوْنَ وَثَمُودَ ١٨",
+      "translation": "˹the forces of˺ Pharaoh and Thamûd?",
+      "summary": "[Those of] Pharaoh and Thamūd?",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "فِرْعَوْنَ", "translation": "Pharaoh" },
+        { "arabic": "ثَمُودَ", "translation": "Thamūd" }
+      ],
+      "tafsirSummary": "Pharaoh and Thamūd—two examples of powerful groups that opposed the messengers and the believers. Pharaoh and his army were drowned; Thamūd were destroyed by a blast. Both had strength and resources, but both were brought low because they denied the truth and persecuted the believers. The Qur'an asks: have you not heard? So that we take heed.",
+      "lessonReflection": "Pharaoh and Thamūd had power and pride—but both were destroyed; the pattern is clear for every generation.",
+      "beforeThisAyah": "The Prophet was asked if the story of the forces had reached him.",
+      "afterThisAyah": "Yet the disbelievers persist in denial."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍۢ ١٩",
+      "translation": "Yet the disbelievers ˹still˺ persist in denial.",
+      "summary": "But they who disbelieve are in [persistent] denial.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "كَفَرُوا۟", "translation": "Disbelieve" },
+        { "arabic": "تَكْذِيبٍۢ", "translation": "Denial" }
+      ],
+      "tafsirSummary": "But the disbelievers are in denial—despite the stories of the trench, Pharaoh, and Thamūd, they continue to reject the message. They deny the Qur'an, the Prophet, and the promised Day. Their denial does not change the truth; it only increases their responsibility. The verse marks the persistence of disbelief and sets up the response: Allah encompasses them, and the Qur'an is preserved and glorious.",
+      "lessonReflection": "Denial does not erase the truth—the disbelievers persist in denial, but Allah encompasses them and the Qur'an remains.",
+      "beforeThisAyah": "Pharaoh and Thamūd were mentioned as destroyed forces.",
+      "afterThisAyah": "Allah encompasses them from behind."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ ٢٠",
+      "translation": "But Allah encompasses them from all sides.",
+      "summary": "While Allah encompasses them from behind.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "مُّحِيطٌۢ", "translation": "Encompasses" },
+        { "arabic": "مِن وَرَآئِهِم", "translation": "From behind / all sides" }
+      ],
+      "tafsirSummary": "Allah encompasses them from behind—they cannot escape His knowledge, His power, or His reach. They may think they are safe in their denial, but He surrounds them. The encompassing is both a warning (they cannot flee from Him) and a fact (His creation and His decree include them). On the Day of Judgment, they will find that they were never outside His grasp.",
+      "lessonReflection": "No one is outside Allah's reach—He encompasses the disbelievers; so let no one think that denial places them beyond His authority.",
+      "beforeThisAyah": "The disbelievers were said to persist in denial.",
+      "afterThisAyah": "The Qur'an is declared to be glorious, in a Preserved Tablet."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "بَلْ هُوَ قُرْءَانٌۭ مَّجِيدٌۭ ٢١",
+      "translation": "In fact, this is a glorious Quran,",
+      "summary": "But this is an honored Qur'an.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "قُرْءَانٌۭ مَّجِيدٌۭ", "translation": "A glorious Qur'an" }
+      ],
+      "tafsirSummary": "Rather, this is a glorious Qur'an—honored and exalted. The disbelievers may deny it, but its status is not dependent on their acceptance. It is the speech of Allah, full of majesty and guidance. The verse shifts from the disbelievers' denial to the nature of the Book itself: it is glorious, and it is preserved.",
+      "lessonReflection": "The Qur'an is glorious whether or not people accept it—our task is to receive it with honor and follow it.",
+      "beforeThisAyah": "Allah was said to encompass the disbelievers.",
+      "afterThisAyah": "It is in a Preserved Tablet."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "فِى لَوْحٍۢ مَّحْفُوظٍۭ ٢٢",
+      "translation": "˹recorded˺ in a Preserved Tablet.",
+      "summary": "[Inscribed] in a Preserved Slate.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "لَوْحٍۢ مَّحْفُوظٍۭ", "translation": "Preserved Tablet" }
+      ],
+      "tafsirSummary": "In a Preserved Tablet—the Qur'an is not a human composition that can be lost or altered; it is inscribed in the heavenly Preserved Tablet, guarded by Allah. Nothing can corrupt it or remove it. The surah ends by anchoring the message in divine protection: the same Lord who cursed the companions of the trench and will punish the persecutors has preserved this Book for all time.",
+      "lessonReflection": "The Qur'an is in a Preserved Tablet—it is safe from change and loss; we can rely on it and hold fast to it until the promised Day.",
+      "beforeThisAyah": "The Qur'an was declared to be glorious.",
+      "afterThisAyah": "The surah ends; the themes of persecution, punishment, reward, and the preserved Book are left with the reader."
+    }
+  ]
+}

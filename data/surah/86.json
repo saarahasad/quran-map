@@ -1,0 +1,274 @@
+{
+  "surahId": 86,
+  "surahNameArabic": "الطارق",
+  "surahNameEnglish": "The Nightcomer",
+  "revelationType": "Makki",
+  "totalAyahs": 17,
+  "thesis": "By the sky and the piercing star, every soul has a guardian; let people consider from what they were created—He is able to bring them back on the Day secrets are tried; the Qur'an is a decisive word, and Allah is planning while they plan; so give the disbelievers a little respite.",
+  "gist": [
+    "Oath by the sky and the nightly star (piercing brightness)",
+    "Every soul has a protector; human created from a spurting fluid—He is able to bring back",
+    "Day when secrets are tried; no power or helper",
+    "Sky with recurring cycles, earth that splits; Qur'an is decisive, not amusement",
+    "They plan, and Allah plans; give the disbelievers respite"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "revelation": "purple",
+    "hereafter": "yellow",
+    "signs": "cyan",
+    "warning": "orange"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ ١",
+      "translation": "By the heaven and the nightly star!",
+      "summary": "By the sky and the knocker (nightly star).",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّمَآءِ", "translation": "The heaven" },
+        { "arabic": "ٱلطَّارِقِ", "translation": "The nightly star / knocker" }
+      ],
+      "tafsirSummary": "Allah swears by the heaven and the Tāriq—the star that comes by night, the \"knocker\" whose light pierces the darkness. The oath draws attention to the order of the cosmos and to the reality that every soul has a guardian and will be brought back. The nightly star is a sign of the unseen and the piercing quality of divine signs.",
+      "lessonReflection": "The star that pierces the night is a sign—so too the message that pierces the darkness of ignorance; both are from the Lord of the heaven.",
+      "beforeThisAyah": "The surah opens with oaths that lead to the theme of the soul, creation, and return.",
+      "afterThisAyah": "What is the Tāriq? It is explained."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ ٢",
+      "translation": "And what will make you realize what the nightly star is?",
+      "summary": "And what can make you know what is the knocker?",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "أَدْرَىٰكَ", "translation": "Make you know" },
+        { "arabic": "ٱلطَّارِقُ", "translation": "The knocker" }
+      ],
+      "tafsirSummary": "What will make you know what the Tāriq is?—the rhetorical question creates anticipation. The listener is invited to reflect: the Tāriq is not just any star but has a specific meaning that connects to the theme of the surah—piercing brightness, the soul's guardian, and the capacity of the Creator to bring back. The question elevates the importance of what follows.",
+      "lessonReflection": "Allah asks what will make us know—the answer is always in His revelation; we learn the meaning of His signs from Him.",
+      "beforeThisAyah": "The heaven and the Tāriq were sworn by.",
+      "afterThisAyah": "It is the star of piercing brightness."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "ٱلنَّجْمُ ٱلثَّاقِبُ ٣",
+      "translation": "˹It is˺ the star of piercing brightness.",
+      "summary": "It is the piercing star.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلنَّجْمُ", "translation": "The star" },
+        { "arabic": "ٱلثَّاقِبُ", "translation": "The piercing" }
+      ],
+      "tafsirSummary": "It is the star of piercing brightness—the thāqib is the one that pierces through the darkness with its light. So the Tāriq is identified: a star that appears at night and penetrates the gloom. The image carries over to the Qur'an and to the truth that pierces through ignorance. The soul too has something that \"pierces\"—a guardian watching over it.",
+      "lessonReflection": "The piercing star breaks through the night—so does the truth break through doubt when we turn to the One who made the star.",
+      "beforeThisAyah": "The question was asked: what is the Tāriq?",
+      "afterThisAyah": "Every soul has a guardian over it."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ ٤",
+      "translation": "There is no soul without a vigilant angel ˹recording everything˺.",
+      "summary": "There is no soul but that it has over it a protector.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "نَفْسٍۢ", "translation": "Soul" },
+        { "arabic": "حَافِظٌۭ", "translation": "Protector / guardian" }
+      ],
+      "tafsirSummary": "There is no soul without a guardian over it—an angel that records its deeds and protects the record. The verse establishes that every human is accountable: someone is watching, not in a vengeful sense but as part of the divine order. When the Day of secrets comes, the guardian's record will be there. No soul is unobserved.",
+      "lessonReflection": "Every soul has a guardian—we are never outside the knowledge of Allah; let that awareness guide our choices.",
+      "beforeThisAyah": "The Tāriq was identified as the piercing star.",
+      "afterThisAyah": "Let man consider from what he was created."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ ٥",
+      "translation": "Let people then consider what they were created from!",
+      "summary": "So let man observe from what he was created.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "لْيَنظُرِ", "translation": "Let him consider" },
+        { "arabic": "مِمَّ خُلِقَ", "translation": "From what he was created" }
+      ],
+      "tafsirSummary": "Let man consider from what he was created—from a humble origin, a spurting fluid. The invitation is to reflect on human beginnings: we did not create ourselves; we came from a drop of fluid. The one who created us from that is able to bring us back after death. Reflection on creation is a path to faith in resurrection.",
+      "lessonReflection": "When we remember from what we were created, pride falls away and gratitude and accountability take its place.",
+      "beforeThisAyah": "Every soul was said to have a guardian.",
+      "afterThisAyah": "He was created from a spurting fluid."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ ٦",
+      "translation": "˹They were˺ created from a spurting fluid,",
+      "summary": "He was created from a fluid, ejected.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "مَّآءٍۢ دَافِقٍۢ", "translation": "A spurting fluid" }
+      ],
+      "tafsirSummary": "He was created from a spurting fluid—water that is ejected, the male fluid that joins the female in the womb. The Qur'an describes the origin of human life in clear but dignified terms. The purpose is not to shame but to humble: the one who will stand before Allah on the Day of Judgment began as a drop. The same Power that made that drop into a full human can bring the dead back to life.",
+      "lessonReflection": "From a drop we were made—so we have no cause for arrogance, and every cause to recognize the One who gave us life.",
+      "beforeThisAyah": "Man was invited to consider from what he was created.",
+      "afterThisAyah": "It emerges from between the backbone and the ribs."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ ٧",
+      "translation": "stemming from between the backbone and the ribcage.",
+      "summary": "Emerging from between the backbone and the ribs.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "ٱلصُّلْبِ", "translation": "The backbone" },
+        { "arabic": "ٱلتَّرَآئِبِ", "translation": "The ribs" }
+      ],
+      "tafsirSummary": "It emerges from between the backbone and the ribs—the origin of the fluid in the body. The description is anatomically suggestive of the reproductive system's development and location. The verse underscores that the creation of man is precise and known to the Creator; He who designed this process is fully able to recreate the human being on the Day of Resurrection.",
+      "lessonReflection": "The fluid comes from a place in the body we did not choose—our very origin is from Allah's design; so too will be our return.",
+      "beforeThisAyah": "Man was created from a spurting fluid.",
+      "afterThisAyah": "He is fully capable of bringing him back."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ ٨",
+      "translation": "Surely He is fully capable of bringing them back ˹to life˺",
+      "summary": "Indeed, He is Able to return him [to life].",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "رَجْعِهِۦ", "translation": "Bringing him back" },
+        { "arabic": "لَقَادِرٌۭ", "translation": "Fully capable" }
+      ],
+      "tafsirSummary": "He is surely capable of bringing him back—of resurrecting the human being after death. The argument is from creation to re-creation: the One who created from a drop can reassemble the same person on the Day of Judgment. There is no logical or power barrier; it is only a matter of His will. The verse closes the reflection on human origin and opens to the Day when secrets will be tried.",
+      "lessonReflection": "If He could make us from a drop, He can bring us back after death—resurrection is not harder than first creation.",
+      "beforeThisAyah": "The fluid was said to emerge from between the backbone and the ribs.",
+      "afterThisAyah": "On the Day when secrets will be put on trial."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ ٩",
+      "translation": "on the Day all secrets will be disclosed.",
+      "summary": "The Day when secrets will be put on trial.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "تُبْلَى ٱلسَّرَآئِرُ", "translation": "Secrets will be disclosed / tried" }
+      ],
+      "tafsirSummary": "On the Day when secrets are tried—when what was hidden in the heart and done in secret is brought out and judged. Nothing will remain concealed; the guardian's record and Allah's knowledge will make every secret manifest. The day is one of exposure and recompense. Then the human will have no power and no helper.",
+      "lessonReflection": "The Day when secrets are tried—so what we hide now will be shown then; let us live as if that Day is already in view.",
+      "beforeThisAyah": "Allah is capable of bringing man back.",
+      "afterThisAyah": "Then he will have no power or any helper."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ ١٠",
+      "translation": "Then one will have neither power nor ˹any˺ helper.",
+      "summary": "Then he will have no power or any helper.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "قُوَّةٍۢ", "translation": "Power" },
+        { "arabic": "نَاصِرٍۢ", "translation": "Helper" }
+      ],
+      "tafsirSummary": "Then he will have no power and no helper—on that Day, the human cannot rely on his own strength or on any creature to save him. Only what he did in life and the mercy of Allah will count. The verse is a sobering conclusion to the passage on creation and return: we will stand alone before the Judge, with no power and no helper except Allah if He so wills.",
+      "lessonReflection": "On that Day there is no power and no helper—so our only preparation is faith, good deeds, and reliance on Allah's mercy.",
+      "beforeThisAyah": "The Day when secrets are tried was mentioned.",
+      "afterThisAyah": "Allah swears by the sky with its recurring cycles and the earth that splits."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ ١١",
+      "translation": "By the sky with its recurring cycles,",
+      "summary": "By the sky which sends back.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّمَآءِ", "translation": "The sky" },
+        { "arabic": "ٱلرَّجْعِ", "translation": "Recurring / sends back" }
+      ],
+      "tafsirSummary": "By the sky with its recurring cycles—rain returns, seasons return, and the sky gives back what sustains life. The oath points to the reliability of creation and the power of the One who manages it. If the sky can send back rain and cycle after cycle, the One who made it can send back the souls to their bodies on the Day of Resurrection.",
+      "lessonReflection": "The sky sends back rain and cycles—so the Lord of the sky can send back the dead; creation itself testifies to resurrection.",
+      "beforeThisAyah": "Man was said to have no power or helper on that Day.",
+      "afterThisAyah": "And by the earth that splits."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ ١٢",
+      "translation": "and the earth with its sprouting plants!",
+      "summary": "And [by] the earth which splits.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلْأَرْضِ", "translation": "The earth" },
+        { "arabic": "ٱلصَّدْعِ", "translation": "Splits / sprouting" }
+      ],
+      "tafsirSummary": "And by the earth that splits—with the emergence of plants from the soil, or with geological cracks that show the earth's dynamism. The earth \"splits\" to give life and to reveal the power of the Creator. Sky and earth together swear to the next point: the Qur'an is a decisive word, not amusement.",
+      "lessonReflection": "The earth splits and brings forth life—so the same Lord can bring forth the dead from the earth on the Day of Return.",
+      "beforeThisAyah": "The sky with its recurring cycles was sworn by.",
+      "afterThisAyah": "The Qur'an is a decisive word, not amusement."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ ١٣",
+      "translation": "Surely this ˹Quran˺ is a decisive word,",
+      "summary": "Indeed, it is a decisive statement.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "قَوْلٌۭ فَصْلٌۭ", "translation": "A decisive word" }
+      ],
+      "tafsirSummary": "It is indeed a decisive word—the Qur'an distinguishes clearly between truth and falsehood, guidance and misguidance. It is not vague or playful; it is the criterion. The verse shifts from the oaths to the nature of the revelation: decisive, serious, and binding. Those who treat it as amusement or deny it are in error.",
+      "lessonReflection": "The Qur'an is a decisive word—it does not leave us in doubt; we must receive it with seriousness and act on it.",
+      "beforeThisAyah": "The sky and the earth were sworn by.",
+      "afterThisAyah": "It is not amusement."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "وَمَا هُوَ بِٱلْهَزْلِ ١٤",
+      "translation": "and is not to be taken lightly.",
+      "summary": "And it is not amusement.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "ٱلْهَزْلِ", "translation": "Amusement / jest" }
+      ],
+      "tafsirSummary": "It is not amusement—the Qur'an is not entertainment or a game. It is a serious address from the Lord of the worlds, with consequences for belief and disbelief. To take it lightly is to miss its purpose and to risk the same fate as those who denied the signs. The disbelievers may mock, but the Book remains decisive and weighty.",
+      "lessonReflection": "The Qur'an is not jest—so we do not treat it as background noise; we listen, reflect, and obey.",
+      "beforeThisAyah": "The Qur'an was described as a decisive word.",
+      "afterThisAyah": "They are devising plans, and Allah is devising a plan."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا ١٥",
+      "translation": "They are certainly devising ˹evil˺ plans,",
+      "summary": "Indeed, they are planning a plan.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "يَكِيدُونَ", "translation": "Devising plans" }
+      ],
+      "tafsirSummary": "They are devising a plan—the disbelievers plot against the Prophet and the message. They think their schemes will prevail. But they do not know that Allah too is planning. His plan is above theirs; He encompasses them and will bring their plans to nothing. The verse comforts the believer and warns the disbeliever: do not think your plot is hidden or that it will succeed.",
+      "lessonReflection": "They plan against the truth—but Allah plans too; our trust is in His plan, not in the failure of theirs.",
+      "beforeThisAyah": "The Qur'an was said not to be amusement.",
+      "afterThisAyah": "Allah is also planning."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "وَأَكِيدُ كَيْدًۭا ١٦",
+      "translation": "but I too am planning.",
+      "summary": "But I am planning a plan.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "أَكِيدُ", "translation": "I am planning" }
+      ],
+      "tafsirSummary": "But I am planning a plan—Allah responds to their schemes with His own. His plan is to support the believers, to expose the disbelievers, and to bring about the ultimate victory of the truth. The Prophet is then told: give the disbelievers a little respite; do not be hasty for their punishment. Allah's plan will unfold in its time.",
+      "lessonReflection": "Allah's plan outweighs every human plan—so we remain patient and leave the outcome to Him.",
+      "beforeThisAyah": "They were said to be devising plans.",
+      "afterThisAyah": "So give the disbelievers respite for a little while."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا ١٧",
+      "translation": "So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while.",
+      "summary": "So allow time for the disbelievers. Leave them awhile.",
+      "theme": "patience",
+      "wordHighlights": [
+        { "arabic": "مَهِّلِ", "translation": "Bear with / allow time" },
+        { "arabic": "ٱلْكَـٰفِرِينَ", "translation": "The disbelievers" },
+        { "arabic": "رُوَيْدًۢا", "translation": "A little while" }
+      ],
+      "tafsirSummary": "So give the disbelievers respite; leave them a little while. The Prophet is not to rush for their punishment or to despair. Allah's plan is in motion; in a short time they will see the outcome. The command is also a comfort: the believer does not need to take revenge or force the result; patience and trust in Allah's timing are the way.",
+      "lessonReflection": "Give them a little time—patience is part of the plan; we do not need to see the end today, only to be steadfast.",
+      "beforeThisAyah": "Allah said He is planning a plan.",
+      "afterThisAyah": "The surah ends; the themes of creation, resurrection, the decisive Qur'an, and divine planning are left with the reader."
+    }
+  ]
+}

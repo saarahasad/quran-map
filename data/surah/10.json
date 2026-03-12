@@ -1,0 +1,3245 @@
+{
+  "surahId": 10,
+  "surahNameArabic": "يونس",
+  "surahNameEnglish": "Jonah",
+  "revelationType": "Makki",
+  "totalAyahs": 109,
+  "thesis": "The Qur'an is the wise Book from Allah; believe in Him, follow revelation, and remember that to Him is the return.",
+  "gist": [
+    "Revelation and the wise Book",
+    "Signs in creation and guidance",
+    "Belief, disbelief and the Hereafter",
+    "Stories of Noah, Moses and Pharaoh",
+    "People of Jonah and divine mercy",
+    "Patience and following what is revealed"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "revelation": "purple",
+    "signs": "teal",
+    "warning": "orange",
+    "hereafter": "yellow",
+    "mercy": "teal",
+    "guidance": "blue",
+    "disbelief": "gray",
+    "stories": "purple",
+    "patience": "blue",
+    "judgment": "yellow"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ ١",
+      "translation": "Alif, Lām, Rā. These are the verses of the wise Book.",
+      "summary": "Disconnected letters; verses of the wise Book.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "ءَايَـٰتُ",
+          "translation": "Verses"
+        },
+        {
+          "arabic": "ٱلْكِتَـٰبِ",
+          "translation": "The Book"
+        },
+        {
+          "arabic": "ٱلْحَكِيمِ",
+          "translation": "Wise"
+        },
+        {
+          "arabic": "ءَايَـٰت",
+          "translation": "signs"
+        }
+      ],
+      "tafsirSummary": "The disconnected letters (Alif, Lām, Rā) point to the inimitability of the Qur'an. The Book is described as wise (ḥakīm): its verses are precise, purposeful, and full of wisdom. It is not mere recitation but a criterion and guidance for those who reflect.",
+      "lessonReflection": "The wise Book is placed before us; our response to it—heedlessness or belief—shapes our fate in this life and the next.",
+      "beforeThisAyah": "This is the opening of Sūrat Yūnus; the surah begins by establishing the source and nature of revelation.",
+      "afterThisAyah": "The surah explains why revelation was sent to a human messenger and how the disbelievers responded."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍۢ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌۭ مُّبِينٌ ٢",
+      "translation": "Have the people been amazed that We revealed to a man from among them, \"Warn mankind and give good tidings to those who believe that they will have a firm precedence of honor with their Lord\"? The disbelievers say, \"Indeed, this is an obvious magician.\"",
+      "summary": "Revelation to a man to warn and give good tidings; disbelievers call him a magician.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "أَوْحَيْنَآ",
+          "translation": "We revealed"
+        },
+        {
+          "arabic": "أَنذِرِ",
+          "translation": "Warn"
+        },
+        {
+          "arabic": "ٱلْكَـٰفِرُونَ",
+          "translation": "Disbelievers"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        },
+        {
+          "arabic": "ٱلنَّاسَ",
+          "translation": "mankind"
+        }
+      ],
+      "tafsirSummary": "Allah addresses the objection that revelation came to a man like them. The role of the messenger is twofold: to warn those who turn away and to give good tidings to the believers of a firm standing with their Lord. The disbelievers dismiss this as obvious magic—a recurring response to the Qur'an.",
+      "lessonReflection": "Revelation to a human messenger is a mercy, not a cause for amazement; the real wonder is that people still reject when the warner and the good news are clear.",
+      "beforeThisAyah": "The opening verse introduced the wise Book; now the surah clarifies to whom and for what purpose it was sent.",
+      "afterThisAyah": "Allah establishes His lordship, creation, and sole right to worship, answering who this Lord is."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍۢ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ يُدَبِّرُ ٱلْأَمْرَ ۖ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ ٣",
+      "translation": "Indeed, your Lord is Allāh, who created the heavens and the earth in six days and then established Himself above the Throne, arranging the matter. There is no intercessor except after His permission. That is Allāh, your Lord, so worship Him. Then will you not remember?",
+      "summary": "Allah created all, is above the Throne; no intercession without His leave—so worship Him.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "رَبَّكُمُ ٱللَّهُ",
+          "translation": "Your Lord is Allah"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "translation": "Created"
+        },
+        {
+          "arabic": "فَٱعْبُدُوهُ",
+          "translation": "So worship Him"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "رَبُّكُمْ",
+          "translation": "your Lord"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        },
+        {
+          "arabic": "وَٱلْأَرْضَ",
+          "translation": "and the earth"
+        }
+      ],
+      "tafsirSummary": "Allah is named as your Lord: He created the heavens and the earth in six days, then rose above the Throne, directing all affairs. Intercession belongs only to Him—no one may intercede except by His leave. The logical conclusion: worship Him alone. The verse ends with a call to remember (tadhakkur).",
+      "lessonReflection": "Tawhīd is not abstract—it is creation, sovereignty, and the exclusive right to be worshipped; remembrance is the bridge between knowing and acting.",
+      "beforeThisAyah": "The previous verse described the messenger's mission; now the surah identifies the Lord who sent him.",
+      "afterThisAyah": "The surah turns to the return to Allah and the outcomes for believers and disbelievers."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًۭا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ ٤",
+      "translation": "To Him is your return all together. The promise of Allāh is truth. Indeed, He begins creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.",
+      "summary": "Return is to Allah; He rewards the righteous and punishes disbelievers.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "مَرْجِعُكُمْ",
+          "translation": "Your return"
+        },
+        {
+          "arabic": "وَعْدَ ٱللَّهِ",
+          "translation": "Promise of Allah"
+        },
+        {
+          "arabic": "ٱلْعَذَابَ",
+          "translation": "Punishment"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلصَّـٰلِحَـٰتِ",
+          "translation": "righteous deeds"
+        },
+        {
+          "arabic": "ءَامَنُوا۟",
+          "translation": "believed"
+        }
+      ],
+      "tafsirSummary": "All return is to Allah—a single, inevitable gathering. His promise is truth. He originates creation and will bring it back to reward the believers who did good with justice, and to requite the disbelievers with scalding drink and painful punishment for their denial.",
+      "lessonReflection": "The Return is a divine promise, not a metaphor; living with that certainty is the basis of accountability and hope.",
+      "beforeThisAyah": "Allah's lordship and exclusive right to worship were established; the verse now states the consequence of that truth.",
+      "afterThisAyah": "The surah presents creation—sun, moon, and time—as signs of the same Lord."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ٥",
+      "translation": "It is He who made the sun a shining light and the moon a derived light and determined for it phases—that you may know the number of years and account of time. Allāh has not created this except in truth. He details the signs for a people who know.",
+      "summary": "Sun and moon as lights and phases; signs for those who know.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلشَّمْسَ",
+          "translation": "Sun"
+        },
+        {
+          "arabic": "ٱلْقَمَرَ",
+          "translation": "Moon"
+        },
+        {
+          "arabic": "ءَايَـٰت",
+          "translation": "Signs"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "the truth"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "translation": "created"
+        }
+      ],
+      "tafsirSummary": "Allah alone made the sun a radiant light and the moon a reflected light, and set for the moon phases so that people may know the count of years and time. All of this is created in truth (bi-l-ḥaqq). He spells out the signs for people who use knowledge.",
+      "lessonReflection": "The order of the cosmos—sun, moon, seasons—is both practical and a sign; those who know are those who read creation as evidence of the Truth.",
+      "beforeThisAyah": "Recompense for believers and disbelievers was stated; the surah now grounds that in the One who created the universe.",
+      "afterThisAyah": "The alternation of night and day and all that Allah created are presented as further signs."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِنَّ فِى ٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَّقُونَ ٦",
+      "translation": "Indeed, in the alternation of the night and the day and what Allāh has created in the heavens and the earth are signs for a people who fear Allāh.",
+      "summary": "Night and day and creation are signs for the God-fearing.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "ٱخْتِلَـٰفِ",
+          "translation": "Alternation"
+        },
+        {
+          "arabic": "لَـَٔايَـٰتٍۢ",
+          "translation": "Signs"
+        },
+        {
+          "arabic": "يَتَّقُونَ",
+          "translation": "Fear (Allah)"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "translation": "created"
+        }
+      ],
+      "tafsirSummary": "The alternation of night and day and everything Allah created in the heavens and the earth are āyāt—signs and lessons—for people who fear Him (yattaqūn). Taqwā here is the attitude that turns creation into evidence and motivation for obedience.",
+      "lessonReflection": "Signs are not only in the Qur'an; the cosmos itself is a book for those who fear Allah and reflect.",
+      "beforeThisAyah": "The sun and moon were described as signs; here the scope widens to all creation.",
+      "afterThisAyah": "The surah describes those who do not hope for the meeting with Allah and are content with this world."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَـٰتِنَا غَـٰفِلُونَ ٧",
+      "translation": "Indeed, those who do not expect the meeting with Us and are satisfied with the life of this world and feel secure therein and those who are heedless of Our signs—",
+      "summary": "Those who do not hope to meet Us and are content with this world.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "لِقَآءَنَا",
+          "translation": "Meeting with Us"
+        },
+        {
+          "arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "translation": "Worldly life"
+        },
+        {
+          "arabic": "غَـٰفِلُونَ",
+          "translation": "Heedless"
+        },
+        {
+          "arabic": "ءَايَـٰت",
+          "translation": "signs"
+        }
+      ],
+      "tafsirSummary": "A sharp description of those who are lost: they do not hope for the meeting with Allah; they are pleased with the life of this world and at ease in it; they are heedless of His signs. Such a combination—no hope of the Hereafter, contentment with the world, and disregard for revelation—leads to the next verse's outcome.",
+      "lessonReflection": "Security in this world and indifference to the signs are a dangerous pair; the meeting with Allah is either hoped for or denied.",
+      "beforeThisAyah": "Signs in creation were shown for those who fear Allah; now the surah contrasts them with those who do not expect the meeting.",
+      "afterThisAyah": "Their abode is declared: the Fire."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ يَكْسِبُونَ ٨",
+      "translation": "For those their refuge will be the Fire because of what they used to earn.",
+      "summary": "Their abode is the Fire for what they earned.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "مَأْوَىٰهُمُ",
+          "translation": "Their refuge"
+        },
+        {
+          "arabic": "ٱلنَّارُ",
+          "translation": "The Fire"
+        },
+        {
+          "arabic": "يَكْسِبُونَ",
+          "translation": "They earn"
+        }
+      ],
+      "tafsirSummary": "The refuge of those described in the previous verse—those who did not hope for the meeting, who were content with the world and heedless of the signs—is the Fire. The cause is what they used to earn (kāsabū): their deeds are the direct cause of their fate.",
+      "lessonReflection": "The Fire is not arbitrary; it is the just outcome of what people chose to earn in the world.",
+      "beforeThisAyah": "The previous verse described those who do not hope for the meeting and are heedless of the signs.",
+      "afterThisAyah": "The surah turns to the opposite outcome: the believers who did good."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَـٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ فِى جَنَّـٰتِ ٱلنَّعِيمِ ٩",
+      "translation": "Indeed, those who have believed and done righteous deeds—their Lord will guide them because of their faith. Beneath them rivers will flow in the Gardens of Pleasure.",
+      "summary": "Believers who did good are guided and have rivers in Gardens of Pleasure.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "ءَامَنُوا۟",
+          "translation": "Believed"
+        },
+        {
+          "arabic": "ٱلصَّـٰلِحَـٰتِ",
+          "translation": "Righteous deeds"
+        },
+        {
+          "arabic": "جَنَّـٰتِ ٱلنَّعِيمِ",
+          "translation": "Gardens of Pleasure"
+        }
+      ],
+      "tafsirSummary": "Believers who did righteous deeds are guided by their Lord because of their faith. Their reward includes rivers flowing beneath them in the Gardens of Bliss (jannāt al-naʿīm). Guidance here is both in this world and in the next—their faith is the cause of their being led to Paradise.",
+      "lessonReflection": "Faith and righteous deeds are not only conditions for entry; they are the means by which the Lord guides the heart to its eternal home.",
+      "beforeThisAyah": "The Fire was named as the abode of the heedless; now the believers' reward is described.",
+      "afterThisAyah": "The surah depicts the believers' state in Paradise—their call and greeting."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ ١٠",
+      "translation": "Their call therein will be, \"Exalted are You, O Allāh,\" and their greeting therein will be, \"Peace.\" And the last of their call will be, \"Praise to Allāh, Lord of the worlds!\"",
+      "summary": "In Paradise their call is glorification and their greeting is Peace; their end is praise to Allah.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "سُبْحَـٰنَكَ",
+          "translation": "Exalted are You"
+        },
+        {
+          "arabic": "سَلَـٰمٌۭ",
+          "translation": "Peace"
+        },
+        {
+          "arabic": "ٱلْحَمْدُ لِلَّهِ",
+          "translation": "Praise to Allah"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        }
+      ],
+      "tafsirSummary": "In Paradise the believers' call is glorification (Subḥānaka Allāhumma) and their greeting is peace (salām). The end of their call is: Praise be to Allah, Lord of the worlds. Their entire existence there is worship, peace, and gratitude—no idle or harmful speech.",
+      "lessonReflection": "Paradise is not only pleasure; it is the perfection of remembrance, peace, and praise—what the heart was made for.",
+      "beforeThisAyah": "The believers were described as guided and given Gardens of Bliss; here their speech and greeting in Paradise are depicted.",
+      "afterThisAyah": "The surah returns to Allah's wisdom in delaying punishment and leaving the rejecters in their transgression."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ ١١",
+      "translation": "And if Allāh was to hasten for the people the evil as He hastens for them the good, their term would have been ended for them. But We leave the ones who do not expect the meeting with Us, in their transgression, wandering blindly.",
+      "summary": "Allah could hasten evil; He leaves those who do not expect meeting with Us wandering.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "يُعَجِّلُ",
+          "translation": "Hasten"
+        },
+        {
+          "arabic": "أَجَلُهُمْ",
+          "translation": "Their term"
+        },
+        {
+          "arabic": "يَعْمَهُونَ",
+          "translation": "Wandering blindly"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "If Allah were to hasten evil for people as they hasten good, their term would already be ended. Instead He leaves those who do not expect the meeting with Him in their transgression, wandering blindly—giving them time to repent, but they persist in error.",
+      "lessonReflection": "Allah's delay of punishment is mercy and a respite; to use it to persist in transgression is to store up a worse reckoning.",
+      "beforeThisAyah": "Paradise was described for the believers; now the surah contrasts Allah's wisdom in dealing with those who do not hope for the meeting.",
+      "afterThisAyah": "The fickle nature of man is described: he calls on Allah in hardship then forgets when relieved."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَإِذَا مَسَّ ٱلْإِنسَـٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًۭا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّۢ مَّسَّهُۥ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ ١٢",
+      "translation": "And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues as if he had never called upon Us. Thus is made pleasing to the transgressors that which they have been doing.",
+      "summary": "Man calls on Us in hardship then forgets when relieved; so is the way of the transgressors.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "ضُرُّ",
+          "translation": "Affliction"
+        },
+        {
+          "arabic": "دَعَانَا",
+          "translation": "Calls upon Us"
+        },
+        {
+          "arabic": "ٱلْمُسْرِفِينَ",
+          "translation": "Transgressors"
+        }
+      ],
+      "tafsirSummary": "When affliction touches a person, he calls on Allah from his side, sitting or standing. When Allah removes the affliction, he goes on as if he had never called. Thus Allah makes their deeds seem fair to the transgressors—their ingratitude and forgetfulness are part of their punishment.",
+      "lessonReflection": "Crisis often brings us to our knees; the test is whether we remain close when the crisis passes.",
+      "beforeThisAyah": "Allah's wisdom in leaving the rejecters to wander was stated; now the surah describes the pattern of human ingratitude.",
+      "afterThisAyah": "Past generations are recalled: they were destroyed when they wronged and rejected their messengers."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ ۙ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ ١٣",
+      "translation": "And We had already destroyed generations before you when they wronged, and their messengers had come to them with clear proofs, but they were not to believe. Thus do We recompense the criminal people.",
+      "summary": "Past generations were destroyed after wronging and rejecting their messengers.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "أَهْلَكْنَا",
+          "translation": "We destroyed"
+        },
+        {
+          "arabic": "ٱلْقُرُونَ",
+          "translation": "Generations"
+        },
+        {
+          "arabic": "ٱلْمُجْرِمِينَ",
+          "translation": "Criminals"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        }
+      ],
+      "tafsirSummary": "Allah destroyed generations before the people of Mecca when they wronged. Their messengers came with clear proofs, but they would not believe. Thus Allah requites the people who are criminals (mujrimūn)—the pattern is consistent so that the present generation may take heed.",
+      "lessonReflection": "History is not random; the same pattern of rejection and destruction repeats until we learn.",
+      "beforeThisAyah": "The pattern of man calling in hardship then forgetting was described; now the fate of past nations is stated.",
+      "afterThisAyah": "The current generation is told they were made successors in the land so that Allah may see how they act."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "ثُمَّ جَعَلْنَـٰكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ ١٤",
+      "translation": "Then We made you successors in the land after them so that We may observe how you will do.",
+      "summary": "You were made successors so We may see how you act.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "خَلَـٰٓئِفَ",
+          "translation": "Successors"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "The earth"
+        },
+        {
+          "arabic": "تَعْمَلُونَ",
+          "translation": "You do"
+        }
+      ],
+      "tafsirSummary": "After destroying the former nations, Allah made the addressees successors (khalāʾif) in the land—to observe how they would act. The succession is both a trust and a test; they are accountable for what they do with it.",
+      "lessonReflection": "We are not the first; we are successors. What we do with the land and the message will be observed and judged.",
+      "beforeThisAyah": "Past generations were destroyed for wronging and rejecting their messengers; now the present one is placed in their stead.",
+      "afterThisAyah": "The demand of the rejecters for a different Qur'an or changes is reported, and the Prophet's response is given."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ ١٥",
+      "translation": "And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, \"Bring us a Qur'ān other than this or change it.\" Say, \"It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+      "summary": "They ask for another Qur'an or changes; the Prophet only follows revelation and fears his Lord.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "ءَايَاتُنَا",
+          "translation": "Our verses"
+        },
+        {
+          "arabic": "يُوحَىٰٓ",
+          "translation": "Is revealed"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "Punishment"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        }
+      ],
+      "tafsirSummary": "When Our clear verses are recited, those who do not expect the meeting with Us say: bring another Qur'an or change this one. The Prophet is told to say: I have no right to change it on my own; I only follow what is revealed to me; I fear the punishment of a tremendous Day if I disobey my Lord.",
+      "lessonReflection": "Revelation is not negotiable; the messenger's role is to convey, not to alter—and to fear the One who sent it.",
+      "beforeThisAyah": "The people were made successors to see how they act; now their demand for a different scripture is addressed.",
+      "afterThisAyah": "The Prophet is told to say that if Allah had willed he would not have recited the Qur'an to them."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ ١٦",
+      "translation": "Say, \"If Allāh had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?\"",
+      "summary": "If Allah willed, the Prophet would not have recited it; he lived among them before revelation.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "شَآءَ ٱللَّهُ",
+          "translation": "Allah had willed"
+        },
+        {
+          "arabic": "تَلَوْتُهُۥ",
+          "translation": "Recited it"
+        },
+        {
+          "arabic": "تَعْقِلُونَ",
+          "translation": "Reason"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "The Prophet is told to say: If Allah had willed, I would not have recited it to you nor made it known to you; I lived among you a lifetime before it—so will you not reason? His life before prophethood is proof that the Qur'an is not his own composition.",
+      "lessonReflection": "The Prophet's known character and the sudden change with revelation are themselves a sign for those who reason.",
+      "beforeThisAyah": "The Prophet declared he only follows revelation and fears his Lord; now he is given another argument from his own history.",
+      "afterThisAyah": "The surah asks who is more unjust than those who fabricate lies about Allah or deny His signs."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ ١٧",
+      "translation": "So who is more unjust than he who invents a lie about Allāh or denies His signs? Indeed, the criminals will not succeed.",
+      "summary": "None more unjust than those who fabricate lies about Allah or deny His signs.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "ٱفْتَرَىٰ",
+          "translation": "Invented"
+        },
+        {
+          "arabic": "كَذَّبَ",
+          "translation": "Denied"
+        },
+        {
+          "arabic": "ٱلْمُجْرِمُونَ",
+          "translation": "Criminals"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Who is more unjust than he who invents a lie against Allah or denies His signs? The criminals (mujrimūn) will not succeed (lā yufliḥūn)—their denial does not change the truth; it only seals their fate.",
+      "lessonReflection": "Fabricating against Allah or denying His signs is the height of injustice; success belongs to the truthful and the believers.",
+      "beforeThisAyah": "The Prophet's pre-revelation life was cited as evidence; now the gravity of denying or lying about the signs is stated.",
+      "afterThisAyah": "The idolaters' worship of what neither harms nor benefits, and their claim of intercessors, are refuted."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَـٰٓؤُلَآءِ شُفَعَـٰٓؤُنَا عِندَ ٱللَّهِ ۚ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ ١٨",
+      "translation": "And they worship other than Allāh that which neither harms them nor benefits them, and they say, \"These are our intercessors with Allāh.\" Say, \"Do you inform Allāh of something He does not know in the heavens or on the earth?\" Exalted is He and high above what they associate with Him.",
+      "summary": "They worship what neither harms nor benefits and call them intercessors; Allah is above association.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "يَعْبُدُونَ",
+          "translation": "They worship"
+        },
+        {
+          "arabic": "شُفَعَـٰٓؤُنَا",
+          "translation": "Our intercessors"
+        },
+        {
+          "arabic": "يُشْرِكُونَ",
+          "translation": "They associate"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        }
+      ],
+      "tafsirSummary": "They worship besides Allah what neither harms nor benefits them, and say: these are our intercessors with Allah. The Prophet is told to say: do you inform Allah of something He does not know in the heavens or the earth? He is exalted and high above what they associate with Him.",
+      "lessonReflection": "Worship of powerless idols and the claim that they intercede with Allah are both false; Allah is above all association.",
+      "beforeThisAyah": "The injustice of lying about Allah or denying His signs was stated; now the futility of shirk is exposed.",
+      "afterThisAyah": "The surah recalls that mankind was one community then differed, and that Allah's prior word defers judgment."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ ١٩",
+      "translation": "And mankind was not but one community, but they differed. And if not for a word that preceded from your Lord, it would have been judged between them concerning that over which they differ.",
+      "summary": "People were one community then differed; Allah's prior decree defers judgment.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "أُمَّةًۭ وَٰحِدَةًۭ",
+          "translation": "One community"
+        },
+        {
+          "arabic": "ٱخْتَلَفُوا۟",
+          "translation": "They differed"
+        },
+        {
+          "arabic": "كَلِمَةٌۭ",
+          "translation": "Word"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        }
+      ],
+      "tafsirSummary": "Mankind was but one community (umma wāḥida), then they differed. Had it not been for a word that preceded from your Lord, they would have been judged immediately regarding their differences. Allah's decree gives them respite until an appointed term.",
+      "lessonReflection": "Difference among people is old; what holds back immediate judgment is Allah's prior decree of respite, not His ignorance or indifference.",
+      "beforeThisAyah": "Shirk was refuted; now the origin of human difference and the deferral of judgment are stated.",
+      "afterThisAyah": "The demand for a sign from the Lord is reported, and the Prophet is told to say the unseen is only with Allah."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌۭ مَّن رَّبِّهِۦ ۖ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ ٢٠",
+      "translation": "And they say, \"Why is a sign not sent down to him from his Lord?\" So say, \"The unseen is only for Allāh, so wait; indeed, I am with you among those who wait.\"",
+      "summary": "They demand a sign; the unseen belongs to Allah—wait, as the Prophet waits with them.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "ءَايَةٌۭ",
+          "translation": "Sign"
+        },
+        {
+          "arabic": "ٱلْغَيْبُ",
+          "translation": "The unseen"
+        },
+        {
+          "arabic": "ٱنتَظِرُوٓا۟",
+          "translation": "Wait"
+        }
+      ],
+      "tafsirSummary": "They say: why is a sign not sent down to him from his Lord? The Prophet is told to say: the unseen belongs only to Allah, so wait; I am with you among those who wait. The timing and form of signs are with Allah; the messenger does not control the unseen.",
+      "lessonReflection": "Demanding signs on demand confuses the role of messenger and Lord; patience and waiting are the response.",
+      "beforeThisAyah": "The one community and the deferred judgment were stated; now the demand for a sign is addressed.",
+      "afterThisAyah": "When people receive mercy after hardship, they scheme against Our verses—and Allah is swifter in strategy."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌۭ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ ٢١",
+      "translation": "And when We give the people a taste of mercy after adversity has touched them, at once they conspire against Our verses. Say, \"Allāh is swifter in strategy.\" Indeed, Our messengers record that which you conspire.",
+      "summary": "After mercy they scheme against Our verses; Allah is swifter and angels record.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "رَحْمَةًۭ",
+          "translation": "Mercy"
+        },
+        {
+          "arabic": "مَّكْرٌۭ",
+          "translation": "Strategy/conspiracy"
+        },
+        {
+          "arabic": "يَكْتُبُونَ",
+          "translation": "Record"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلنَّاسَ",
+          "translation": "mankind"
+        },
+        {
+          "arabic": "رُسُلَنَا",
+          "translation": "Our messengers"
+        }
+      ],
+      "tafsirSummary": "When Allah gives people a taste of mercy after adversity, they at once scheme (makr) against Our verses. The Prophet is told to say: Allah is swifter in strategy. And Our messengers—the angels—record what they scheme. No plot escapes Allah.",
+      "lessonReflection": "Mercy after hardship is a test; to respond with schemes against the verses is to invite a swifter, recorded reckoning.",
+      "beforeThisAyah": "The Prophet was told to say the unseen is with Allah and to wait; now the response of people to mercy is described.",
+      "afterThisAyah": "Allah's favour in enabling travel on land and sea is described, and the scene of distress at sea and sincere supplication."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍۢ طَيِّبَةٍۢ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌۭ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍۢ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ ٢٢",
+      "translation": "It is He who enables you to travel on land and sea until, when you are in ships and they sail by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, \"If You should save us from this, we will surely be among the thankful.\"",
+      "summary": "He enables travel; in danger at sea people call on Allah sincerely.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "يُسَيِّرُكُمْ",
+          "translation": "Enables you to travel"
+        },
+        {
+          "arabic": "دَعَوُا۟ ٱللَّهَ",
+          "translation": "They call upon Allah"
+        },
+        {
+          "arabic": "ٱلشَّـٰكِرِينَ",
+          "translation": "Thankful"
+        },
+        {
+          "arabic": "ٱلْفُلْكِ",
+          "translation": "the ship"
+        }
+      ],
+      "tafsirSummary": "Allah is the one who enables travel on land and sea. When they are in ships with a favourable wind and rejoice, a storm comes and waves from every side, and they think they are encompassed—then they call upon Allah, sincere to Him in religion: if You save us from this we will be among the thankful. Creation and crisis both point to Him.",
+      "lessonReflection": "Travel, safety, and danger are in His hand; the moment of desperation often produces the sincerity that should have been constant.",
+      "beforeThisAyah": "People's scheming after receiving mercy was described; now a vivid sign is given: travel and danger at sea.",
+      "afterThisAyah": "But when He saves them, they again commit injustice on earth without right."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۗ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم ۖ مَّتَـٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ٢٣",
+      "translation": "But when He saves them, at once they commit injustice upon the earth without right. O mankind, your injustice is only against yourselves, the enjoyment of worldly life. Then to Us is your return, and We will inform you of what you used to do.",
+      "summary": "Once saved they wrong others; wrongdoing harms the self; return is to Us.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "يَبْغُونَ",
+          "translation": "They commit injustice"
+        },
+        {
+          "arabic": "مَرْجِعُكُمْ",
+          "translation": "Your return"
+        },
+        {
+          "arabic": "تُنَبِّئُكُم",
+          "translation": "We will inform you"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "the truth"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "When He saves them, they immediately commit injustice (baghy) on earth without right. O mankind, your injustice is only against your own souls—it is the enjoyment of the life of this world. Then to Us is your return and We will inform you of what you used to do. The warning is direct: wrongdoing harms the self.",
+      "lessonReflection": "Rescue does not guarantee gratitude or reform; injustice after mercy is self-harm and will be answered at the Return.",
+      "beforeThisAyah": "The scene at sea—sincere supplication when in danger—was described; now the relapse after rescue is shown.",
+      "afterThisAyah": "The parable of worldly life as rain, growth, and sudden harvest is given."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَـٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَـٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًۭا فَجَعَلْنَـٰهَا حَصِيدًۭا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَتَفَكَّرُونَ ٢٤",
+      "translation": "The example of worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb—from which men and livestock eat—until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.",
+      "summary": "Worldly life is like rain and growth then sudden harvest; signs for those who reflect.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "مَثَلُ",
+          "translation": "Example"
+        },
+        {
+          "arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "translation": "Worldly life"
+        },
+        {
+          "arabic": "ءَايَـٰت",
+          "translation": "Signs"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "The likeness of the life of this world is rain We send down; the plants of the earth mingle with it; people and cattle eat from it; the earth takes its adornment and people suppose they have power over it—then Our command comes by night or day and We make it stubble as if it had not flourished yesterday. So We detail the signs for people who reflect.",
+      "lessonReflection": "Worldly life is fleeting and subject to Allah's command; reflection on this parable strips away false security.",
+      "beforeThisAyah": "After rescue, people's return to injustice was described; now worldly life itself is likened to a brief, fragile growth.",
+      "afterThisAyah": "Allah invites to the Home of Peace and guides whom He wills to a straight path."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ ٢٥",
+      "translation": "And Allāh invites to the Home of Peace and guides whom He wills to a straight path.",
+      "summary": "Allah invites to the Abode of Peace and guides whom He wills to the straight path.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "دَارِ ٱلسَّلَـٰمِ",
+          "translation": "Home of Peace"
+        },
+        {
+          "arabic": "يَهْدِى",
+          "translation": "Guides"
+        },
+        {
+          "arabic": "صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+          "translation": "Straight path"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Allah invites to the Home of Peace (dār al-salām)—Paradise—and guides whom He wills to a straight path. The invitation is universal; the guidance is by His will. The path is clear for those He chooses to guide.",
+      "lessonReflection": "The invitation is to the Home of Peace; the straight path is a gift of guidance—our part is to respond and follow.",
+      "beforeThisAyah": "The parable of worldly life as fleeting growth was given; now the alternative is stated: the Home of Peace and the straight path.",
+      "afterThisAyah": "The reward of those who did good and the recompense of those who did evil are contrasted."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "۞ لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌۭ ۖ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌۭ وَلَا ذِلَّةٌ ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ ٢٦",
+      "translation": "For them who have done good is the best reward—and extra. No darkness will cover their faces, nor humiliation. Those are companions of Paradise; they will abide therein eternally.",
+      "summary": "Those who did good receive the best and more; they are the people of Paradise forever.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "أَحْسَنُوا۟",
+          "translation": "Did good"
+        },
+        {
+          "arabic": "ٱلْحُسْنَىٰ",
+          "translation": "The best"
+        },
+        {
+          "arabic": "أَصْحَـٰبُ ٱلْجَنَّةِ",
+          "translation": "Companions of Paradise"
+        },
+        {
+          "arabic": "ٱلْجَنَّةِ",
+          "translation": "Paradise"
+        }
+      ],
+      "tafsirSummary": "For those who did good (aḥsanū) there is the best reward (al-ḥusnā) and more. No gloom will cover their faces nor humiliation. They are the companions of the Garden, abiding there forever. The \"and more\" (ziyāda) is the vision of Allah—the greatest increase.",
+      "lessonReflection": "Good is repaid with the best and more; the faces of the people of the Garden are free of shame and darkness.",
+      "beforeThisAyah": "Allah invited to the Home of Peace and the straight path; now the outcome for the doers of good is stated.",
+      "afterThisAyah": "The opposite outcome—for those who earned evil deeds—is described."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌۭ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍۢ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًۭا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ ٢٧",
+      "translation": "But they who have earned evil doings—the recompense of an evil deed is its equivalent, and humiliation will cover them. They will have from Allāh no protector. It will be as if their faces are covered with pieces of the night—so dark. Those are the companions of the Fire; they will abide therein eternally.",
+      "summary": "Evildoers get like for like and humiliation; they are people of the Fire forever.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلسَّيِّـَٔاتِ",
+          "translation": "Evil doings"
+        },
+        {
+          "arabic": "ذِلَّةٌۭ",
+          "translation": "Humiliation"
+        },
+        {
+          "arabic": "أَصْحَـٰبُ ٱلنَّارِ",
+          "translation": "Companions of the Fire"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Those who earned evil deeds receive the recompense of an evil like it; humiliation covers them; they have no protector from Allah; their faces are as if covered with strips of dark night. They are the companions of the Fire, abiding there forever. Justice is like for like; the imagery of darkness contrasts with the light of the Garden.",
+      "lessonReflection": "Evil is requited in kind; humiliation and the absence of any protector await—the face reflects the state of the soul.",
+      "beforeThisAyah": "The reward and honour of the people of the Garden were described; now the recompense of the evildoers is stated.",
+      "afterThisAyah": "The Day of Gathering is described: associators are told to remain with their partners, who then disown them."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًۭا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا۟ مَكَانَكُمْ أَنتُمْ وَشُرَكَآؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ وَقَالَ شُرَكَآؤُهُم مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ ٢٨",
+      "translation": "And the Day We will gather them all together—then We will say to those who associated others with Allāh, \"Remain in your place, you and your partners.\" Then We will separate them, and their partners will say, \"You did not used to worship us.",
+      "summary": "On the Day of assembly, associators are told to stay with their partners who disown their worship.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "نَحْشُرُهُمْ",
+          "translation": "We gather them"
+        },
+        {
+          "arabic": "أَشْرَكُوا۟",
+          "translation": "Associated others"
+        },
+        {
+          "arabic": "شُرَكَآؤُكُمْ",
+          "translation": "Your partners"
+        }
+      ],
+      "tafsirSummary": "On the Day We gather them all, We say to those who associated others with Allah: remain in your place, you and your partners. Then We separate them. Their partners say: you did not worship us—so Allah is sufficient as witness between us and you that we were unaware of your worship.",
+      "lessonReflection": "On the Day, the false gods will disown their worshippers; the only witness needed is Allah.",
+      "beforeThisAyah": "The companions of the Fire were described; now the scene of the Gathering and the exposure of shirk is shown.",
+      "afterThisAyah": "The \"partners\" declare they were unaware of being worshipped; Allah is sufficient as witness."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "فَكَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنَنَا وَبَيْنَكُمْ إِن كُنَّا عَنْ عِبَادَتِكُمْ لَغَـٰفِلِينَ ٢٩",
+      "translation": "And sufficient is Allāh as a witness between us and you that we were of your worship unaware.\"",
+      "summary": "Allah is sufficient as witness that they were unaware of being worshipped.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "شَهِيدًۢا",
+          "translation": "Witness"
+        },
+        {
+          "arabic": "عِبَادَتِكُمْ",
+          "translation": "Your worship"
+        },
+        {
+          "arabic": "لَغَـٰفِلِينَ",
+          "translation": "Unaware"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "The false gods say: sufficient is Allah as a witness between us and you—we were unaware of your worship. The idolaters are left with no excuse; the ones they worshipped disown them and Allah is the witness against them.",
+      "lessonReflection": "The gods they invoked will deny them; Allah's witness is sufficient to seal the matter.",
+      "beforeThisAyah": "The associators were told to remain with their partners; the partners disown the worship.",
+      "afterThisAyah": "There every soul is tried for what it sent ahead, and they are returned to Allah their true Master."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍۢ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ ٣٠",
+      "translation": "There, every soul will be put to trial for what it did previously, and they will be returned to Allāh, their master, the Truth, and lost from them is whatever they used to invent.",
+      "summary": "There every soul is tried for its deeds and returned to Allah, the True Master.",
+      "theme": "judgment",
+      "wordHighlights": [
+        {
+          "arabic": "تَبْلُوا۟",
+          "translation": "Is tried"
+        },
+        {
+          "arabic": "مَوْلَىٰهُمُ",
+          "translation": "Their master"
+        },
+        {
+          "arabic": "أَسْلَفَتْ",
+          "translation": "It did previously"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "the truth"
+        }
+      ],
+      "tafsirSummary": "There (hunālika) every soul is tried (tablū) for what it sent ahead; they are returned to Allah, their true Master (mawlāhum al-ḥaqq); and what they used to invent is lost from them. The trial is of deeds; the return is to the only real Master; false claims fall away.",
+      "lessonReflection": "On that Day each soul faces what it did; the only Master is Allah, and all inventions of shirk are lost.",
+      "beforeThisAyah": "The partners declared they were unaware of being worshipped; now the trial and return to Allah are stated.",
+      "afterThisAyah": "The Prophet is told to ask: who provides for you, who controls hearing and sight, who gives life and death, who directs all affairs? They will say Allah—then will you not fear Him?"
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ ٣١",
+      "translation": "Say, \"Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges every matter?\" They will say, \"Allāh,\" so say, \"Then will you not fear Him?\"",
+      "summary": "Who provides and governs? They say Allah—so fear Him.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "يَرْزُقُكُم",
+          "translation": "Provides for you"
+        },
+        {
+          "arabic": "يُدَبِّرُ ٱلْأَمْرَ",
+          "translation": "Arranges the matter"
+        },
+        {
+          "arabic": "تَتَّقُونَ",
+          "translation": "Fear Him"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "The Prophet is told to ask: who provides for you from the heaven and the earth? Who has power over hearing and sight? Who brings the living out of the dead and the dead out of the living? Who directs the affair? They will say: Allah. Then say: so will you not fear Him? The logical conclusion from their own admission is taqwā.",
+      "lessonReflection": "When they acknowledge Allah as Provider and Sovereign, the next step is to fear Him and worship Him alone.",
+      "beforeThisAyah": "Every soul was said to be tried and returned to Allah; now the addressees are asked to acknowledge who sustains and governs.",
+      "afterThisAyah": "That is Allah your Lord, the Truth; beyond truth is only misguidance—so how are you turned away?"
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلْحَقُّ ۖ فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَـٰلُ ۖ فَأَنَّىٰ تُصْرَفُونَ ٣٢",
+      "translation": "For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?",
+      "summary": "Allah is your true Lord; beyond truth is only misguidance.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْحَقُّ",
+          "translation": "The Truth"
+        },
+        {
+          "arabic": "ٱلضَّلَـٰلُ",
+          "translation": "Error"
+        },
+        {
+          "arabic": "تُصْرَفُونَ",
+          "translation": "Averted"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "the truth"
+        }
+      ],
+      "tafsirSummary": "That is Allah, your Lord, the Truth (al-ḥaqq). What is there beyond the truth except error? So how are you averted (tuṣrafūn)? Once the truth is named, deviation is indefensible.",
+      "lessonReflection": "Allah is the Truth; to turn away from Him is to choose misguidance—the verse asks how such aversion is possible.",
+      "beforeThisAyah": "They were led to say Allah and asked will you not fear Him; now He is named as the Truth and their aversion is questioned.",
+      "afterThisAyah": "The word of your Lord is fulfilled against those who transgress: they will not believe."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ ٣٣",
+      "translation": "Thus the word of your Lord has come into effect upon those who defiantly disobeyed—that they will not believe.",
+      "summary": "Your Lord's decree is fulfilled over the defiant: they will not believe.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "كَلِمَتُ رَبِّكَ",
+          "translation": "Word of your Lord"
+        },
+        {
+          "arabic": "فَسَقُوٓا۟",
+          "translation": "Defiantly disobeyed"
+        },
+        {
+          "arabic": "لَا يُؤْمِنُونَ",
+          "translation": "Will not believe"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        }
+      ],
+      "tafsirSummary": "Thus the word of your Lord has come true against those who transgressed (fasaqū)—that they would not believe. Their persistent transgression leads to the divine decree that they will not believe; the heart is sealed as a consequence of their choices.",
+      "lessonReflection": "Transgression leads to the sealing of the heart; the word of the Lord is fulfilled—belief is then no longer possible for them.",
+      "beforeThisAyah": "Allah was declared the Truth and their aversion was questioned; now the consequence for the transgressors is stated.",
+      "afterThisAyah": "The Prophet is told to ask: can any of your partners originate creation then repeat it? Only Allah does so."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ ٣٤",
+      "translation": "Say, \"Are there of your partners any who begins creation and then repeats it?\" Say, \"Allāh begins creation and then repeats it, so how are you deluded?\"",
+      "summary": "No partner begins or repeats creation; only Allah—so how are you turned away?",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "يَبْدَؤُا۟ ٱلْخَلْقَ",
+          "translation": "Begins creation"
+        },
+        {
+          "arabic": "يُعِيدُهُۥ",
+          "translation": "Repeats it"
+        },
+        {
+          "arabic": "تُؤْفَكُونَ",
+          "translation": "Deluded"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: among your partners, is there any who begins creation then repeats it? Say: Allah begins creation then repeats it—so how are you deluded (tuʾfakūn)? Creation and resurrection are Allah's alone; the idols have no share in either.",
+      "lessonReflection": "Only Allah originates and restores creation; to ascribe partners to Him in that is sheer delusion.",
+      "beforeThisAyah": "The word of the Lord was said to be fulfilled against the transgressors; now the inability of the partners to create or resurrect is stressed.",
+      "afterThisAyah": "The Prophet is told to ask: who among your partners guides to the truth? Only Allah guides to the truth."
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ ۚ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ ۗ أَفَمَن يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ ۖ فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ ٣٥",
+      "translation": "Say, \"Are there of your partners any who guides to the truth?\" Say, \"Allāh guides to the truth. So is He who guides to the truth more worthy to be followed or he who guides not unless he is guided? Then what is wrong with you—how do you judge?\"",
+      "summary": "Allah alone guides to truth; the one who guides is worthier to be followed.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "يَهْدِى",
+          "translation": "Guides"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "The truth"
+        },
+        {
+          "arabic": "يُتَّبَعَ",
+          "translation": "To be followed"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: among your partners, is there any who guides to the truth? Say: Allah guides to the truth. Is He who guides to the truth more worthy to be followed, or he who does not guide unless he is guided? What is wrong with you—how do you judge? The argument is from reason: follow the one who guides.",
+      "lessonReflection": "Guidance to the truth comes only from Allah; to follow one who cannot guide unless guided is a failure of judgment.",
+      "beforeThisAyah": "Only Allah was said to originate and repeat creation; now guidance to the truth is shown to be His alone.",
+      "afterThisAyah": "Most of them follow only conjecture; conjecture avails nothing against the truth."
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا ۚ إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ ٣٦",
+      "translation": "And most of them follow not except assumption. Indeed, assumption avails not against the truth at all. Indeed, Allāh is Knowing of what they do.",
+      "summary": "Most follow only conjecture; conjecture does not replace truth; Allah knows what they do.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "ظَنًّا",
+          "translation": "Assumption"
+        },
+        {
+          "arabic": "لَا يُغْنِى",
+          "translation": "Avails not"
+        },
+        {
+          "arabic": "عَلِيمٌۢ",
+          "translation": "Knowing"
+        },
+        {
+          "arabic": "ٱلْحَقِّ",
+          "translation": "the truth"
+        }
+      ],
+      "tafsirSummary": "Most of them follow nothing but conjecture (ẓann). Conjecture does not avail against the truth at all. Allah is aware of what they do. Their judgment is not based on revelation or evidence but on guesswork—which cannot replace the truth.",
+      "lessonReflection": "Following conjecture when the truth has come is to choose ignorance; Allah knows every deed.",
+      "beforeThisAyah": "Allah alone was said to guide to the truth; now the state of most people—following conjecture—is described.",
+      "afterThisAyah": "The Qur'an could not have been invented by other than Allah; it confirms what is before it and is a detailed Scripture."
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "وَمَا كَانَ هَـٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ ٣٧",
+      "translation": "And it was not possible for this Qur'ān to be produced by other than Allāh, but it is a confirmation of what was before it and a detailed explanation of the former Scripture, about which there is no doubt, from the Lord of the worlds.",
+      "summary": "The Qur'an could not be invented by other than Allah; it confirms and details the Book.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْقُرْءَانُ",
+          "translation": "The Qur'an"
+        },
+        {
+          "arabic": "تَصْدِيقَ",
+          "translation": "Confirmation"
+        },
+        {
+          "arabic": "رَبِّ ٱلْعَـٰلَمِينَ",
+          "translation": "Lord of the worlds"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْكِتَـٰبِ",
+          "translation": "the Book"
+        }
+      ],
+      "tafsirSummary": "This Qur'an could not have been produced by other than Allah; it is a confirmation of what was before it and a detailed exposition of the Book—there is no doubt in it—from the Lord of the worlds. Its source, consistency with earlier revelation, and clarity are all evidence of divine origin.",
+      "lessonReflection": "The Qur'an's coherence with earlier scriptures and its detail point to a single divine source—not human invention.",
+      "beforeThisAyah": "Most were said to follow conjecture; now the Qur'an is affirmed as from Allah and as confirming and detailing the Book.",
+      "afterThisAyah": "If they say he invented it, let them produce a surah like it and call on whoever they can besides Allah."
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ٣٨",
+      "translation": "Or do they say, \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon whomever you can besides Allāh, if you should be truthful.\"",
+      "summary": "If they say he invented it, let them produce a surah like it.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "ٱفْتَرَىٰهُ",
+          "translation": "Invented it"
+        },
+        {
+          "arabic": "سُورَةٍۢ",
+          "translation": "Surah"
+        },
+        {
+          "arabic": "صَـٰدِقِينَ",
+          "translation": "Truthful"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Do they say he invented it? Say: then bring a surah like it and call on whoever you can besides Allah if you are truthful. The challenge (taḥaddī) is to produce something of the same nature—they cannot, so the claim of invention fails.",
+      "lessonReflection": "The challenge to produce a surah like it has never been met; the Qur'an stands as proof of its own origin.",
+      "beforeThisAyah": "The Qur'an was declared from the Lord of the worlds; now the challenge to the claim of invention is given.",
+      "afterThisAyah": "They denied what they did not encompass in knowledge and whose interpretation had not yet come—as did those before them."
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ ٣٩",
+      "translation": "Rather, they have denied that which they encompass not in knowledge and whose interpretation has not yet come to them. Thus did those before them deny. Then observe how was the end of the wrongdoers.",
+      "summary": "They deny what they do not know and whose outcome they have not seen; so did former peoples.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "كَذَّبُوا۟",
+          "translation": "They denied"
+        },
+        {
+          "arabic": "تَأْوِيلُهُۥ",
+          "translation": "Its interpretation"
+        },
+        {
+          "arabic": "عَـٰقِبَةُ",
+          "translation": "End"
+        },
+        {
+          "arabic": "ٱلظَّـٰلِمِينَ",
+          "translation": "wrongdoers"
+        }
+      ],
+      "tafsirSummary": "Rather they denied what they could not encompass in knowledge and whose interpretation (taʾwīl) had not yet come to them. So did those before them deny. So look at how was the end of the wrongdoers. Denial without knowledge and before the outcome is seen leads to the same fate as past wrongdoers.",
+      "lessonReflection": "To deny what one does not understand, before its meaning is clear, is to join the fate of the wrongdoers of the past.",
+      "beforeThisAyah": "The challenge to produce a surah like it was given; now their denial without knowledge is condemned and the end of wrongdoers is recalled.",
+      "afterThisAyah": "Some of them believe in it and some do not; your Lord is most knowing of the corrupters."
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ ٤٠",
+      "translation": "And of them are those who believe in it, and of them are those who do not believe in it. And your Lord is most knowing of the corrupters.",
+      "summary": "Some believe and some do not; your Lord knows the corrupters.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "Believes"
+        },
+        {
+          "arabic": "أَعْلَمُ",
+          "translation": "Most knowing"
+        },
+        {
+          "arabic": "ٱلْمُفْسِدِينَ",
+          "translation": "Corrupters"
+        }
+      ],
+      "tafsirSummary": "Among them are those who believe in it and among them those who do not believe. Your Lord is most knowing of the corrupters (mufsidīn). The split in response is real; Allah knows who spreads corruption and who does not.",
+      "lessonReflection": "Belief and disbelief divide people; Allah knows the corrupters—we are accountable for which side we choose.",
+      "beforeThisAyah": "They were said to deny without knowledge like those before them; now the division between believers and disbelievers is stated.",
+      "afterThisAyah": "If they deny you, say: my deeds are mine and your deeds are yours; you are free of what I do and I am free of what you do."
+    },
+    {
+      "ayahNumber": 41,
+      "arabic": "وَإِن كَذَّبُوكَ فَقُل لِّى عَمَلِى وَلَكُمْ عَمَلُكُمْ ۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعْمَلُ وَأَنَا۠ بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ ٤١",
+      "translation": "And if they deny you, then say, \"For me are my deeds, and for you are your deeds. You are disassociated from what I do, and I am disassociated from what you do.\"",
+      "summary": "If they deny you: my deeds are mine, yours are yours; we are free of each other's deeds.",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "عَمَلِى",
+          "translation": "My deeds"
+        },
+        {
+          "arabic": "عَمَلُكُمْ",
+          "translation": "Your deeds"
+        },
+        {
+          "arabic": "بَرِيٓـُٔونَ",
+          "translation": "Disassociated"
+        }
+      ],
+      "tafsirSummary": "If they deny you, say: to me my deeds and to you your deeds; you are free of what I do and I am free of what you do. The messenger is not responsible for their rejection; each soul carries its own burden. This is both a declaration of disassociation and a call to accountability.",
+      "lessonReflection": "The messenger delivers the message; he does not carry the burden of those who reject—that is theirs alone.",
+      "beforeThisAyah": "Some believe and some do not; your Lord knows the corrupters; now the Prophet is given the response to denial.",
+      "afterThisAyah": "Among them are those who listen to you—but can you make the deaf hear if they do not reason?"
+    },
+    {
+      "ayahNumber": 42,
+      "arabic": "وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ ۚ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ ٤٢",
+      "translation": "And among them are those who listen to you. But can you cause the deaf to hear, although they will not use reason?",
+      "summary": "Some listen; you cannot make the deaf hear if they do not reason.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "يَسْتَمِعُونَ",
+          "translation": "Listen"
+        },
+        {
+          "arabic": "ٱلصُّمَّ",
+          "translation": "The deaf"
+        },
+        {
+          "arabic": "يَعْقِلُونَ",
+          "translation": "Use reason"
+        }
+      ],
+      "tafsirSummary": "Among them are those who listen to you. But can you make the deaf hear when they do not use reason? The messenger's duty is to convey; he cannot force understanding or belief on those who refuse to reason.",
+      "lessonReflection": "Listening is not enough without reason; the messenger cannot open hearts that choose to stay deaf.",
+      "beforeThisAyah": "The Prophet was told to disassociate his deeds from theirs; now the limits of his ability to guide are stated.",
+      "afterThisAyah": "Among them are those who look at you—but can you guide the blind when they do not see?"
+    },
+    {
+      "ayahNumber": 43,
+      "arabic": "وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ ۚ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ ٤٣",
+      "translation": "And among them are those who look at you. But can you guide the blind although they will not see?",
+      "summary": "Some look at you; you cannot guide the blind if they will not see.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "يَنظُرُ",
+          "translation": "Look"
+        },
+        {
+          "arabic": "ٱلْعُمْىَ",
+          "translation": "The blind"
+        },
+        {
+          "arabic": "تُبْصِرُونَ",
+          "translation": "See"
+        }
+      ],
+      "tafsirSummary": "Among them are those who look at you. But can you guide the blind when they do not see? Physical sight without the will to see the truth is like blindness; guidance requires both the message and the openness to receive it.",
+      "lessonReflection": "The messenger is visible to all, but guidance reaches only those who are willing to see—the blind in heart cannot be forced to see.",
+      "beforeThisAyah": "The deaf who do not reason were mentioned; now the blind who do not see—the messenger cannot force guidance.",
+      "afterThisAyah": "Allah does not wrong people at all; people wrong themselves."
+    },
+    {
+      "ayahNumber": 44,
+      "arabic": "إِنَّ ٱللَّهَ لَا يَظْلِمُ ٱلنَّاسَ شَيْـًۭٔا وَلَـٰكِنَّ ٱلنَّاسَ أَنفُسَهُمْ يَظْلِمُونَ ٤٤",
+      "translation": "Indeed, Allāh does not wrong the people at all, but it is the people who are wronging themselves.",
+      "summary": "Allah does not wrong people; people wrong themselves.",
+      "theme": "judgment",
+      "wordHighlights": [
+        {
+          "arabic": "لَا يَظْلِمُ",
+          "translation": "Does not wrong"
+        },
+        {
+          "arabic": "يَظْلِمُونَ",
+          "translation": "Wrong"
+        },
+        {
+          "arabic": "ٱلنَّاسَ",
+          "translation": "mankind"
+        }
+      ],
+      "tafsirSummary": "Allah does not wrong people in the least; rather it is people who wrong themselves. On the Day of Resurrection no soul will be wronged; each will receive what it earned. The verse removes any excuse that Allah is unjust.",
+      "lessonReflection": "Injustice is not from Allah; we wrong ourselves by our choices—the Day will make that plain.",
+      "beforeThisAyah": "The limits of the messenger's ability to guide the blind were stated; now the principle of divine justice is stated.",
+      "afterThisAyah": "On the Day He gathers them it will seem they tarried but an hour; those who denied the meeting with Allah have lost."
+    },
+    {
+      "ayahNumber": 45,
+      "arabic": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةًۭ مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ ٤٥",
+      "translation": "And on the Day when He will gather them, it will be as if they had not remained but an hour of the day, and they will know each other. Those will have lost who denied the meeting with Allāh and were not guided.",
+      "summary": "On the Day of gathering it will seem like an hour; those who denied meeting Allah have lost.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "يَحْشُرُهُمْ",
+          "translation": "He gathers them"
+        },
+        {
+          "arabic": "خَسِرَ",
+          "translation": "Have lost"
+        },
+        {
+          "arabic": "بِلِقَآءِ ٱللَّهِ",
+          "translation": "Meeting with Allah"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "كَذَّبُوا۟",
+          "translation": "they denied"
+        }
+      ],
+      "tafsirSummary": "On the Day He gathers them it will be as if they had tarried but an hour of the day; they will recognise one another. Those who denied the meeting with Allah and were not guided have lost. Time collapses at the Gathering; the loss of those who denied the meeting is final.",
+      "lessonReflection": "The whole of worldly life will feel like an hour; the real loss is to have denied the meeting with Allah and missed guidance.",
+      "beforeThisAyah": "Allah was said not to wrong people—people wrong themselves; now the Day of Gathering and the loss of the deniers are described.",
+      "afterThisAyah": "Whether We show you part of what We promise them or take you to Ourselves, to Us is their return; Allah is witness over what they do."
+    },
+    {
+      "ayahNumber": 46,
+      "arabic": "وَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا مَرْجِعُهُمْ ثُمَّ ٱللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ ٤٦",
+      "translation": "And whether We show you some of what We promise them, or We take you in death, to Us is their return; then Allāh is a witness concerning what they are doing.",
+      "summary": "Whether you see part of the promise or die, to Us they return; Allah witnesses their deeds.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "مَرْجِعُهُمْ",
+          "translation": "Their return"
+        },
+        {
+          "arabic": "شَهِيدٌ",
+          "translation": "Witness"
+        },
+        {
+          "arabic": "يَفْعَلُونَ",
+          "translation": "They do"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Whether We show you some of what We promise them or We take you in death, to Us is their return; then Allah is witness over what they do. The Prophet may or may not see the punishment in this life; in either case, the people will return to Allah and He is the witness of their deeds.",
+      "lessonReflection": "The messenger may see the promise fulfilled or not; either way, everyone returns to Allah and He witnesses all they did.",
+      "beforeThisAyah": "The loss of those who denied the meeting was stated; now the Prophet is told that their return is to Allah whether or not he sees the promise.",
+      "afterThisAyah": "Every nation has a messenger; when their messenger comes, judgment between them is with justice."
+    },
+    {
+      "ayahNumber": 47,
+      "arabic": "وَلِكُلِّ أُمَّةٍۢ رَّسُولٌۭ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ ٤٧",
+      "translation": "And for every nation is a messenger. So when their messenger comes, it will be judged between them in justice, and they will not be wronged.",
+      "summary": "Every nation has a messenger; when he comes they are judged justly.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "أُمَّةٍۢ",
+          "translation": "Nation"
+        },
+        {
+          "arabic": "رَّسُولٌۭ",
+          "translation": "Messenger"
+        },
+        {
+          "arabic": "ٱلْقِسْطِ",
+          "translation": "Justice"
+        }
+      ],
+      "tafsirSummary": "For every nation there is a messenger. When their messenger comes, it is judged between them with justice and they are not wronged. Universal prophethood and just judgment are stated—no nation is left without a warner, and the judgment is fair.",
+      "lessonReflection": "No nation is without a messenger; when he comes, the judgment is just—so the rejection of the messenger is without excuse.",
+      "beforeThisAyah": "The return of all to Allah and His witnessing were stated; now the principle that every nation has a messenger is given.",
+      "afterThisAyah": "They say: when is this promise, if you are truthful?"
+    },
+    {
+      "ayahNumber": 48,
+      "arabic": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ ٤٨",
+      "translation": "And they say, \"When is this promise, if you should be truthful?\"",
+      "summary": "They ask when the promise will be fulfilled.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْوَعْدُ",
+          "translation": "The promise"
+        },
+        {
+          "arabic": "صَـٰدِقِينَ",
+          "translation": "Truthful"
+        }
+      ],
+      "tafsirSummary": "They say: when is this promise, if you are truthful? The demand for the timing of the promise (the Hour or punishment) is a recurring challenge; the next verse gives the Prophet the answer—he has no power over the term.",
+      "lessonReflection": "Demanding when the promise will be fulfilled ignores that its timing is with Allah, not with the messenger.",
+      "beforeThisAyah": "Every nation was said to have a messenger and to be judged justly; now their demand for the timing of the promise is reported.",
+      "afterThisAyah": "The Prophet is told to say he has no power over harm or benefit except as Allah wills; every nation has a term."
+    },
+    {
+      "ayahNumber": 49,
+      "arabic": "قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ ٤٩",
+      "translation": "Say, \"I possess not for myself any harm or benefit except what Allāh should will. For every nation is a term. When their time has come, then they will not remain behind an hour, nor will they precede it.\"",
+      "summary": "The Prophet has no power over harm or benefit; each nation has an appointed term.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "أَجَلٌ",
+          "translation": "Term"
+        },
+        {
+          "arabic": "أَجَلُهُمْ",
+          "translation": "Their term"
+        },
+        {
+          "arabic": "يَسْتَقْدِمُونَ",
+          "translation": "Precede"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: I have no power over harm or benefit for myself except what Allah wills. For every nation there is a term; when their term comes they will not delay or advance an hour. The Prophet does not control the timing of punishment or death; each community has an appointed term.",
+      "lessonReflection": "The messenger does not control the term; his role is to convey—the when is with Allah alone.",
+      "beforeThisAyah": "They asked when the promise would be; now the Prophet is given the response: the term is with Allah.",
+      "afterThisAyah": "Say: if His punishment came by night or day, which part would the guilty seek to hasten?"
+    },
+    {
+      "ayahNumber": 50,
+      "arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَـٰتًا أَوْ نَهَارًۭا مَّاذَا يَسْتَعْجِلُ مِنْهُ ٱلْمُجْرِمُونَ ٥٠",
+      "translation": "Say, \"Have you considered: if His punishment should come to you by night or by day—for which aspect of it would the criminals be impatient?\"",
+      "summary": "If His punishment comes by night or day, what part do the guilty seek to hasten?",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "عَذَابُهُۥ",
+          "translation": "His punishment"
+        },
+        {
+          "arabic": "ٱلْمُجْرِمُونَ",
+          "translation": "Criminals"
+        },
+        {
+          "arabic": "يَسْتَعْجِلُ",
+          "translation": "Be impatient"
+        }
+      ],
+      "tafsirSummary": "Say: have you considered—if His punishment comes upon you by night or by day, what part of it would the guilty seek to hasten? The question exposes the absurdity of demanding the promise: when it comes there is no escaping it, so why rush toward it?",
+      "lessonReflection": "To demand the punishment is to hasten what one cannot control; when it comes, there is no reprieve.",
+      "beforeThisAyah": "The Prophet said he has no power over the term; now he is told to ask what part of the punishment they would hasten.",
+      "afterThisAyah": "Then will they believe when it comes? But they used to ask for it to be hastened."
+    },
+    {
+      "ayahNumber": 51,
+      "arabic": "أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٔـٰنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ ٥١",
+      "translation": "Then is it that when it has actually occurred you will believe in it? Now? And you were once for it impatient.",
+      "summary": "When it befalls, will you then believe? Now, when you had been demanding it.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "وَقَعَ",
+          "translation": "Occurred"
+        },
+        {
+          "arabic": "ءَامَنتُم",
+          "translation": "You believe"
+        },
+        {
+          "arabic": "تَسْتَعْجِلُونَ",
+          "translation": "Impatient"
+        }
+      ],
+      "tafsirSummary": "Then will they believe when it comes? But they used to ask for it to be hastened. When the punishment actually arrives, belief then is of no avail; they had already been asking for it to be hastened in mockery—so the timing is not in their favour.",
+      "lessonReflection": "Belief at the moment of punishment is too late; those who mocked by asking for it to be hastened will get what they asked for.",
+      "beforeThisAyah": "The Prophet was told to ask what part of the punishment the guilty would hasten; now the futility of believing only when it comes is stated.",
+      "afterThisAyah": "It will be said to those who wronged: taste the lasting punishment—are you recompensed except for what you earned?"
+    },
+    {
+      "ayahNumber": 52,
+      "arabic": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ ٥٢",
+      "translation": "Then it will be said to those who had wronged, \"Taste the punishment of eternity; are you being recompensed except for what you used to earn?\"",
+      "summary": "The wrongdoers are told to taste everlasting punishment—recompense for what they earned.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "عَذَابَ ٱلْخُلْدِ",
+          "translation": "Punishment of eternity"
+        },
+        {
+          "arabic": "تُجْزَوْنَ",
+          "translation": "Recompensed"
+        },
+        {
+          "arabic": "تَكْسِبُونَ",
+          "translation": "Earn"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        }
+      ],
+      "tafsirSummary": "Then it will be said to those who did wrong: taste the lasting punishment—are you recompensed except for what you used to earn? The punishment is lasting and is the direct recompense for their earnings; there is no injustice.",
+      "lessonReflection": "The punishment is lasting and is exactly what they earned; the recompense is just.",
+      "beforeThisAyah": "The futility of believing only when punishment comes was stated; now the address to the wrongdoers in the punishment is given.",
+      "afterThisAyah": "They ask: is it real? Say: yes, by my Lord, it is real; you cannot frustrate it."
+    },
+    {
+      "ayahNumber": 53,
+      "arabic": "۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّۭ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ ٥٣",
+      "translation": "And they ask information of you, \"Is it true?\" Say, \"Yes, by my Lord. Indeed, it is truth; and you will not cause failure to Allāh.\"",
+      "summary": "They ask if it is true; say: Yes, by my Lord it is true, and you cannot escape.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "أَحَقٌّ",
+          "translation": "Is it true"
+        },
+        {
+          "arabic": "لَحَقٌّۭ",
+          "translation": "Truth"
+        },
+        {
+          "arabic": "مُعْجِزِينَ",
+          "translation": "Cause failure"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        }
+      ],
+      "tafsirSummary": "They ask you: is it real? Say: yes, by my Lord, it is real, and you cannot frustrate it. Every soul that wronged would then have all that is on earth as ransom. The reality of the punishment is affirmed by the Lord; no soul can buy its way out.",
+      "lessonReflection": "The punishment is real and cannot be averted; when it comes, no ransom will be accepted.",
+      "beforeThisAyah": "The wrongdoers were told to taste the lasting punishment; now the reality of the punishment is affirmed.",
+      "afterThisAyah": "The surah turns to the story of Noah and the prophets."
+    },
+    {
+      "ayahNumber": 54,
+      "arabic": "وَلَوْ أَنَّ لِكُلِّ نَفْسٍۢ ظَلَمَتْ مَا فِى ٱلْأَرْضِ لَٱفْتَدَتْ بِهِۦ ۗ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ ۖ وَقُضِىَ بَيْنَهُم بِٱلْقِسْطِ ۚ وَهُمْ لَا يُظْلَمُونَ ٥٤",
+      "translation": "And if each soul that wronged had everything on earth, it would offer it in ransom. And they will confide regret when they see the punishment; and they will be judged in justice, and they will not be wronged.",
+      "summary": "Wrongdoers would ransom with all on earth when they see the punishment; they are judged justly.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "ٱفْتَدَتْ",
+          "translation": "Ransom"
+        },
+        {
+          "arabic": "ٱلنَّدَامَةَ",
+          "translation": "Regret"
+        },
+        {
+          "arabic": "ٱلْعَذَابَ",
+          "translation": "The punishment"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        }
+      ],
+      "tafsirSummary": "If every soul that wronged had all that is on earth, it would offer it as ransom. They will hide their remorse when they see the punishment; it will be judged between them with justice and they will not be wronged. Ransom is refused; remorse is too late; judgment is just.",
+      "lessonReflection": "When the punishment is seen, remorse is useless and ransom is refused; justice is done.",
+      "beforeThisAyah": "The reality of the punishment was affirmed; now the impossibility of ransom and the just judgment are stated.",
+      "afterThisAyah": "To Allah belongs all that is in the heavens and the earth; His promise is true—but most do not know."
+    },
+    {
+      "ayahNumber": 55,
+      "arabic": "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ ٥٥",
+      "translation": "Unquestionably, to Allāh belongs whatever is in the heavens and the earth. Unquestionably, the promise of Allāh is truth, but most of them do not know.",
+      "summary": "To Allah belongs all in the heavens and earth; Allah's promise is true, but most do not know.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "لِلَّهِ",
+          "translation": "To Allah"
+        },
+        {
+          "arabic": "وَعْدَ ٱللَّهِ",
+          "translation": "Promise of Allah"
+        },
+        {
+          "arabic": "حَقٌّۭ",
+          "translation": "Truth"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        }
+      ],
+      "tafsirSummary": "To Allah belongs all that is in the heavens and the earth. The promise of Allah is true—but most of them do not know. Everything is His; His promise of resurrection and recompense is true; the ignorance of most does not change that.",
+      "lessonReflection": "All creation belongs to Allah and His promise is truth; that most people do not know does not alter the fact.",
+      "beforeThisAyah": "Ransom and remorse were described; now the dominion of Allah and the truth of His promise are stated.",
+      "afterThisAyah": "He gives life and causes death, and to Him you will be returned."
+    },
+    {
+      "ayahNumber": 56,
+      "arabic": "هُوَ يُحْىِۦ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ ٥٦",
+      "translation": "He gives life and causes death, and to Him you will be returned.",
+      "summary": "He gives life and death; to Him you are returned.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "يُحْىِۦ",
+          "translation": "Gives life"
+        },
+        {
+          "arabic": "يُمِيتُ",
+          "translation": "Causes death"
+        },
+        {
+          "arabic": "تُرْجَعُونَ",
+          "translation": "Returned"
+        }
+      ],
+      "tafsirSummary": "He gives life and causes death, and to Him you will be returned. Life, death, and return are in Allah's hand alone—the basis of tawhīd and accountability.",
+      "lessonReflection": "Life, death, and return are all with Him; to acknowledge that is to acknowledge the basis of faith.",
+      "beforeThisAyah": "All that is in the heavens and earth was said to belong to Allah and His promise to be true; now life, death, and return are stated.",
+      "afterThisAyah": "O mankind, there has come to you an exhortation from your Lord and a cure for what is in the breasts."
+    },
+    {
+      "ayahNumber": 57,
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ ٥٧",
+      "translation": "O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers.",
+      "summary": "There has come to you admonition, healing, guidance and mercy for the believers.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "مَّوْعِظَةٌۭ",
+          "translation": "Admonition"
+        },
+        {
+          "arabic": "شِفَآءٌۭ",
+          "translation": "Healing"
+        },
+        {
+          "arabic": "رَحْمَةٌۭ",
+          "translation": "Mercy"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        }
+      ],
+      "tafsirSummary": "O mankind, there has come to you an exhortation (mawʿiẓa) from your Lord, and a cure for what is in the breasts, and guidance and mercy for the believers. The Qur'an is counsel, healing, guidance, and mercy—each dimension addresses a need.",
+      "lessonReflection": "The Qur'an is exhortation, cure, guidance, and mercy; the heart that receives it finds healing and direction.",
+      "beforeThisAyah": "Life, death, and return were stated; now the Qur'an is presented as exhortation, cure, and mercy.",
+      "afterThisAyah": "Say: in the bounty of Allah and in His mercy—in that let them rejoice."
+    },
+    {
+      "ayahNumber": 58,
+      "arabic": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ ٥٨",
+      "translation": "Say, \"In the bounty of Allāh and in His mercy—in that let them rejoice; it is better than what they accumulate.\"",
+      "summary": "Let them rejoice in Allah's bounty and mercy; that is better than what they amass.",
+      "theme": "mercy",
+      "wordHighlights": [
+        {
+          "arabic": "فَضْلِ ٱللَّهِ",
+          "translation": "Bounty of Allah"
+        },
+        {
+          "arabic": "رَحْمَتِهِۦ",
+          "translation": "His mercy"
+        },
+        {
+          "arabic": "يَفْرَحُوا۟",
+          "translation": "Rejoice"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: in the bounty of Allah and in His mercy—in that let them rejoice. It is better than what they accumulate. The believers are told to rejoice in Allah's bounty and mercy rather than in worldly gain.",
+      "lessonReflection": "Rejoicing in Allah's bounty and mercy is greater than rejoicing in what we pile up of the world.",
+      "beforeThisAyah": "The Qur'an was described as exhortation, cure, and mercy; now the believers are told to rejoice in Allah's bounty and mercy.",
+      "afterThisAyah": "Say: have you considered the provision Allah has sent down? You have made some of it unlawful and some lawful."
+    },
+    {
+      "ayahNumber": 59,
+      "arabic": "قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍۢ فَجَعَلْتُم مِّنْهُ حَرَامًۭا وَحَلَـٰلًۭا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ ٥٩",
+      "translation": "Say, \"Have you seen what Allāh has sent down to you of provision of which you have made some lawful and some unlawful?\" Say, \"Has Allāh permitted you, or do you invent about Allāh?\"",
+      "summary": "They make part of Allah's provision unlawful; did Allah permit it or do they invent?",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "رِّزْقٍۢ",
+          "translation": "Provision"
+        },
+        {
+          "arabic": "حَرَامًۭا",
+          "translation": "Unlawful"
+        },
+        {
+          "arabic": "تَفْتَرُونَ",
+          "translation": "Invent"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: have you considered the provision Allah has sent down, of which you have made some unlawful and some lawful? Say: has Allah permitted you, or do you invent against Allah? The question exposes the practice of declaring lawful and unlawful without revelation—inventing against Allah.",
+      "lessonReflection": "To make things lawful or unlawful without Allah's permission is to invent against Him; provision is His to regulate.",
+      "beforeThisAyah": "Rejoicing in Allah's bounty was urged; now the practice of declaring things lawful or unlawful without authority is questioned.",
+      "afterThisAyah": "What will those who invent lies about Allah think on the Day of Resurrection? Allah is bountiful to people but most do not thank."
+    },
+    {
+      "ayahNumber": 60,
+      "arabic": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ ٦٠",
+      "translation": "And what will be the supposition of those who invent falsehood about Allāh on the Day of Resurrection? Indeed, Allāh is the possessor of bounty for the people, but most of them are not grateful.",
+      "summary": "What do those who invent lies about Allah expect on the Day of Resurrection? Most are ungrateful.",
+      "theme": "judgment",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْكَذِبَ",
+          "translation": "Falsehood"
+        },
+        {
+          "arabic": "يَوْمَ ٱلْقِيَـٰمَةِ",
+          "translation": "Day of Resurrection"
+        },
+        {
+          "arabic": "يَشْكُرُونَ",
+          "translation": "Grateful"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "What will those who invent a lie about Allah think on the Day of Resurrection? Allah is bountiful to people, but most of them do not thank. The inventors of falsehood will face the Day; meanwhile Allah's bounty is widespread, yet gratitude is rare.",
+      "lessonReflection": "Inventing lies about Allah will be answered on the Day; His bounty is constant, but thankfulness is not.",
+      "beforeThisAyah": "Making lawful and unlawful without permission was questioned; now the fate of those who invent lies about Allah and the lack of thankfulness are stated.",
+      "afterThisAyah": "The Prophet is told he is not in any occupation nor reciting any scripture nor doing any deed except that We are witness over you."
+    },
+    {
+      "ayahNumber": 61,
+      "arabic": "وَمَا تَكُونُ فِى شَأْنٍۢ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍۢ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ ۚ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍ ٦١",
+      "translation": "And you are not in any matter and do not recite any of the Qur'ān and you do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any part of an atom's weight within the earth or within the heaven or smaller than that or greater but that it is in a clear register.",
+      "summary": "Allah is witness to every matter and deed; nothing is hidden from Him.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "شُهُودًا",
+          "translation": "Witnesses"
+        },
+        {
+          "arabic": "مِّثْقَالِ ذَرَّةٍۢ",
+          "translation": "Weight of an atom"
+        },
+        {
+          "arabic": "كِتَـٰبٍۢ مُّبِينٍ",
+          "translation": "Clear register"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "You are not in any occupation (shughul) nor do you recite any part of the Qur'an nor do you do any deed except that We are witness over you when you are engaged in it. Not a single secret is hidden from your Lord on earth or in heaven. Allah's omniscience covers the messenger and all creation.",
+      "lessonReflection": "Nothing the messenger or any soul does is hidden from Allah; He is witness over all.",
+      "beforeThisAyah": "The inventors of lies and the lack of thankfulness were mentioned; now the Prophet is told that Allah is witness over all he does.",
+      "afterThisAyah": "The friends of the Messenger have no fear nor do they grieve—those who believed and were God-fearing."
+    },
+    {
+      "ayahNumber": 62,
+      "arabic": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ ٦٢",
+      "translation": "Unquestionably, for the allies of Allāh there will be no fear concerning them, nor will they grieve—",
+      "summary": "Allah's allies have no fear nor grief.",
+      "theme": "mercy",
+      "wordHighlights": [
+        {
+          "arabic": "أَوْلِيَآءَ ٱللَّهِ",
+          "translation": "Allies of Allah"
+        },
+        {
+          "arabic": "خَوْفٌ",
+          "translation": "Fear"
+        },
+        {
+          "arabic": "يَحْزَنُونَ",
+          "translation": "Grieve"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Behold, the friends of Allah (awliyāʾ Allāh)—no fear is upon them nor do they grieve. Those who believed and were God-fearing—for them are good tidings in the life of this world and in the Hereafter. The words of Allah do not change; that is the great triumph. The true friends are the believers who fear Him; their reward is in both worlds.",
+      "lessonReflection": "The friends of Allah are the believers who fear Him; they have no fear or grief and receive good tidings in both worlds.",
+      "beforeThisAyah": "Allah was said to be witness over the Prophet and all deeds; now His true friends—the believing, God-fearing—are described.",
+      "afterThisAyah": "The Prophet is told not to let their speech grieve him; might and honour belong entirely to Allah."
+    },
+    {
+      "ayahNumber": 63,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ ٦٣",
+      "translation": "Those who believed and were fearing Allāh.",
+      "summary": "Those who believe and fear Allah.",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "ءَامَنُوا۟",
+          "translation": "Believed"
+        },
+        {
+          "arabic": "يَتَّقُونَ",
+          "translation": "Fear (Allah)"
+        }
+      ],
+      "tafsirSummary": "Let their speech not grieve you. Might and honour belong entirely to Allah; He is the Hearing, the Knowing. The Prophet is comforted: the rejecters' words do not diminish his Lord's might and honour; Allah hears and knows everything.",
+      "lessonReflection": "Grief over the words of the rejecters is unnecessary—might and honour are Allah's; He hears and knows.",
+      "beforeThisAyah": "The friends of Allah were described; now the Prophet is told not to be grieved by the speech of the rejecters.",
+      "afterThisAyah": "To Allah belongs whoever is in the heavens and whoever is on the earth."
+    },
+    {
+      "ayahNumber": 64,
+      "arabic": "لَهُمُ ٱلْبُشْرَىٰ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ ٦٤",
+      "translation": "For them are good tidings in the worldly life and in the Hereafter. No change is there in the words of Allāh. That is what is the great attainment.",
+      "summary": "They have good tidings in this life and the next; Allah's words do not change.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْبُشْرَىٰ",
+          "translation": "Good tidings"
+        },
+        {
+          "arabic": "كَلِمَـٰتِ ٱللَّهِ",
+          "translation": "Words of Allah"
+        },
+        {
+          "arabic": "ٱلْفَوْزُ ٱلْعَظِيمُ",
+          "translation": "Great attainment"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "To Allah belongs whoever is in the heavens and whoever is on the earth. Those who call upon others besides Allah do not follow partners—they follow only conjecture and they only guess. All creation belongs to Allah; the idolaters follow no real partners, only assumption.",
+      "lessonReflection": "Everyone in the heavens and earth belongs to Allah; those who call on others follow only conjecture.",
+      "beforeThisAyah": "The Prophet was told not to grieve; might and honour are Allah's; now all in the heavens and earth are declared His.",
+      "afterThisAyah": "Allah made the night for you to rest in and the day for sight—signs for people who hear."
+    },
+    {
+      "ayahNumber": 65,
+      "arabic": "وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا ۚ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ٦٥",
+      "translation": "And let not their speech grieve you. Indeed, honor belongs to Allāh entirely. He is the Hearing, the Knowing.",
+      "summary": "Do not be grieved by their words; all might belongs to Allah; He is Hearing, Knowing.",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْعِزَّةَ",
+          "translation": "Honor/might"
+        },
+        {
+          "arabic": "ٱلسَّمِيعُ",
+          "translation": "Hearing"
+        },
+        {
+          "arabic": "ٱلْعَلِيمُ",
+          "translation": "Knowing"
+        }
+      ],
+      "tafsirSummary": "Allah made the night for you to rest in and the day for sight. Indeed in that are signs for people who hear. The alternation of night and day is both a mercy and a sign for those who listen and reflect.",
+      "lessonReflection": "Night and day are mercy and evidence; those who hear with the heart find in them signs of the One who made them.",
+      "beforeThisAyah": "All in the heavens and earth were said to belong to Allah; now night and day are given as signs.",
+      "afterThisAyah": "They say Allah has taken a son—He is exalted; He is the Self-Sufficient."
+    },
+    {
+      "ayahNumber": 66,
+      "arabic": "أَلَآ إِنَّ لِلَّهِ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ ۗ وَمَا يَتَّبِعُ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ شُرَكَآءَ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ ٦٦",
+      "translation": "Unquestionably, to Allāh belongs whoever is in the heavens and whoever is on the earth. And those who invoke other than Allāh do not follow His partners. They follow not except assumption, and they are not but misjudging.",
+      "summary": "To Allah belongs all in the heavens and earth; those who call others follow only conjecture.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "شُرَكَآءَ",
+          "translation": "Partners"
+        },
+        {
+          "arabic": "ٱلظَّنَّ",
+          "translation": "Assumption"
+        },
+        {
+          "arabic": "يَخْرُصُونَ",
+          "translation": "Misjudging"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        }
+      ],
+      "tafsirSummary": "To Allah belongs whoever is in the heavens and whoever is on the earth. Those who call on others besides Allah do not follow partners—they follow only conjecture and only guess. The so-called partners have no real existence; the idolaters follow mere assumption.",
+      "lessonReflection": "There are no real partners; the idolaters follow only conjecture and guesswork—all belongs to Allah.",
+      "beforeThisAyah": "Allah was said to be Hearing and Knowing; might and honour His; now all in the heavens and earth are again declared His.",
+      "afterThisAyah": "He made the night for rest and the day for sight—signs for people who hear."
+    },
+    {
+      "ayahNumber": 67,
+      "arabic": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ ٦٧",
+      "translation": "It is He who made for you the night to rest therein and the day, giving sight. Indeed in that are signs for a people who listen.",
+      "summary": "He made night for rest and day for sight; in that are signs for those who hear.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلَّيْلَ",
+          "translation": "Night"
+        },
+        {
+          "arabic": "ٱلنَّهَارَ",
+          "translation": "Day"
+        },
+        {
+          "arabic": "ءَايَـٰتٍۢ",
+          "translation": "Signs"
+        },
+        {
+          "arabic": "وَٱلنَّهَارَ",
+          "translation": "and the day"
+        }
+      ],
+      "tafsirSummary": "He it is who made for you the night to rest in and the day to see. Indeed in that are signs for people who hear. The rhythm of night and day is a mercy and a sign for those who listen to the message of creation.",
+      "lessonReflection": "Night for rest and day for sight are signs for those who hear—creation speaks to the attentive.",
+      "beforeThisAyah": "The idolaters were said to follow only conjecture; now the night and day are again presented as signs.",
+      "afterThisAyah": "They say Allah has taken a son; He is exalted—He is the Self-Sufficient."
+    },
+    {
+      "ayahNumber": 68,
+      "arabic": "قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًۭا ۗ سُبْحَـٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَـٰنٍۭ بِهَـٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ ٦٨",
+      "translation": "They have said, \"Allāh has taken a son.\" Exalted is He; He is the one Free of need. To Him belongs whatever is in the heavens and whatever is in the earth. You have no authority for this claim. Do you say about Allāh that which you do not know?",
+      "summary": "They claim Allah has a son; He is above need; you have no proof for what you say.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "وَلَدًۭا",
+          "translation": "Son"
+        },
+        {
+          "arabic": "سُبْحَـٰنَهُۥ",
+          "translation": "Exalted is He"
+        },
+        {
+          "arabic": "ٱلْغَنِىُّ",
+          "translation": "Free of need"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        }
+      ],
+      "tafsirSummary": "They say Allah has taken a son. Exalted is He; He is the Self-Sufficient (al-ghanī). To Him belongs whatever is in the heavens and whatever is on the earth. You have no authority for this; do you say about Allah what you do not know? The claim of a son is false; Allah has no need and no partner.",
+      "lessonReflection": "Allah is above the need for a son; to ascribe offspring to Him is to speak about Him without knowledge.",
+      "beforeThisAyah": "Night and day were given as signs; now the false claim that Allah has a son is refuted.",
+      "afterThisAyah": "Say: those who invent falsehood about Allah will not succeed."
+    },
+    {
+      "ayahNumber": 69,
+      "arabic": "قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ ٦٩",
+      "translation": "Say, \"Indeed, those who invent falsehood about Allāh will not succeed.\"",
+      "summary": "Those who invent lies about Allah will not succeed.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "يَفْتَرُونَ",
+          "translation": "Invent"
+        },
+        {
+          "arabic": "ٱلْكَذِبَ",
+          "translation": "Falsehood"
+        },
+        {
+          "arabic": "يُفْلِحُونَ",
+          "translation": "Succeed"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Say: those who invent falsehood about Allah will not succeed. They have brief enjoyment in this world, then to Us is their return, then We make them taste the severe punishment for their disbelief. Fabricating against Allah leads to brief enjoyment then severe punishment.",
+      "lessonReflection": "Inventing falsehood about Allah may bring temporary gain, but it leads to failure and severe punishment.",
+      "beforeThisAyah": "The claim of a son was refuted; now the Prophet is told to say that those who invent falsehood about Allah will not succeed.",
+      "afterThisAyah": "Recite to them the story of Noah."
+    },
+    {
+      "ayahNumber": 70,
+      "arabic": "مَتَـٰعٌۭ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ ٧٠",
+      "translation": "For them is brief enjoyment in this world; then to Us is their return; then We will make them taste the severe punishment because they used to disbelieve.",
+      "summary": "Brief enjoyment in the world, then return to Us and severe punishment for their disbelief.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "مَتَـٰعٌۭ",
+          "translation": "Enjoyment"
+        },
+        {
+          "arabic": "مَرْجِعُهُمْ",
+          "translation": "Their return"
+        },
+        {
+          "arabic": "ٱلْعَذَابَ ٱلشَّدِيدَ",
+          "translation": "Severe punishment"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        }
+      ],
+      "tafsirSummary": "For them is brief enjoyment (matāʿ) in the world; then to Us is their return; then We make them taste the severe punishment because they disbelieved. The structure is clear: a short stay, then return, then punishment for their denial.",
+      "lessonReflection": "Worldly enjoyment for the deniers is brief; return and severe punishment are certain.",
+      "beforeThisAyah": "Those who invent falsehood were said not to succeed; now their brief enjoyment and then punishment are stated.",
+      "afterThisAyah": "The story of Noah and his people is recounted."
+    },
+    {
+      "ayahNumber": 71,
+      "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةًۭ ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ ٧١",
+      "translation": "And recite to them the news of Noah, when he said to his people, \"O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you—then I have relied upon Allāh. So resolve upon your plan and your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.\"",
+      "summary": "Noah told his people: if my stay and reminder burden you, I rely on Allah; do your worst.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "نُوحٍ",
+          "translation": "Noah"
+        },
+        {
+          "arabic": "تَذْكِيرِى",
+          "translation": "My reminding"
+        },
+        {
+          "arabic": "تَوَكَّلْتُ",
+          "translation": "I relied"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "شُرَكَآءَ",
+          "translation": "partners"
+        }
+      ],
+      "tafsirSummary": "Recite to them the story of Noah when he said to his people: O my people, if my presence and my reminding you of the signs of Allah are burdensome to you—I have put my trust in Allah. So resolve your plan and your partners, then let your plan not be obscure to you, then carry it out against me and give me no respite. Noah relies on Allah and challenges them to do their worst.",
+      "lessonReflection": "Noah's trust in Allah and his fearless challenge to his people are a model for every caller to the truth.",
+      "beforeThisAyah": "The punishment of those who invent falsehood was stated; now the story of Noah begins.",
+      "afterThisAyah": "If you turn away, I asked you no reward; my reward is only from Allah and I am commanded to be among the Muslims."
+    },
+    {
+      "ayahNumber": 72,
+      "arabic": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ ٧٢",
+      "translation": "And if you turn away—then no payment have I asked of you. My reward is only from Allāh, and I have been commanded to be of the Muslims.\"",
+      "summary": "If you turn away, I asked no wage; my reward is from Allah; I am commanded to submit.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "أَجْرٍ",
+          "translation": "Payment"
+        },
+        {
+          "arabic": "ٱلْمُسْلِمِينَ",
+          "translation": "Those who submit"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "If you turn away, I asked you no reward; my reward is only from Allah, and I have been commanded to be among the Muslims. Noah seeks no wage from them; his reward is with Allah and his duty is to submit.",
+      "lessonReflection": "The messenger seeks no worldly reward; his reward is from Allah and his command is to submit.",
+      "beforeThisAyah": "Noah challenged his people and put his trust in Allah; now he declares he seeks no reward from them.",
+      "afterThisAyah": "They denied him; We saved him and those with him in the ship and made them successors; We drowned those who denied Our signs."
+    },
+    {
+      "ayahNumber": 73,
+      "arabic": "فَكَذَّبُوهُ فَنَجَّيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَـٰهُمْ خَلَـٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ ٧٣",
+      "translation": "And they denied him, so We saved him and those with him in the ship and made them successors, and We drowned those who denied Our signs. Then see how was the end of those who were warned.",
+      "summary": "They denied him; We saved him and his companions in the ship and drowned the deniers.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْفُلْكِ",
+          "translation": "The ship"
+        },
+        {
+          "arabic": "أَغْرَقْنَا",
+          "translation": "We drowned"
+        },
+        {
+          "arabic": "ٱلْمُنذَرِينَ",
+          "translation": "Those who were warned"
+        },
+        {
+          "arabic": "كَذَّبُوا۟",
+          "translation": "they denied"
+        }
+      ],
+      "tafsirSummary": "They denied him, so We saved him and those with him in the ship and made them successors (khalāʾif), and We drowned those who denied Our signs. So see how was the end of those who were warned. Salvation for the believers, destruction for the deniers—the pattern is clear.",
+      "lessonReflection": "Noah and the believers were saved; the deniers were drowned; the end of those who were warned is a lesson for all.",
+      "beforeThisAyah": "Noah said his reward is from Allah; now the denial, the salvation in the ship, and the drowning of the deniers are related.",
+      "afterThisAyah": "Then We sent after him messengers to their peoples with clear proofs; they did not believe in what they had denied before."
+    },
+    {
+      "ayahNumber": 74,
+      "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِۦ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ بِهِۦ مِن قَبْلُ ۚ كَذَٰلِكَ نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ ٧٤",
+      "translation": "Then We sent after him messengers to their peoples, and they came to them with clear proofs. But they were not to believe in that which they had denied before. Thus We seal over the hearts of the transgressors.",
+      "summary": "Later messengers came with clear proofs but they did not believe; thus hearts of transgressors are sealed.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "رُسُلًا",
+          "translation": "Messengers"
+        },
+        {
+          "arabic": "ٱلْبَيِّنَـٰتِ",
+          "translation": "Clear proofs"
+        },
+        {
+          "arabic": "ٱلْمُعْتَدِينَ",
+          "translation": "Transgressors"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        },
+        {
+          "arabic": "كَذَّبُوا۟",
+          "translation": "they denied"
+        }
+      ],
+      "tafsirSummary": "Then We sent after him messengers to their peoples; they came with clear proofs but they would not believe in what they had denied before. Thus We seal the hearts of the transgressors. Persistence in denial after clear proofs leads to the sealing of the heart.",
+      "lessonReflection": "To deny again after clear proofs is to risk the sealing of the heart—the same pattern repeats.",
+      "beforeThisAyah": "Noah's people were drowned and the end of the warned was shown; now the messengers after him and the sealing of hearts are stated.",
+      "afterThisAyah": "Then We sent Moses and Aaron to Pharaoh and his chiefs with Our signs; they were arrogant and were a sinful people."
+    },
+    {
+      "ayahNumber": 75,
+      "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ ٧٥",
+      "translation": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people.",
+      "summary": "Then We sent Moses and Aaron to Pharaoh with Our signs; they were arrogant and criminal.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "مُّوسَىٰ",
+          "translation": "Moses"
+        },
+        {
+          "arabic": "فِرْعَوْنَ",
+          "translation": "Pharaoh"
+        },
+        {
+          "arabic": "ٱسْتَكْبَرُوا۟",
+          "translation": "Behaved arrogantly"
+        }
+      ],
+      "tafsirSummary": "Then We sent after them Moses and Aaron to Pharaoh and his chiefs with Our signs, but they were arrogant (istakbarū) and were a sinful people. Arrogance and sin combined when they faced the clear signs.",
+      "lessonReflection": "Moses and Aaron came with signs; Pharaoh and his people responded with arrogance and sin.",
+      "beforeThisAyah": "The messengers after Noah and the sealing of hearts were described; now Moses and Aaron are sent to Pharaoh.",
+      "afterThisAyah": "When the truth came to them from Us they said: this is clear magic."
+    },
+    {
+      "ayahNumber": 76,
+      "arabic": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَـٰذَا لَسِحْرٌۭ مُّبِينٌۭ ٧٦",
+      "translation": "So when there came to them the truth from Us, they said, \"Indeed, this is obvious magic.\"",
+      "summary": "When the truth came from Us they said it was clear magic.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْحَقُّ",
+          "translation": "The truth"
+        },
+        {
+          "arabic": "سِحْرٌۭ",
+          "translation": "Magic"
+        },
+        {
+          "arabic": "مُّبِينٌۭ",
+          "translation": "Obvious"
+        }
+      ],
+      "tafsirSummary": "When the truth came to them from Us they said: this is clear magic. The same response as with the Qur'an—dismissing the truth as magic when it does not suit them.",
+      "lessonReflection": "Calling the truth magic is the repeated response of those who refuse to submit.",
+      "beforeThisAyah": "Pharaoh and his people were arrogant and sinful; when the truth came they called it magic.",
+      "afterThisAyah": "Moses said: do you say this about the truth when it has come to you? Is this magic? The magicians do not succeed."
+    },
+    {
+      "ayahNumber": 77,
+      "arabic": "قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلْحَقِّ لَمَّا جَآءَكُمْ ۖ أَسِحْرٌ هَـٰذَا وَلَا يُفْلِحُ ٱلسَّـٰحِرُونَ ٧٧",
+      "translation": "Moses said, \"Do you say thus about the truth when it has come to you? Is this magic? But magicians will not succeed.\"",
+      "summary": "Moses said: Do you call the truth magic? Magicians do not succeed.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلسَّـٰحِرُونَ",
+          "translation": "Magicians"
+        },
+        {
+          "arabic": "يُفْلِحُ",
+          "translation": "Succeed"
+        }
+      ],
+      "tafsirSummary": "Moses said: do you say this about the truth when it has come to you? Is this magic? The magicians will not succeed. Moses turns their accusation back: the truth is truth; magic is false and magicians do not succeed.",
+      "lessonReflection": "The truth is not magic; to call it so is to confuse the two—and magicians do not succeed.",
+      "beforeThisAyah": "They called the truth magic; Moses responds that the truth is truth and magicians do not succeed.",
+      "afterThisAyah": "They said: have you come to turn us from what we found our fathers upon, and that greatness might be yours in the land?"
+    },
+    {
+      "ayahNumber": 78,
+      "arabic": "قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ ٧٨",
+      "translation": "They said, \"Have you come to us to turn us away from that upon which we found our fathers and so that you two may have grandeur in the land? And we are not believers in you.\"",
+      "summary": "They said: Did you come to turn us from our fathers' way and seek grandeur? We do not believe you.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ءَابَآءَنَا",
+          "translation": "Our fathers"
+        },
+        {
+          "arabic": "ٱلْكِبْرِيَآءُ",
+          "translation": "Grandeur"
+        },
+        {
+          "arabic": "مُؤْمِنِينَ",
+          "translation": "Believers"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "They said: have you come to us to turn us away from what we found our fathers upon, and that the two of you might have greatness in the land? We do not believe you. The argument of following the fathers and the charge of seeking power—both are rejected.",
+      "lessonReflection": "Attachment to the ways of the fathers and the accusation of seeking power are the classic excuses of the rejecters.",
+      "beforeThisAyah": "Moses defended the truth; they respond with the argument of the fathers and denial.",
+      "afterThisAyah": "Pharaoh said: bring me every skilled magician."
+    },
+    {
+      "ayahNumber": 79,
+      "arabic": "وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَـٰحِرٍ عَلِيمٍۢ ٧٩",
+      "translation": "And Pharaoh said, \"Bring to me every learned magician.\"",
+      "summary": "Pharaoh demanded every skilled magician.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "سَـٰحِرٍ",
+          "translation": "Magician"
+        },
+        {
+          "arabic": "عَلِيمٍۢ",
+          "translation": "Learned"
+        }
+      ],
+      "tafsirSummary": "Pharaoh said: bring me every skilled magician. He seeks to match the signs with magic—the contest between Moses and the magicians follows in the full story elsewhere; here the focus is on the rejection and its outcome.",
+      "lessonReflection": "Pharaoh's response is to summon magicians—to oppose the truth with illusion.",
+      "beforeThisAyah": "They accused Moses of seeking to turn them from their fathers' way; Pharaoh demands magicians.",
+      "afterThisAyah": "When the magicians came, Moses said: cast what you will cast."
+    },
+    {
+      "ayahNumber": 80,
+      "arabic": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ ٨٠",
+      "translation": "So when the magicians came, Moses said to them, \"Throw down whatever you will throw.\"",
+      "summary": "When the magicians came, Moses told them to throw what they would.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلسَّحَرَةُ",
+          "translation": "Magicians"
+        },
+        {
+          "arabic": "أَلْقُوا۟",
+          "translation": "Throw"
+        },
+        {
+          "arabic": "مُّوسَىٰ",
+          "translation": "Moses"
+        }
+      ],
+      "tafsirSummary": "When the magicians came Moses said to them: cast what you are going to cast. The challenge is direct; the outcome—the magicians' staffs and ropes appearing to swallow, then Moses' staff swallowing what they fabricated—is known from other surahs. Here the theme is the confrontation.",
+      "lessonReflection": "The messenger confronts the illusion with the truth; the truth prevails.",
+      "beforeThisAyah": "Pharaoh brought the magicians; Moses invites them to cast what they will.",
+      "afterThisAyah": "When Moses had cast, he said: what you have brought is magic; Allah will bring it to naught."
+    },
+    {
+      "ayahNumber": 81,
+      "arabic": "فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ ٨١",
+      "translation": "And when they had thrown, Moses said, \"What you have brought is only magic. Indeed, Allāh will expose its worthlessness. Indeed, Allāh does not amend the work of corrupters.",
+      "summary": "Moses said their display was magic; Allah will invalidate it and does not approve corrupters' work.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلسِّحْرُ",
+          "translation": "Magic"
+        },
+        {
+          "arabic": "سَيُبْطِلُهُۥٓ",
+          "translation": "Will invalidate"
+        },
+        {
+          "arabic": "ٱلْمُفْسِدِينَ",
+          "translation": "Corrupters"
+        }
+      ],
+      "tafsirSummary": "When Moses had cast, he said: what you have brought is magic; Allah will invalidate it; Allah does not set right the work of the corrupters. The magicians' act is declared magic and Allah will nullify it; He does not support the work of those who spread corruption.",
+      "lessonReflection": "Allah invalidates the false and does not set right the work of the corrupters.",
+      "beforeThisAyah": "The magicians cast; Moses declares it magic and that Allah will invalidate it.",
+      "afterThisAyah": "Allah confirms the truth by His words though the guilty dislike it."
+    },
+    {
+      "ayahNumber": 82,
+      "arabic": "وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ ٨٢",
+      "translation": "And Allāh will establish the truth by His words, even if the criminals dislike it.\"",
+      "summary": "Allah confirms the truth by His words though the guilty dislike it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "يُحِقُّ",
+          "translation": "Establishes"
+        },
+        {
+          "arabic": "كَلِمَـٰتِهِۦ",
+          "translation": "His words"
+        },
+        {
+          "arabic": "ٱلْمُجْرِمُونَ",
+          "translation": "Criminals"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Allah confirms the truth by His words though the guilty dislike it. The truth is established by Allah's word regardless of the rejecters' displeasure.",
+      "lessonReflection": "The truth is established by Allah; the displeasure of the guilty does not change it.",
+      "beforeThisAyah": "Allah was said to invalidate the magic and not to set right the work of the corrupters; now He confirms the truth by His words.",
+      "afterThisAyah": "None believed in Moses except offspring of his people, for fear of Pharaoh and his chiefs."
+    },
+    {
+      "ayahNumber": 83,
+      "arabic": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌۭ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍۢ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍۢ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ ٨٣",
+      "translation": "But no one believed Moses, except some offspring among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors.",
+      "summary": "Only some youth of his people believed Moses, fearing Pharaoh, who was arrogant and oppressive.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "ذُرِّيَّةٌۭ",
+          "translation": "Offspring"
+        },
+        {
+          "arabic": "خَوْفٍۢ",
+          "translation": "Fear"
+        },
+        {
+          "arabic": "ٱلْمُسْرِفِينَ",
+          "translation": "Transgressors"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "فِرْعَوْنَ",
+          "translation": "Pharaoh"
+        }
+      ],
+      "tafsirSummary": "None believed in Moses except a seed of his people, for fear of Pharaoh and his chiefs, lest he persecute them. Pharaoh was indeed mighty on earth and one of the wanton. Fear of the tyrant kept many from declaring belief; only a few had the courage.",
+      "lessonReflection": "Belief under tyranny requires courage; many stayed silent for fear of Pharaoh.",
+      "beforeThisAyah": "Allah confirms the truth by His words; now the few who believed in Moses despite fear of Pharaoh are mentioned.",
+      "afterThisAyah": "Moses said: O my people, if you believe in Allah then put your trust in Him, if you are Muslims."
+    },
+    {
+      "ayahNumber": 84,
+      "arabic": "وَقَالَ مُوسَىٰ يَـٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ ٨٤",
+      "translation": "And Moses said, \"O my people, if you have believed in Allāh, then rely upon Him, if you should be Muslims.\"",
+      "summary": "Moses said: If you believe in Allah, rely on Him if you are submitters.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "تَوَكَّلُوٓا۟",
+          "translation": "Rely"
+        },
+        {
+          "arabic": "مُّسْلِمِينَ",
+          "translation": "Submitters"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Moses said: O my people, if you have believed in Allah then put your trust in Him, if you are Muslims. They said: in Allah we put our trust. Our Lord, do not make us a trial for the wrongdoing people, and save us by Your mercy from the disbelieving people. The believers put their trust in Allah and ask not to be made a trial and to be saved from the wrongdoers.",
+      "lessonReflection": "Trust in Allah and the prayer not to be made a trial are the response of the believing community under oppression.",
+      "beforeThisAyah": "Only a few believed for fear of Pharaoh; Moses calls them to put their trust in Allah.",
+      "afterThisAyah": "We revealed to Moses and his brother: appoint for your people houses in Egypt and make your houses a direction for prayer."
+    },
+    {
+      "ayahNumber": 85,
+      "arabic": "فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلْقَوْمِ ٱلظَّـٰلِمِينَ ٨٥",
+      "translation": "So they said, \"Upon Allāh do we rely. Our Lord, make us not trial for the wrongdoing people.",
+      "summary": "They said: We rely on Allah; our Lord, do not make us a trial for the wrongdoers.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "تَوَكَّلْنَا",
+          "translation": "We rely"
+        },
+        {
+          "arabic": "فِتْنَةًۭ",
+          "translation": "Trial"
+        },
+        {
+          "arabic": "ٱلظَّـٰلِمِينَ",
+          "translation": "Wrongdoers"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "رَبَّنَا",
+          "translation": "our Lord"
+        }
+      ],
+      "tafsirSummary": "We revealed to Moses and his brother: provide houses for your people in Egypt and make your houses a qibla and establish prayer. Give good tidings to the believers. The believers are given a place and a direction—establishing worship and community under persecution.",
+      "lessonReflection": "Houses as places of safety and prayer and the establishment of worship are the response to oppression.",
+      "beforeThisAyah": "Moses and the believers put their trust in Allah and prayed for deliverance; now they are told to establish houses and prayer.",
+      "afterThisAyah": "Moses said: our Lord, You have given Pharaoh and his chiefs adornment and wealth in the life of this world."
+    },
+    {
+      "ayahNumber": 86,
+      "arabic": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَـٰفِرِينَ ٨٦",
+      "translation": "And save us by Your mercy from the disbelieving people.\"",
+      "summary": "Save us by Your mercy from the disbelieving people.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "وَنَجِّنَا",
+          "translation": "Save us"
+        },
+        {
+          "arabic": "رَحْمَتِكَ",
+          "translation": "Your mercy"
+        },
+        {
+          "arabic": "ٱلْكَـٰفِرِينَ",
+          "translation": "Disbelievers"
+        }
+      ],
+      "tafsirSummary": "Moses said: our Lord, You have given Pharaoh and his chiefs adornment and wealth in the life of this world—our Lord, that they may lead people astray from Your path. Our Lord, destroy their wealth and harden their hearts so they do not believe until they see the painful punishment. Moses prays against the oppressors' means of misguidance and for their hearts to be hardened until they see the punishment.",
+      "lessonReflection": "The prophet prays against the wealth and influence that lead people astray and for the exposure of the stubborn until they see the punishment.",
+      "beforeThisAyah": "Houses and prayer were commanded; Moses now prays against Pharaoh's adornment and for the exposure of the stubborn.",
+      "afterThisAyah": "Allah said: your prayer is answered; so go straight and do not follow the path of those who do not know."
+    },
+    {
+      "ayahNumber": 87,
+      "arabic": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًۭا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةًۭ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ ٨٧",
+      "translation": "And We inspired to Moses and his brother, \"Settle your people in Egypt in houses and make your houses facing the qiblah and establish prayer and give good tidings to the believers.\"",
+      "summary": "We inspired Moses and his brother: settle your people in Egypt, make houses qiblah-oriented, establish prayer.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "تَبَوَّءَا",
+          "translation": "Settle"
+        },
+        {
+          "arabic": "قِبْلَةًۭ",
+          "translation": "Qiblah"
+        },
+        {
+          "arabic": "ٱلصَّلَوٰةَ",
+          "translation": "Prayer"
+        },
+        {
+          "arabic": "ٱلْمُؤْمِنِينَ",
+          "translation": "the believers"
+        }
+      ],
+      "tafsirSummary": "Allah said: your supplication is answered; so go straight and do not follow the path of those who do not know. The prayer is accepted; the command is to remain on the straight path and not imitate the ignorant.",
+      "lessonReflection": "When the prayer is answered, the response is to hold to the straight path and avoid the way of the ignorant.",
+      "beforeThisAyah": "Moses prayed against Pharaoh's means of misguidance; Allah answers and commands steadfastness.",
+      "afterThisAyah": "We brought the Children of Israel across the sea; Pharaoh and his hosts pursued them in rebellion and hostility."
+    },
+    {
+      "ayahNumber": 88,
+      "arabic": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةًۭ وَأَمْوَٰلًۭا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ ٨٨",
+      "translation": "And Moses said, \"Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead men astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment.\"",
+      "summary": "Moses prayed: You gave Pharaoh splendor; obliterate their wealth and harden their hearts.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "زِينَةًۭ",
+          "translation": "Splendor"
+        },
+        {
+          "arabic": "ٱطْمِسْ",
+          "translation": "Obliterate"
+        },
+        {
+          "arabic": "ٱلْعَذَابَ ٱلْأَلِيمَ",
+          "translation": "Painful punishment"
+        },
+        {
+          "arabic": "رَبَّنَا",
+          "translation": "our Lord"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        },
+        {
+          "arabic": "فِرْعَوْنَ",
+          "translation": "Pharaoh"
+        }
+      ],
+      "tafsirSummary": "We brought the Children of Israel across the sea; Pharaoh and his hosts pursued them in rebellion (baghy) and enmity until, when drowning overtook him, he said: I believe that there is no god but He in whom the Children of Israel believe, and I am among the Muslims. Now? When he saw the punishment he claimed belief—but it was too late.",
+      "lessonReflection": "Pharaoh's belief at the moment of drowning was not accepted; belief under compulsion at the end is not the same as belief when the choice was open.",
+      "beforeThisAyah": "Allah answered Moses and told him to go straight; now the crossing of the sea and Pharaoh's pursuit and drowning are related.",
+      "afterThisAyah": "Now? And you had disobeyed before and were among the corrupters."
+    },
+    {
+      "ayahNumber": 89,
+      "arabic": "قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ ٨٩",
+      "translation": "Allāh said, \"Your supplication has been answered. So remain on a right course and follow not the way of those who do not know.\"",
+      "summary": "Allah said: Your supplication is answered; remain steadfast and do not follow the ignorant.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "أُجِيبَت",
+          "translation": "Has been answered"
+        },
+        {
+          "arabic": "ٱسْتَقِيمَا",
+          "translation": "Remain steadfast"
+        },
+        {
+          "arabic": "سَبِيلَ",
+          "translation": "Way"
+        }
+      ],
+      "tafsirSummary": "Now? And you had disobeyed before and were among the corrupters. So today We save you in your body that you may be a sign to those after you—and indeed many among the people are heedless of Our signs. Pharaoh's body is saved as a sign; his late profession is rejected.",
+      "lessonReflection": "Belief at the last moment after a life of rebellion is rejected; his body is preserved as a sign for later generations.",
+      "beforeThisAyah": "Pharaoh claimed belief when drowning; Allah rejects it—he had disobeyed and been among the corrupters.",
+      "afterThisAyah": "We settled the Children of Israel in a good settlement and provided them good things; they did not differ until knowledge came to them."
+    },
+    {
+      "ayahNumber": 90,
+      "arabic": "۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًۭا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ ٩٠",
+      "translation": "And We took the Children of Israel across the sea, and Pharaoh and his soldiers pursued them in tyranny and enmity until, when drowning overtook him, he said, \"I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims.\"",
+      "summary": "We brought the Children of Israel across the sea; when drowning overtook Pharaoh he professed faith.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "بَنِىٓ إِسْرَٰٓءِيلَ",
+          "translation": "Children of Israel"
+        },
+        {
+          "arabic": "ٱلْغَرَقُ",
+          "translation": "Drowning"
+        },
+        {
+          "arabic": "ءَامَنتُ",
+          "translation": "I believe"
+        },
+        {
+          "arabic": "ٱلْمُسْلِمِينَ",
+          "translation": "those who submit"
+        },
+        {
+          "arabic": "ٱلْبَحْرَ",
+          "translation": "the sea"
+        }
+      ],
+      "tafsirSummary": "We brought the Children of Israel across the sea. Pharaoh and his hosts pursued them in rebellion and enmity until, when the drowning overtook him, he said: I believe that there is no god but He in whom the Children of Israel believe, and I am of the Muslims. The moment of desperation produces the words he had refused before.",
+      "lessonReflection": "When the sea closed over him, Pharaoh said what he had denied—but the acceptance of faith is with Allah, and the time had passed.",
+      "beforeThisAyah": "The crossing and pursuit were stated; now Pharaoh's words when drowning are given.",
+      "afterThisAyah": "Allah says: now? When you had disobeyed before and were among the corrupters."
+    },
+    {
+      "ayahNumber": 91,
+      "arabic": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ ٩١",
+      "translation": "Now? And you had disobeyed before and were of the corrupters?",
+      "summary": "Now you believe, after having disobeyed and spread corruption?",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "عَصَيْتَ",
+          "translation": "Disobeyed"
+        },
+        {
+          "arabic": "ٱلْمُفْسِدِينَ",
+          "translation": "Corrupters"
+        }
+      ],
+      "tafsirSummary": "Now? And you had disobeyed before and were among the corrupters. So today We save you in your body that you may be a sign to those after you—and indeed many of the people are heedless of Our signs. His body is preserved as a sign; his late profession does not save him.",
+      "lessonReflection": "The body is saved as a sign; the soul faces the consequence of a lifetime of rebellion.",
+      "beforeThisAyah": "Pharaoh said he believed when drowning; Allah responds: now? After your past disobedience.",
+      "afterThisAyah": "We settled the Children of Israel in a good settlement and provided them good things."
+    },
+    {
+      "ayahNumber": 92,
+      "arabic": "فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةًۭ ۚ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ عَنْ ءَايَـٰتِنَا لَغَـٰفِلُونَ ٩٢",
+      "translation": "So today We will save you in body that you may be to those who succeed you a sign. And indeed, many among the people, of Our signs, are heedless.",
+      "summary": "We save your body as a sign for those after you; many are heedless of Our signs.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "بَدَنِكَ",
+          "translation": "Your body"
+        },
+        {
+          "arabic": "ءَايَةًۭ",
+          "translation": "Sign"
+        },
+        {
+          "arabic": "غَـٰفِلُونَ",
+          "translation": "Heedless"
+        },
+        {
+          "arabic": "ءَايَـٰت",
+          "translation": "signs"
+        }
+      ],
+      "tafsirSummary": "So today We save you in your body that you may be a sign to those who come after you. And indeed many among the people are heedless of Our signs. Pharaoh's body is preserved—according to tradition, to be seen by later generations—as a sign; heedlessness of signs is widespread.",
+      "lessonReflection": "Pharaoh's body becomes a sign for later generations; many remain heedless of such signs.",
+      "beforeThisAyah": "Pharaoh's late profession was rejected; his body is saved as a sign.",
+      "afterThisAyah": "We settled the Children of Israel in a good settlement and provided them good things; they did not differ until knowledge came."
+    },
+    {
+      "ayahNumber": 93,
+      "arabic": "وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍۢ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ ٩٣",
+      "translation": "And We had certainly settled the Children of Israel in an agreeable settlement and provided them with good things. And they did not differ until knowledge had come to them. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+      "summary": "We settled the Children of Israel well and provided for them; your Lord will judge their differences on the Day of Resurrection.",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "مُبَوَّأَ صِدْقٍۢ",
+          "translation": "Agreeable settlement"
+        },
+        {
+          "arabic": "ٱلْعِلْمُ",
+          "translation": "Knowledge"
+        },
+        {
+          "arabic": "يَقْضِى",
+          "translation": "Will judge"
+        },
+        {
+          "arabic": "يَوْمَ ٱلْقِيَـٰمَةِ",
+          "translation": "Day of Resurrection"
+        },
+        {
+          "arabic": "بَنِىٓ إِسْرَٰٓءِيلَ",
+          "translation": "Children of Israel"
+        }
+      ],
+      "tafsirSummary": "We settled the Children of Israel in a settlement of truth (mubawwaʾ ṣidq) and provided them with good things. They did not differ until knowledge came to them. Your Lord will judge between them on the Day of Resurrection concerning that in which they differed. They were given a good abode and provision; after knowledge came they differed; the judgment is deferred to the Day of Resurrection.",
+      "lessonReflection": "The Children of Israel were given a good settlement; their differences after knowledge came will be judged on the Day of Resurrection.",
+      "beforeThisAyah": "Pharaoh's body was saved as a sign; now the settlement of the Children of Israel and their subsequent differences are stated.",
+      "afterThisAyah": "If you are in doubt about what We have sent down to you, ask those who read the Scripture before you."
+    },
+    {
+      "ayahNumber": 94,
+      "arabic": "فَإِن كُنتَ فِى شَكٍّۢ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَـٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ ٩٤",
+      "translation": "So if you are in doubt, about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters.",
+      "summary": "If in doubt, ask the People of the Book; the truth has come from your Lord—do not doubt.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "شَكٍّۢ",
+          "translation": "Doubt"
+        },
+        {
+          "arabic": "ٱلْكِتَـٰبَ",
+          "translation": "The Scripture"
+        },
+        {
+          "arabic": "ٱلْمُمْتَرِينَ",
+          "translation": "Doubters"
+        },
+        {
+          "arabic": "ٱلْحَقُّ",
+          "translation": "the truth"
+        }
+      ],
+      "tafsirSummary": "If you are in doubt about what We have sent down to you, ask those who read the Scripture before you. The truth has come to you from your Lord, so do not be among the doubters. The Prophet is told that if he had any doubt—though he did not—he could ask the People of the Book; the truth is from his Lord and he must not doubt.",
+      "lessonReflection": "The truth has come from the Lord; doubt is removed by the evidence and by the testimony of the earlier Scriptures.",
+      "beforeThisAyah": "The Children of Israel and their differences were mentioned; now the Prophet is told the truth has come and not to doubt.",
+      "afterThisAyah": "And do not be among those who deny the signs of Allah, lest you be among the losers."
+    },
+    {
+      "ayahNumber": 95,
+      "arabic": "وَلَا تَكُونَنَّ مِنَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ فَتَكُونَ مِنَ ٱلْخَـٰسِرِينَ ٩٥",
+      "translation": "And never be of those who deny the signs of Allāh and thus be among the losers.",
+      "summary": "Do not be among those who deny Allah's signs and become losers.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "كَذَّبُوا۟",
+          "translation": "Deny"
+        },
+        {
+          "arabic": "ءَايَـٰتِ ٱللَّهِ",
+          "translation": "Signs of Allah"
+        },
+        {
+          "arabic": "ٱلْخَـٰسِرِينَ",
+          "translation": "Losers"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "And do not be among those who deny the signs of Allah, so that you become among the losers. The warning is direct: denying the signs leads to loss. The Prophet and the believers are urged to hold fast to the signs.",
+      "lessonReflection": "To deny the signs of Allah is to choose loss; the believer holds fast to them.",
+      "beforeThisAyah": "The Prophet was told the truth has come and not to doubt; now he is warned not to deny the signs.",
+      "afterThisAyah": "Those upon whom the word of your Lord has been fulfilled will not believe."
+    },
+    {
+      "ayahNumber": 96,
+      "arabic": "إِنَّ ٱلَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ ٩٦",
+      "translation": "Indeed, those upon whom the word of your Lord has come into effect will not believe,",
+      "summary": "Those against whom your Lord's word is confirmed will not believe.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "حَقَّتْ",
+          "translation": "Has come into effect"
+        },
+        {
+          "arabic": "كَلِمَتُ رَبِّكَ",
+          "translation": "Word of your Lord"
+        },
+        {
+          "arabic": "لَا يُؤْمِنُونَ",
+          "translation": "Will not believe"
+        },
+        {
+          "arabic": "رَبِّ",
+          "translation": "Lord"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        }
+      ],
+      "tafsirSummary": "Those upon whom the word of your Lord has been fulfilled will not believe—even if every sign came to them—until they see the painful punishment. For some, the heart is sealed; they will not believe until they see the punishment, and then it is too late.",
+      "lessonReflection": "When the word of the Lord is fulfilled against someone, no sign will avail until they see the punishment.",
+      "beforeThisAyah": "The Prophet was warned not to deny the signs; now those upon whom the word has been fulfilled are described.",
+      "afterThisAyah": "Why was there no town that believed and was helped by its belief except the people of Jonah?"
+    },
+    {
+      "ayahNumber": 97,
+      "arabic": "وَلَوْ جَآءَتْهُمْ كُلُّ ءَايَةٍ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ ٩٧",
+      "translation": "Even if every sign should come to them, until they see the painful punishment.",
+      "summary": "Not even if every sign came to them until they see the painful punishment.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        {
+          "arabic": "ءَايَةٍ",
+          "translation": "Sign"
+        },
+        {
+          "arabic": "ٱلْعَذَابَ ٱلْأَلِيمَ",
+          "translation": "Painful punishment"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        }
+      ],
+      "tafsirSummary": "Even if every sign came to them, they would not believe until they see the painful punishment. The sealing is so complete that only the sight of the punishment would affect them—and then belief would be of no avail.",
+      "lessonReflection": "For those upon whom the word is fulfilled, signs no longer open the heart; only the punishment will be seen.",
+      "beforeThisAyah": "Those upon whom the word was fulfilled were said not to believe; now the extent of their closure is stated.",
+      "afterThisAyah": "The people of Jonah believed and We removed from them the punishment of disgrace in the world and gave them enjoyment for a time."
+    },
+    {
+      "ayahNumber": 98,
+      "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ ٩٨",
+      "translation": "Then has there not been a single city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment for a time.",
+      "summary": "No town believed to its benefit except the people of Jonah; when they believed We removed their punishment.",
+      "theme": "mercy",
+      "wordHighlights": [
+        {
+          "arabic": "قَرْيَةٌ",
+          "translation": "City"
+        },
+        {
+          "arabic": "يُونُسَ",
+          "translation": "Jonah"
+        },
+        {
+          "arabic": "كَشَفْنَا",
+          "translation": "We removed"
+        },
+        {
+          "arabic": "عَذَابَ",
+          "translation": "punishment"
+        },
+        {
+          "arabic": "ءَامَنُوا۟",
+          "translation": "believed"
+        }
+      ],
+      "tafsirSummary": "Was there any town that believed and its belief benefited it except the people of Jonah? When they believed We removed from them the punishment of disgrace in the worldly life and gave them enjoyment for a time. The people of Jonah (Yūnus) are the exception—they believed and were spared; their story is a sign of the power of collective repentance.",
+      "lessonReflection": "The people of Jonah show that when a people believe, Allah can remove punishment and grant relief—repentance is never in vain.",
+      "beforeThisAyah": "Those who would not believe until they see the punishment were described; now the exception—the people of Jonah who believed—is given.",
+      "afterThisAyah": "If your Lord had willed, everyone on earth would have believed. Will you then compel people until they are believers?"
+    },
+    {
+      "ayahNumber": 99,
+      "arabic": "وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ٩٩",
+      "translation": "And had your Lord willed, those on earth would have believed—all of them entirely. Then, would you compel the people in order that they become believers?",
+      "summary": "If your Lord had willed, all on earth would believe; you cannot compel belief.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "شَآءَ رَبُّكَ",
+          "translation": "Your Lord had willed"
+        },
+        {
+          "arabic": "تُكْرِهُ",
+          "translation": "Compel"
+        },
+        {
+          "arabic": "مُؤْمِنِينَ",
+          "translation": "Believers"
+        },
+        {
+          "arabic": "ٱلنَّاسَ",
+          "translation": "mankind"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        }
+      ],
+      "tafsirSummary": "If your Lord had willed, everyone on earth would have believed, all of them. Will you then compel the people until they are believers? Belief is by Allah's will and human choice; the Prophet cannot and must not compel anyone—guidance is from Allah.",
+      "lessonReflection": "Belief is not compelled; the Prophet's role is to convey, not to force—Allah could have made all believe but has given choice.",
+      "beforeThisAyah": "The people of Jonah believed and were spared; now the principle that belief cannot be compelled is stated.",
+      "afterThisAyah": "It is not for any soul to believe except by the permission of Allah."
+    },
+    {
+      "ayahNumber": 100,
+      "arabic": "وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ ١٠٠",
+      "translation": "And it is not for a soul to believe except by permission of Allāh, and He will place defilement upon those who will not use reason.",
+      "summary": "None can believe except by Allah's leave; He lays defilement on those who do not reason.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "تُؤْمِنَ",
+          "translation": "Believe"
+        },
+        {
+          "arabic": "بِإِذْنِ ٱللَّهِ",
+          "translation": "By permission of Allah"
+        },
+        {
+          "arabic": "ٱلرِّجْسَ",
+          "translation": "Defilement"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "It is not for a soul to believe except by the permission of Allah. And He lays defilement (rijs) upon those who do not use reason. Belief is by Allah's leave; those who refuse to reason are left in defilement.",
+      "lessonReflection": "Belief is a gift from Allah; the one who refuses to use reason is left in spiritual defilement.",
+      "beforeThisAyah": "The Prophet was told he cannot compel belief; now belief is said to be only by Allah's permission.",
+      "afterThisAyah": "Say: look at what is in the heavens and the earth."
+    },
+    {
+      "ayahNumber": 101,
+      "arabic": "قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْـَٔايَـٰتُ وَٱلنُّذُرُ عَن قَوْمٍۢ لَّا يُؤْمِنُونَ ١٠١",
+      "translation": "Say, \"Observe what is in the heavens and the earth.\" But of no avail will be signs or warners to a people who do not believe.",
+      "summary": "Say: Look at what is in the heavens and earth; signs and warners do not avail those who do not believe.",
+      "theme": "signs",
+      "wordHighlights": [
+        {
+          "arabic": "ٱنظُرُوا۟",
+          "translation": "Observe"
+        },
+        {
+          "arabic": "ءَايَـٰتُ",
+          "translation": "Signs"
+        },
+        {
+          "arabic": "ٱلنُّذُرُ",
+          "translation": "Warners"
+        },
+        {
+          "arabic": "ٱلْأَرْضِ",
+          "translation": "the earth"
+        },
+        {
+          "arabic": "ٱلسَّمَـٰوَٰتِ",
+          "translation": "the heavens"
+        },
+        {
+          "arabic": "يُؤْمِنُ",
+          "translation": "believes"
+        }
+      ],
+      "tafsirSummary": "Say: look at what is in the heavens and the earth. But signs and warners do not avail a people who do not believe. The creation is there to be observed; for those who refuse to believe, no sign or warner will avail.",
+      "lessonReflection": "The heavens and the earth are full of signs; for those who will not believe, signs and warners are of no avail.",
+      "beforeThisAyah": "Belief was said to be by Allah's permission; now the addressees are told to look at creation—but signs do not avail the disbelievers.",
+      "afterThisAyah": "Do they wait for anything but the like of the days of those who passed before them? Say: wait, I am with you among those who wait."
+    },
+    {
+      "ayahNumber": 102,
+      "arabic": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ ١٠٢",
+      "translation": "So do they wait except for like what occurred in the days of those who passed on before them? Say, \"Then wait; indeed, I am with you among those who wait.\"",
+      "summary": "Do they expect anything but the like of what befell former peoples? Wait; I wait with you.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "يَنتَظِرُونَ",
+          "translation": "Wait"
+        },
+        {
+          "arabic": "خَلَوْا۟",
+          "translation": "Passed on"
+        },
+        {
+          "arabic": "ٱلْمُنتَظِرِينَ",
+          "translation": "Those who wait"
+        }
+      ],
+      "tafsirSummary": "Do they wait for anything but the like of what happened to those who passed away before them? Say: then wait; I am with you among those who wait. The fate of the past is the pattern for the future; the Prophet waits with them for the decree of Allah.",
+      "lessonReflection": "What came upon the past nations can come again; the messenger waits with the people for Allah's decree.",
+      "beforeThisAyah": "Signs and warners were said not to avail the disbelievers; now they are told to expect the like of the days of the past.",
+      "afterThisAyah": "Then We save Our messengers and those who believe; so it is incumbent upon Us to save the believers."
+    },
+    {
+      "ayahNumber": 103,
+      "arabic": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ ١٠٣",
+      "translation": "Then We will save Our messengers and those who have believed. Thus, it is an obligation upon Us that We save the believers.",
+      "summary": "Then We save Our messengers and those who believed; We are bound to save the believers.",
+      "theme": "mercy",
+      "wordHighlights": [
+        {
+          "arabic": "نُنَجِّى",
+          "translation": "We save"
+        },
+        {
+          "arabic": "رُسُلَنَا",
+          "translation": "Our messengers"
+        },
+        {
+          "arabic": "ٱلْمُؤْمِنِينَ",
+          "translation": "Believers"
+        },
+        {
+          "arabic": "ءَامَنُوا۟",
+          "translation": "believed"
+        }
+      ],
+      "tafsirSummary": "Then We save Our messengers and those who believe. Thus it is incumbent upon Us to save the believers. The promise is explicit: Allah will save the messengers and the believers—it is a duty He has taken upon Himself.",
+      "lessonReflection": "The salvation of the messengers and the believers is a promise and an obligation on Allah—the believers can take heart.",
+      "beforeThisAyah": "The Prophet was told to wait with them; now the promise to save the messengers and the believers is stated.",
+      "afterThisAyah": "Say: O people, if you are in doubt about my religion—I do not worship those you worship besides Allah."
+    },
+    {
+      "ayahNumber": 104,
+      "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّۢ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَـٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ ١٠٤",
+      "translation": "Say, \"O people, if you are in doubt as to my religion—then I do not worship those which you worship besides Allāh; but I worship Allāh, who causes your death. And I have been commanded to be of the believers.",
+      "summary": "Say: If you doubt my religion, I do not worship what you worship; I worship Allah who takes your souls.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "دِينِى",
+          "translation": "My religion"
+        },
+        {
+          "arabic": "أَعْبُدُ",
+          "translation": "I worship"
+        },
+        {
+          "arabic": "يَتَوَفَّىٰكُمْ",
+          "translation": "Causes your death"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        },
+        {
+          "arabic": "ٱلْمُؤْمِنِينَ",
+          "translation": "the believers"
+        }
+      ],
+      "tafsirSummary": "Say: O people, if you are in doubt about my religion—I do not worship those you worship besides Allah, but I worship Allah who takes your souls, and I am commanded to be among the believers. The Prophet's worship is for Allah alone, who holds life and death; he is commanded to believe.",
+      "lessonReflection": "The Prophet's religion is clear: worship of Allah alone, who takes the souls, and obedience to the command to believe.",
+      "beforeThisAyah": "The salvation of the messengers and believers was promised; now the Prophet is given a clear declaration of his religion.",
+      "afterThisAyah": "Set your face to the religion as a ḥanīf and do not be among the associators."
+    },
+    {
+      "ayahNumber": 105,
+      "arabic": "وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًۭا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ ١٠٥",
+      "translation": "And commanded, 'Direct your face toward the religion, inclining to truth, and never be of those who associate others with Allāh;",
+      "summary": "Set your face to the religion in sincerity and do not be among the associators.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "وَجْهَكَ",
+          "translation": "Your face"
+        },
+        {
+          "arabic": "حَنِيفًۭا",
+          "translation": "Inclining to truth"
+        },
+        {
+          "arabic": "ٱلْمُشْرِكِينَ",
+          "translation": "Those who associate"
+        }
+      ],
+      "tafsirSummary": "And: set your face to the religion as a ḥanīf (inclining to truth), and do not be among the associators. The command is to direct the face—the whole orientation—to the religion in sincerity and to avoid shirk.",
+      "lessonReflection": "To set one's face to the religion as a ḥanīf is to worship Allah alone in sincerity and to shun association.",
+      "beforeThisAyah": "The Prophet declared he worships Allah who takes the souls; now he is commanded to set his face to the religion as a ḥanīf.",
+      "afterThisAyah": "Do not call upon besides Allah what neither benefits you nor harms you."
+    },
+    {
+      "ayahNumber": 106,
+      "arabic": "وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ ۖ فَإِن فَعَلْتَ فَإِنَّكَ إِذًۭا مِّنَ ٱلظَّـٰلِمِينَ ١٠٦",
+      "translation": "And do not invoke besides Allāh that which neither benefits you nor harms you, for if you did, then indeed you would be of the wrongdoers.'\"",
+      "summary": "Do not call on besides Allah what neither benefits nor harms you, or you will be wrongdoers.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "تَدْعُ",
+          "translation": "Invoke"
+        },
+        {
+          "arabic": "يَنفَعُكَ",
+          "translation": "Benefits you"
+        },
+        {
+          "arabic": "ٱلظَّـٰلِمِينَ",
+          "translation": "Wrongdoers"
+        },
+        {
+          "arabic": "ٱللَّهِ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "And do not call upon besides Allah what neither benefits you nor harms you; for if you did you would then be among the wrongdoers. To invoke what has no power over benefit or harm is futile and wrong; the wrongdoer is the one who associates such with Allah.",
+      "lessonReflection": "Invoking what can neither benefit nor harm is futile and places one among the wrongdoers.",
+      "beforeThisAyah": "The Prophet was commanded to set his face to the religion as a ḥanīf; now he is told not to invoke others besides Allah.",
+      "afterThisAyah": "If Allah touches you with harm, none can remove it but He; if He desires good for you, none can repel His bounty."
+    },
+    {
+      "ayahNumber": 107,
+      "arabic": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍۢ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ١٠٧",
+      "translation": "And if Allāh should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful.",
+      "summary": "If Allah afflicts you, none can remove it but He; if He wills good, none can repel His bounty; He is Forgiving, Merciful.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        {
+          "arabic": "ضُرٍّۢ",
+          "translation": "Adversity"
+        },
+        {
+          "arabic": "كَاشِفَ",
+          "translation": "Remover"
+        },
+        {
+          "arabic": "ٱلْغَفُورُ ٱلرَّحِيمُ",
+          "translation": "Forgiving, Merciful"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "If Allah touches you with harm, none can remove it but He; and if He desires good for you, none can repel His bounty. He gives it to whom He will of His servants. He is the Forgiving, the Merciful. All harm and good are in His hand; He is the only one who can remove harm or bestow good; He is Forgiving and Merciful.",
+      "lessonReflection": "Harm and good are with Allah alone; to turn to Him for relief and for bounty is to turn to the only one who can give them.",
+      "beforeThisAyah": "The Prophet was told not to invoke what neither benefits nor harms; now harm and good are said to be only from Allah.",
+      "afterThisAyah": "Say: O people, the truth has come to you from your Lord; whoever is guided is guided for his soul, whoever goes astray goes astray against it."
+    },
+    {
+      "ayahNumber": 108,
+      "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍۢ ١٠٨",
+      "translation": "Say, \"O mankind, the truth has come to you from your Lord, so whoever is guided is only guided for the benefit of his soul, and whoever goes astray only goes astray against it. And I am not over you a manager.\"",
+      "summary": "The truth has come from your Lord; whoever is guided is guided for himself, whoever goes astray does so against himself; I am not your keeper.",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "ٱلْحَقُّ",
+          "translation": "The truth"
+        },
+        {
+          "arabic": "ٱهْتَدَىٰ",
+          "translation": "Is guided"
+        },
+        {
+          "arabic": "بِوَكِيلٍۢ",
+          "translation": "Manager"
+        },
+        {
+          "arabic": "ٱلنَّاسُ",
+          "translation": "people"
+        }
+      ],
+      "tafsirSummary": "Say: O people, the truth has come to you from your Lord. Whoever is guided is guided for his own soul, and whoever goes astray goes astray against it. I am not a guardian over you. The message is delivered; guidance and misguidance are for the soul's own account; the Prophet is not responsible for their choice.",
+      "lessonReflection": "The truth has come; each soul answers for its own guidance or misguidance; the messenger is not their keeper.",
+      "beforeThisAyah": "Allah was said to be the only one who removes harm and gives bounty; now the Prophet is given the final address to the people.",
+      "afterThisAyah": "Follow what is revealed to you and be patient until Allah judges; He is the best of judges."
+    },
+    {
+      "ayahNumber": 109,
+      "arabic": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ ١٠٩",
+      "translation": "And follow what is revealed to you, and be patient until Allāh will judge. And He is the best of judges.",
+      "summary": "Follow what is revealed to you and be patient until Allah judges; He is the best of judges.",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "ٱتَّبِعْ",
+          "translation": "Follow"
+        },
+        {
+          "arabic": "يُوحَىٰٓ",
+          "translation": "Is revealed"
+        },
+        {
+          "arabic": "ٱصْبِرْ",
+          "translation": "Be patient"
+        },
+        {
+          "arabic": "ٱللَّهُ",
+          "translation": "Allah"
+        }
+      ],
+      "tafsirSummary": "Follow what is revealed to you and be patient until Allah judges. He is the best of judges. The closing command: adhere to the revelation and be patient; the judgment belongs to Allah and He is the best of judges. The surah ends with the same themes with which it began—revelation, patience, and the return to Allah.",
+      "lessonReflection": "The messenger is to follow the revelation and be patient; the judgment is with Allah, the best of judges.",
+      "beforeThisAyah": "The truth was said to have come and each soul to be accountable for its own guidance; now the Prophet is commanded to follow the revelation and be patient.",
+      "afterThisAyah": "The surah ends with the command to follow revelation and be patient until Allah judges."
+    }
+  ]
+}

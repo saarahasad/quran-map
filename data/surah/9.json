@@ -1,0 +1,1126 @@
+{
+    "surahId": 9,
+    "surahNameArabic": "التوبة",
+    "surahNameEnglish": "At-Tawbah",
+    "revelationType": "Madani",
+    "totalAyahs": 129,
+    "thesis": "Allah declares political and moral clarity: loyalty belongs to faith alone, hypocrisy is exposed, and true believers are distinguished through sacrifice and obedience.",
+    "primaryThemes": [
+        "Disassociation from Polytheism",
+        "Treaty Ethics",
+        "Faith vs Hypocrisy",
+        "Loyalty & Allegiance",
+        "Striving in Allah’s Cause",
+        "Divine Victory & Justice"
+    ],
+    "colorMapping": {
+        "faith": "emerald",
+        "battle": "red",
+        "unity": "blue",
+        "warning": "orange",
+        "divine_support": "purple",
+        "law": "yellow",
+        "hypocrisy": "gray",
+        "mercy": "teal"
+    },
+    "ayahs": [{
+            "ayahNumber": 1,
+            "cluster": "Declaration of Disassociation",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "بَرَآءَةٌۭ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+            "translation": "A declaration of disassociation from Allah and His Messenger to those polytheists with whom you had made a treaty.",
+            "summary": "Allah publicly announces the end of protection for treacherous polytheists.",
+            "keywords": [{
+                    "word": "بَرَآءَةٌ",
+                    "meaning": "Disassociation"
+                },
+                {
+                    "word": "عَـٰهَدتُّم",
+                    "meaning": "You made a treaty"
+                },
+                {
+                    "word": "ٱلْمُشْرِكِينَ",
+                    "meaning": "Polytheists"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 2,
+            "cluster": "Grace Period",
+            "theme": "warning",
+            "intensity": 3,
+            "arabic": "فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍۢ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ",
+            "translation": "Travel freely in the land for four months, but know you cannot escape Allah.",
+            "summary": "A final four-month window is granted before consequences descend.",
+            "keywords": [{
+                    "word": "فَسِيحُوا۟",
+                    "meaning": "Travel freely"
+                },
+                {
+                    "word": "أَرْبَعَةَ أَشْهُرٍ",
+                    "meaning": "Four months"
+                },
+                {
+                    "word": "غَيْرُ مُعْجِزِى",
+                    "meaning": "Unable to escape"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 3,
+            "cluster": "Public Announcement",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "وَأَذَٰنٌۭ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ",
+            "translation": "An announcement from Allah and His Messenger on the day of the greater pilgrimage.",
+            "summary": "The declaration is proclaimed publicly during Hajj for absolute clarity.",
+            "keywords": [{
+                    "word": "أَذَٰنٌۭ",
+                    "meaning": "Announcement"
+                },
+                {
+                    "word": "ٱلْحَجِّ ٱلْأَكْبَرِ",
+                    "meaning": "Greater Pilgrimage"
+                },
+                {
+                    "word": "عَذَابٍ أَلِيمٍ",
+                    "meaning": "Painful punishment"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 4,
+            "cluster": "Treaty Exception",
+            "theme": "law",
+            "intensity": 2,
+            "arabic": "إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+            "translation": "Except those polytheists who honored their treaties.",
+            "summary": "Islam upholds treaties when the other party remains faithful.",
+            "keywords": [{
+                    "word": "فَأَتِمُّوا۟",
+                    "meaning": "Fulfill completely"
+                },
+                {
+                    "word": "عَهْدَهُمْ",
+                    "meaning": "Their treaty"
+                },
+                {
+                    "word": "ٱلْمُتَّقِينَ",
+                    "meaning": "The righteous"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 5,
+            "cluster": "After Sacred Months",
+            "theme": "battle",
+            "intensity": 5,
+            "arabic": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ",
+            "translation": "When the sacred months have passed...",
+            "summary": "Hostility resumes against persistent aggression—but repentance restores safety.",
+            "keywords": [{
+                    "word": "ٱقْتُلُوا۟",
+                    "meaning": "Fight/kill (in battle)"
+                },
+                {
+                    "word": "تَابُوا۟",
+                    "meaning": "Repent"
+                },
+                {
+                    "word": "غَفُورٌۭ رَّحِيمٌۭ",
+                    "meaning": "Forgiving, Merciful"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 6,
+            "cluster": "Protection Clause",
+            "theme": "mercy",
+            "intensity": 2,
+            "arabic": "وَإِنْ أَحَدٌۭ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ",
+            "translation": "If any polytheist seeks your protection, grant it.",
+            "summary": "Even enemies are granted safe passage to hear the Qur’an.",
+            "keywords": [{
+                    "word": "ٱسْتَجَارَكَ",
+                    "meaning": "Seeks your protection"
+                },
+                {
+                    "word": "كَلَـٰمَ ٱللَّهِ",
+                    "meaning": "Words of Allah"
+                },
+                {
+                    "word": "مَأْمَنَهُۥ",
+                    "meaning": "Place of safety"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 7,
+            "cluster": "Conditional Treaty",
+            "theme": "law",
+            "intensity": 3,
+            "arabic": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ",
+            "translation": "How can there be a treaty with polytheists unless they remain upright?",
+            "summary": "Treaty validity depends on their continued integrity.",
+            "keywords": [{
+                    "word": "ٱسْتَقَـٰمُوا۟",
+                    "meaning": "Remain upright"
+                },
+                {
+                    "word": "ٱسْتَقِيمُوا۟",
+                    "meaning": "Be upright"
+                },
+                {
+                    "word": "ٱلْمُتَّقِينَ",
+                    "meaning": "The righteous"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 8,
+            "cluster": "Hypocrisy & Treachery",
+            "theme": "hypocrisy",
+            "intensity": 4,
+            "arabic": "يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ",
+            "translation": "They please you with their mouths, but their hearts refuse.",
+            "summary": "Their loyalty is verbal only—hearts harbor betrayal.",
+            "keywords": [{
+                    "word": "إِلًّۭا",
+                    "meaning": "Kinship pact"
+                },
+                {
+                    "word": "ذِمَّةًۭ",
+                    "meaning": "Covenant"
+                },
+                {
+                    "word": "فَـٰسِقُونَ",
+                    "meaning": "Defiantly disobedient"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 9,
+            "cluster": "Selling Revelation",
+            "theme": "warning",
+            "intensity": 3,
+            "arabic": "ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًۭا قَلِيلًۭا",
+            "translation": "They sold the signs of Allah for a small price.",
+            "summary": "They traded eternal truth for temporary gain.",
+            "keywords": [{
+                    "word": "ثَمَنًۭا قَلِيلًۭا",
+                    "meaning": "Small price"
+                },
+                {
+                    "word": "فَصَدُّوا۟",
+                    "meaning": "They averted"
+                },
+                {
+                    "word": "سَبِيلِهِۦ",
+                    "meaning": "His path"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 10,
+            "cluster": "Aggression Defined",
+            "theme": "warning",
+            "intensity": 3,
+            "arabic": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّۭا وَلَا ذِمَّةًۭ",
+            "translation": "They observe no pact nor covenant toward a believer.",
+            "summary": "They violate every sacred bond—open transgression.",
+            "keywords": [{
+                    "word": "ٱلْمُعْتَدُونَ",
+                    "meaning": "Transgressors"
+                },
+                {
+                    "word": "إِلًّۭا",
+                    "meaning": "Kinship pact"
+                },
+                {
+                    "word": "ذِمَّةًۭ",
+                    "meaning": "Covenant"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 11,
+            "cluster": "Repentance Restores Brotherhood",
+            "theme": "mercy",
+            "intensity": 3,
+            "arabic": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ",
+            "translation": "If they repent, establish prayer, and give zakāh, then they are your brothers in religion.",
+            "summary": "True repentance transforms former enemies into brothers in faith.",
+            "keywords": [{
+                    "word": "تَابُوا۟",
+                    "meaning": "They repented"
+                },
+                {
+                    "word": "ٱلصَّلَوٰةَ",
+                    "meaning": "The prayer"
+                },
+                {
+                    "word": "إِخْوَٰنُكُمْ",
+                    "meaning": "Your brothers"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 12,
+            "cluster": "Breach of Oaths",
+            "theme": "battle",
+            "intensity": 4,
+            "arabic": "وَإِن نَّكَثُوٓا۟ أَيْمَـٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ",
+            "translation": "If they break their oaths after their treaty and defame your religion, then fight the leaders of disbelief.",
+            "summary": "Persistent betrayal and hostility nullify treaty protection.",
+            "keywords": [{
+                    "word": "نَّكَثُوٓا۟",
+                    "meaning": "They broke (their oaths)"
+                },
+                {
+                    "word": "أَيْمَـٰنَهُم",
+                    "meaning": "Their oaths"
+                },
+                {
+                    "word": "أَئِمَّةَ ٱلْكُفْرِ",
+                    "meaning": "Leaders of disbelief"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 13,
+            "cluster": "Call to Courage",
+            "theme": "faith",
+            "intensity": 4,
+            "arabic": "أَلَا تُقَـٰتِلُونَ قَوْمًۭا نَّكَثُوٓا۟ أَيْمَـٰنَهُمْ",
+            "translation": "Will you not fight a people who broke their oaths and sought to expel the Messenger?",
+            "summary": "Believers are reminded that fearing Allah outweighs fearing enemies.",
+            "keywords": [{
+                    "word": "نَّكَثُوٓا۟",
+                    "meaning": "They broke (their oaths)"
+                },
+                {
+                    "word": "ٱلرَّسُولِ",
+                    "meaning": "The Messenger"
+                },
+                {
+                    "word": "تَخْشَوْنَهُمْ",
+                    "meaning": "Do you fear them?"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 14,
+            "cluster": "Divine Justice",
+            "theme": "divine_support",
+            "intensity": 4,
+            "arabic": "قَـٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ",
+            "translation": "Fight them; Allah will punish them by your hands and grant you victory.",
+            "summary": "Believers become instruments of divine justice and relief.",
+            "keywords": [{
+                    "word": "يُعَذِّبْهُمُ",
+                    "meaning": "He will punish them"
+                },
+                {
+                    "word": "يَنصُرْكُمْ",
+                    "meaning": "He will grant you victory"
+                },
+                {
+                    "word": "يَشْفِ صُدُورَ",
+                    "meaning": "Heal the hearts"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 15,
+            "cluster": "Healing & Forgiveness",
+            "theme": "mercy",
+            "intensity": 3,
+            "arabic": "وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ",
+            "translation": "And remove the fury in their hearts, and Allah accepts repentance of whom He wills.",
+            "summary": "Victory removes emotional pain, and repentance remains open.",
+            "keywords": [{
+                    "word": "غَيْظَ",
+                    "meaning": "Anger / fury"
+                },
+                {
+                    "word": "يَتُوبُ",
+                    "meaning": "He accepts repentance"
+                },
+                {
+                    "word": "حَكِيمٌ",
+                    "meaning": "Wise"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 16,
+            "cluster": "Test of Sincerity",
+            "theme": "faith",
+            "intensity": 3,
+            "arabic": "أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟",
+            "translation": "Do you think you will be left without being tested?",
+            "summary": "Struggle exposes sincerity and loyalty.",
+            "keywords": [{
+                    "word": "جَـٰهَدُوا۟",
+                    "meaning": "Strived"
+                },
+                {
+                    "word": "وَلِيجَةًۭ",
+                    "meaning": "Intimate ally"
+                },
+                {
+                    "word": "خَبِيرٌۢ",
+                    "meaning": "Fully Aware"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 17,
+            "cluster": "Mosque Integrity",
+            "theme": "law",
+            "intensity": 3,
+            "arabic": "مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَـٰجِدَ ٱللَّهِ",
+            "translation": "It is not for polytheists to maintain the mosques of Allah.",
+            "summary": "Spiritual centers cannot be upheld by those who reject faith.",
+            "keywords": [{
+                    "word": "يَعْمُرُوا۟",
+                    "meaning": "Maintain / populate"
+                },
+                {
+                    "word": "حَبِطَتْ",
+                    "meaning": "Became worthless"
+                },
+                {
+                    "word": "خَـٰلِدُونَ",
+                    "meaning": "Abiding forever"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 18,
+            "cluster": "True Mosque Builders",
+            "theme": "faith",
+            "intensity": 2,
+            "arabic": "إِنَّمَا يَعْمُرُ مَسَـٰجِدَ ٱللَّهِ مَنْ ءَامَنَ",
+            "translation": "Only those who believe in Allah and the Last Day maintain the mosques.",
+            "summary": "Faith, prayer, charity, and fear of Allah define true builders of sacred spaces.",
+            "keywords": [{
+                    "word": "ءَامَنَ",
+                    "meaning": "Believed"
+                },
+                {
+                    "word": "ٱلْـَٔاخِرِ",
+                    "meaning": "The Last Day"
+                },
+                {
+                    "word": "ٱلْمُهْتَدِينَ",
+                    "meaning": "The guided"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 19,
+            "cluster": "False Comparisons",
+            "theme": "faith",
+            "intensity": 3,
+            "arabic": "أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ",
+            "translation": "Do you equate giving water to pilgrims with believing and striving in Allah’s cause?",
+            "summary": "Outward service does not equal faith-driven sacrifice.",
+            "keywords": [{
+                    "word": "سِقَايَةَ",
+                    "meaning": "Providing water"
+                },
+                {
+                    "word": "جَـٰهَدَ",
+                    "meaning": "Strived"
+                },
+                {
+                    "word": "ٱلظَّـٰلِمِينَ",
+                    "meaning": "Wrongdoers"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 20,
+            "cluster": "Highest Rank",
+            "theme": "divine_support",
+            "intensity": 3,
+            "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟",
+            "translation": "Those who believe, migrate, and strive with wealth and lives are greatest in rank.",
+            "summary": "Sacrifice elevates believers to the highest stations of success.",
+            "keywords": [{
+                    "word": "هَاجَرُوا۟",
+                    "meaning": "Emigrated"
+                },
+                {
+                    "word": "دَرَجَةً",
+                    "meaning": "Rank"
+                },
+                {
+                    "word": "ٱلْفَآئِزُونَ",
+                    "meaning": "The successful"
+                }
+            ]
+        }, {
+            "ayahNumber": 21,
+            "cluster": "Promise of Paradise",
+            "theme": "mercy",
+            "intensity": 2,
+            "arabic": "يُبَشِّرُهُمْ رَبُّهُم بِرَحْمَةٍۢ مِّنْهُ وَرِضْوَٰنٍۢ وَجَنَّـٰتٍۢ",
+            "translation": "Their Lord gives them glad tidings of mercy from Him, His pleasure, and gardens with lasting delight.",
+            "summary": "Allah promises mercy, approval, and eternal joy to the sincere believers.",
+            "keywords": [{
+                    "word": "يُبَشِّرُهُمْ",
+                    "meaning": "Gives them glad tidings"
+                },
+                {
+                    "word": "رِضْوَٰنٍۢ",
+                    "meaning": "Divine approval"
+                },
+                {
+                    "word": "جَنَّـٰتٍۢ",
+                    "meaning": "Gardens (Paradise)"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 22,
+            "cluster": "Eternal Reward",
+            "theme": "mercy",
+            "intensity": 2,
+            "arabic": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌۭ",
+            "translation": "They will abide therein forever; indeed, Allah has a great reward.",
+            "summary": "Paradise is eternal, and Allah’s reward is beyond measure.",
+            "keywords": [{
+                    "word": "خَـٰلِدِينَ",
+                    "meaning": "Abiding forever"
+                },
+                {
+                    "word": "أَبَدًا",
+                    "meaning": "Eternally"
+                },
+                {
+                    "word": "أَجْرٌ عَظِيمٌۭ",
+                    "meaning": "Great reward"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 23,
+            "cluster": "Loyalty Test",
+            "theme": "unity",
+            "intensity": 4,
+            "arabic": "لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ",
+            "translation": "Do not take your fathers or brothers as allies if they prefer disbelief over faith.",
+            "summary": "Faith loyalty overrides family loyalty when belief is at stake.",
+            "keywords": [{
+                    "word": "أَوْلِيَآءَ",
+                    "meaning": "Allies"
+                },
+                {
+                    "word": "ٱلْكُفْرَ",
+                    "meaning": "Disbelief"
+                },
+                {
+                    "word": "ٱلظَّـٰلِمُونَ",
+                    "meaning": "Wrongdoers"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 24,
+            "cluster": "Priority of Faith",
+            "theme": "warning",
+            "intensity": 5,
+            "arabic": "إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ",
+            "translation": "If your families, wealth, and homes are more beloved to you than Allah and His Messenger and striving in His cause, then wait for Allah’s command.",
+            "summary": "Worldly attachments must never surpass devotion to Allah.",
+            "keywords": [{
+                    "word": "أَحَبَّ",
+                    "meaning": "More beloved"
+                },
+                {
+                    "word": "جِهَادٍۢ",
+                    "meaning": "Striving"
+                },
+                {
+                    "word": "فَتَرَبَّصُوا۟",
+                    "meaning": "Then wait"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 25,
+            "cluster": "Lesson of Hunayn",
+            "theme": "divine_support",
+            "intensity": 4,
+            "arabic": "وَيَوْمَ حُنَيْنٍ",
+            "translation": "On the day of Hunayn when your numbers impressed you but did not benefit you.",
+            "summary": "Numerical strength fails without reliance on Allah.",
+            "keywords": [{
+                    "word": "حُنَيْنٍ",
+                    "meaning": "Hunayn (battle)"
+                },
+                {
+                    "word": "أَعْجَبَتْكُمْ",
+                    "meaning": "Impressed you"
+                },
+                {
+                    "word": "مُّدْبِرِينَ",
+                    "meaning": "Fleeing"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 26,
+            "cluster": "Divine Tranquility",
+            "theme": "divine_support",
+            "intensity": 3,
+            "arabic": "ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ",
+            "translation": "Then Allah sent down His tranquility and unseen forces.",
+            "summary": "Victory returned when Allah sent calm and unseen support.",
+            "keywords": [{
+                    "word": "سَكِينَتَهُۥ",
+                    "meaning": "His tranquility"
+                },
+                {
+                    "word": "جُنُودًۭا",
+                    "meaning": "Forces (angels)"
+                },
+                {
+                    "word": "عَذَّبَ",
+                    "meaning": "Punished"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 27,
+            "cluster": "Door of Repentance",
+            "theme": "mercy",
+            "intensity": 2,
+            "arabic": "ثُمَّ يَتُوبُ ٱللَّهُ",
+            "translation": "Then Allah accepts repentance of whom He wills.",
+            "summary": "Even after conflict, repentance remains open.",
+            "keywords": [{
+                    "word": "يَتُوبُ",
+                    "meaning": "Accepts repentance"
+                },
+                {
+                    "word": "غَفُورٌۭ",
+                    "meaning": "Forgiving"
+                },
+                {
+                    "word": "رَّحِيمٌۭ",
+                    "meaning": "Merciful"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 28,
+            "cluster": "Sacred Space Protection",
+            "theme": "law",
+            "intensity": 3,
+            "arabic": "إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌۭ",
+            "translation": "The polytheists are impure; let them not approach the Sacred Mosque.",
+            "summary": "Spiritual purity of sacred spaces is preserved.",
+            "keywords": [{
+                    "word": "نَجَسٌۭ",
+                    "meaning": "Impure"
+                },
+                {
+                    "word": "ٱلْمَسْجِدَ ٱلْحَرَامَ",
+                    "meaning": "Sacred Mosque"
+                },
+                {
+                    "word": "يُغْنِيكُمُ",
+                    "meaning": "Will enrich you"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 29,
+            "cluster": "Confrontation with People of the Book",
+            "theme": "battle",
+            "intensity": 4,
+            "arabic": "قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ",
+            "translation": "Fight those who do not believe in Allah nor the Last Day until they give the jizyah.",
+            "summary": "Political authority of Islam is established through structured governance.",
+            "keywords": [{
+                    "word": "ٱلْجِزْيَةَ",
+                    "meaning": "Jizyah (tax)"
+                },
+                {
+                    "word": "دِينَ ٱلْحَقِّ",
+                    "meaning": "Religion of truth"
+                },
+                {
+                    "word": "صَـٰغِرُونَ",
+                    "meaning": "Humbled"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 30,
+            "cluster": "Theological Corruption",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ",
+            "translation": "The Jews say 'Ezra is the son of Allah' and the Christians say 'The Messiah is the son of Allah.'",
+            "summary": "False theological claims are condemned as deviation.",
+            "keywords": [{
+                    "word": "عُزَيْرٌ",
+                    "meaning": "Ezra"
+                },
+                {
+                    "word": "ٱلْمَسِيحُ",
+                    "meaning": "The Messiah"
+                },
+                {
+                    "word": "يُؤْفَكُونَ",
+                    "meaning": "Deluded"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 31,
+            "cluster": "Distortion of Worship",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَـٰنَهُمْ أَرْبَابًۭا مِّن دُونِ ٱللَّهِ",
+            "translation": "They took their scholars and monks as lords besides Allah, though they were commanded to worship only One God.",
+            "summary": "Blind obedience elevating humans to divine authority is condemned as hidden shirk.",
+            "keywords": [{
+                    "word": "أَحْبَارَهُمْ",
+                    "meaning": "Their scholars"
+                },
+                {
+                    "word": "أَرْبَابًۭا",
+                    "meaning": "Lords"
+                },
+                {
+                    "word": "سُبْحَـٰنَهُۥ",
+                    "meaning": "Exalted is He"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 32,
+            "cluster": "Light of Allah",
+            "theme": "divine_support",
+            "intensity": 3,
+            "arabic": "يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ",
+            "translation": "They seek to extinguish the light of Allah, but Allah refuses except to perfect His light.",
+            "summary": "Opposition cannot extinguish divine truth; revelation prevails.",
+            "keywords": [{
+                    "word": "يُطْفِـُٔوا۟",
+                    "meaning": "Extinguish"
+                },
+                {
+                    "word": "نُورَ ٱللَّهِ",
+                    "meaning": "Light of Allah"
+                },
+                {
+                    "word": "يُتِمَّ",
+                    "meaning": "Perfect / complete"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 33,
+            "cluster": "Global Manifestation",
+            "theme": "divine_support",
+            "intensity": 3,
+            "arabic": "لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ",
+            "translation": "He sent His Messenger with guidance to make it prevail over all religion.",
+            "summary": "Islam’s message is destined to rise above falsehood.",
+            "keywords": [{
+                    "word": "ٱلْهُدَىٰ",
+                    "meaning": "Guidance"
+                },
+                {
+                    "word": "دِينِ ٱلْحَقِّ",
+                    "meaning": "Religion of truth"
+                },
+                {
+                    "word": "لِيُظْهِرَهُۥ",
+                    "meaning": "To make it prevail"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 34,
+            "cluster": "Corrupt Clergy & Wealth",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ",
+            "translation": "Those who hoard gold and silver and do not spend in Allah’s cause will face painful punishment.",
+            "summary": "Hoarding wealth and exploiting religion leads to severe accountability.",
+            "keywords": [{
+                    "word": "يَكْنِزُونَ",
+                    "meaning": "They hoard"
+                },
+                {
+                    "word": "بِٱلْبَـٰطِلِ",
+                    "meaning": "Unjustly"
+                },
+                {
+                    "word": "عَذَابٍ أَلِيمٍۢ",
+                    "meaning": "Painful punishment"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 35,
+            "cluster": "Day of Exposure",
+            "theme": "warning",
+            "intensity": 5,
+            "arabic": "يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ",
+            "translation": "On the Day it will be heated in Hellfire and sear their foreheads and sides.",
+            "summary": "Wealth hoarded becomes the instrument of punishment.",
+            "keywords": [{
+                    "word": "جَهَنَّمَ",
+                    "meaning": "Hell"
+                },
+                {
+                    "word": "فَتُكْوَىٰ",
+                    "meaning": "Will be seared"
+                },
+                {
+                    "word": "تَكْنِزُونَ",
+                    "meaning": "You used to hoard"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 36,
+            "cluster": "Sacred Months",
+            "theme": "law",
+            "intensity": 3,
+            "arabic": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًۭا",
+            "translation": "The number of months with Allah is twelve; four are sacred.",
+            "summary": "Divine law defines sacred times; injustice within them is prohibited.",
+            "keywords": [{
+                    "word": "ٱلشُّهُورِ",
+                    "meaning": "Months"
+                },
+                {
+                    "word": "حُرُمٌۭ",
+                    "meaning": "Sacred"
+                },
+                {
+                    "word": "ٱلْمُتَّقِينَ",
+                    "meaning": "The righteous"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 37,
+            "cluster": "Manipulating Sacred Law",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌۭ فِى ٱلْكُفْرِ",
+            "translation": "Postponing sacred months is an increase in disbelief.",
+            "summary": "Manipulating divine law for convenience deepens corruption.",
+            "keywords": [{
+                    "word": "ٱلنَّسِىٓءُ",
+                    "meaning": "Postponement"
+                },
+                {
+                    "word": "زِيَادَةٌۭ",
+                    "meaning": "Increase"
+                },
+                {
+                    "word": "زُيِّنَ",
+                    "meaning": "Made attractive"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 38,
+            "cluster": "Call to Strive",
+            "theme": "warning",
+            "intensity": 4,
+            "arabic": "ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ",
+            "translation": "When told to go forth in Allah’s cause, why cling to the earth?",
+            "summary": "Attachment to dunya weakens commitment to the Hereafter.",
+            "keywords": [{
+                    "word": "ٱنفِرُوا۟",
+                    "meaning": "Go forth"
+                },
+                {
+                    "word": "ٱثَّاقَلْتُمْ",
+                    "meaning": "You clung heavily"
+                },
+                {
+                    "word": "ٱلدُّنْيَا",
+                    "meaning": "Worldly life"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 39,
+            "cluster": "Replacement Warning",
+            "theme": "warning",
+            "intensity": 5,
+            "arabic": "يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ",
+            "translation": "If you do not go forth, He will replace you with another people.",
+            "summary": "Allah’s mission continues—even if believers fail.",
+            "keywords": [{
+                    "word": "عَذَابًا أَلِيمًۭا",
+                    "meaning": "Painful punishment"
+                },
+                {
+                    "word": "يَسْتَبْدِلْ",
+                    "meaning": "Replace"
+                },
+                {
+                    "word": "قَدِيرٌ",
+                    "meaning": "All-Powerful"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 40,
+            "cluster": "Cave of Thawr",
+            "theme": "divine_support",
+            "intensity": 4,
+            "arabic": "لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا",
+            "translation": "Do not grieve; indeed, Allah is with us.",
+            "summary": "Divine companionship overcomes fear—even in isolation.",
+            "keywords": [{
+                    "word": "ٱلْغَارِ",
+                    "meaning": "The cave"
+                },
+                {
+                    "word": "سَكِينَتَهُۥ",
+                    "meaning": "His tranquility"
+                },
+                {
+                    "word": "ٱلْعُلْيَا",
+                    "meaning": "The highest"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 41,
+            "cluster": "Call to Mobilize",
+            "theme": "battle",
+            "intensity": 4,
+            "arabic": "ٱنفِرُوا۟ خِفَافًۭا وَثِقَالًۭا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ",
+            "translation": "Go forth, light or heavy, and strive with your wealth and your lives in the cause of Allah.",
+            "summary": "Commitment to Allah’s cause requires sacrifice in every condition.",
+            "keywords": [{
+                    "word": "خِفَافًۭا",
+                    "meaning": "Light (in readiness)"
+                },
+                {
+                    "word": "ثِقَالًۭا",
+                    "meaning": "Heavy (in difficulty)"
+                },
+                {
+                    "word": "جَـٰهِدُوا۟",
+                    "meaning": "Strive"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 42,
+            "cluster": "Hypocrites’ Excuses",
+            "theme": "hypocrisy",
+            "intensity": 3,
+            "arabic": "لَوْ كَانَ عَرَضًۭا قَرِيبًۭا",
+            "translation": "Had it been an easy gain and short journey, they would have followed you.",
+            "summary": "Hypocrites follow comfort, not conviction.",
+            "keywords": [{
+                    "word": "عَرَضًۭا",
+                    "meaning": "Worldly gain"
+                },
+                {
+                    "word": "ٱلشُّقَّةُ",
+                    "meaning": "Hardship of journey"
+                },
+                {
+                    "word": "لَكَـٰذِبُونَ",
+                    "meaning": "Surely liars"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 43,
+            "cluster": "Lesson in Leadership",
+            "theme": "faith",
+            "intensity": 2,
+            "arabic": "عَفَا ٱللَّهُ عَنكَ",
+            "translation": "Allah has pardoned you—why did you grant them permission?",
+            "summary": "Leadership must distinguish sincerity from false excuses.",
+            "keywords": [{
+                    "word": "أَذِنتَ",
+                    "meaning": "You gave permission"
+                },
+                {
+                    "word": "يَتَبَيَّنَ",
+                    "meaning": "Be clear"
+                },
+                {
+                    "word": "ٱلْكَـٰذِبِينَ",
+                    "meaning": "The liars"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 44,
+            "cluster": "True Believers",
+            "theme": "faith",
+            "intensity": 2,
+            "arabic": "لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ",
+            "translation": "Those who truly believe would not ask to be excused from striving.",
+            "summary": "Faith produces eagerness, not hesitation.",
+            "keywords": [{
+                    "word": "يُؤْمِنُونَ",
+                    "meaning": "They believe"
+                },
+                {
+                    "word": "يُجَـٰهِدُوا۟",
+                    "meaning": "To strive"
+                },
+                {
+                    "word": "ٱلْمُتَّقِينَ",
+                    "meaning": "The righteous"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 45,
+            "cluster": "Doubtful Hearts",
+            "theme": "hypocrisy",
+            "intensity": 3,
+            "arabic": "إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ",
+            "translation": "Only those who do not believe ask permission, their hearts full of doubt.",
+            "summary": "Inner doubt manifests as outward reluctance.",
+            "keywords": [{
+                    "word": "ٱرْتَابَتْ",
+                    "meaning": "Doubted"
+                },
+                {
+                    "word": "رَيْبِهِمْ",
+                    "meaning": "Their doubt"
+                },
+                {
+                    "word": "يَتَرَدَّدُونَ",
+                    "meaning": "They waver"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 46,
+            "cluster": "Divine Restraint",
+            "theme": "divine_support",
+            "intensity": 3,
+            "arabic": "وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةًۭ",
+            "translation": "If they had intended to go forth, they would have prepared—but Allah restrained them.",
+            "summary": "Allah prevents insincere hearts from corrupting the mission.",
+            "keywords": [{
+                    "word": "عُدَّةًۭ",
+                    "meaning": "Preparation"
+                },
+                {
+                    "word": "فَثَبَّطَهُمْ",
+                    "meaning": "He held them back"
+                },
+                {
+                    "word": "ٱلْقَـٰعِدِينَ",
+                    "meaning": "Those who sit back"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 47,
+            "cluster": "Internal Corruption",
+            "theme": "hypocrisy",
+            "intensity": 4,
+            "arabic": "مَّا زَادُوكُمْ إِلَّا خَبَالًۭا",
+            "translation": "Had they gone with you, they would have only increased you in confusion.",
+            "summary": "Hypocrites within ranks cause chaos and division.",
+            "keywords": [{
+                    "word": "خَبَالًۭا",
+                    "meaning": "Corruption / confusion"
+                },
+                {
+                    "word": "ٱلْفِتْنَةَ",
+                    "meaning": "Discord"
+                },
+                {
+                    "word": "ٱلظَّـٰلِمِينَ",
+                    "meaning": "Wrongdoers"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 48,
+            "cluster": "History of Plotting",
+            "theme": "hypocrisy",
+            "intensity": 3,
+            "arabic": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ",
+            "translation": "They had sought discord before and plotted against you.",
+            "summary": "Their opposition is rooted in long-standing resentment.",
+            "keywords": [{
+                    "word": "ٱبْتَغَوُا۟",
+                    "meaning": "They sought"
+                },
+                {
+                    "word": "ٱلْحَقُّ",
+                    "meaning": "The truth"
+                },
+                {
+                    "word": "أَمْرُ ٱللَّهِ",
+                    "meaning": "Command of Allah"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 49,
+            "cluster": "False Excuse",
+            "theme": "hypocrisy",
+            "intensity": 3,
+            "arabic": "ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ",
+            "translation": "Permit me and do not put me to trial—yet into trial they have fallen.",
+            "summary": "Avoiding struggle is itself the true trial.",
+            "keywords": [{
+                    "word": "ٱلْفِتْنَةِ",
+                    "meaning": "Trial"
+                },
+                {
+                    "word": "سَقَطُوا۟",
+                    "meaning": "They fell"
+                },
+                {
+                    "word": "مُحِيطَةٌۢ",
+                    "meaning": "Encompassing"
+                }
+            ]
+        },
+        {
+            "ayahNumber": 50,
+            "cluster": "Envy & Malice",
+            "theme": "hypocrisy",
+            "intensity": 3,
+            "arabic": "إِن تُصِبْكَ حَسَنَةٌۭ تَسُؤْهُمْ",
+            "translation": "If good befalls you, it distresses them; if harm strikes, they rejoice.",
+            "summary": "Their hearts rejoice in Muslim hardship and grieve at Muslim success.",
+            "keywords": [{
+                    "word": "حَسَنَةٌۭ",
+                    "meaning": "Good fortune"
+                },
+                {
+                    "word": "مُصِيبَةٌۭ",
+                    "meaning": "Calamity"
+                },
+                {
+                    "word": "فَرِحُونَ",
+                    "meaning": "Rejoicing"
+                }
+            ]
+        }
+    ]
+}

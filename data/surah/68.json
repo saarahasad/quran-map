@@ -1,0 +1,927 @@
+{
+  "surahId": 68,
+  "surahNameArabic": "القلم",
+  "surahNameEnglish": "Al-Qalam",
+  "revelationType": "Makki",
+  "totalAyahs": 52,
+  "thesis": "By the pen and what they write, Allah affirms the Prophet is not mad but has an endless reward and exalted character; do not obey deniers or the habitual swearer who is a slanderer and hinderer of good—wealth and children are a test; the people of the garden swore to pluck without saying If Allah wills and were destroyed; the muttaqin have Gardens of Pleasure, and Muslims are not treated like criminals; be patient like the companion of the fish (Yunus) and know the Quran is a reminder for the worlds.",
+  "gist": [
+    "Oath by the pen and what they inscribe; Nun—none knows its meaning but Allah; man has been given but little knowledge.",
+    "By your Lord’s grace you are not mad; for you is an endless reward; you are upon a great moral character (khuluq azim).",
+    "Do not obey deniers; they wish you would soften so they would soften; do not obey every habitual swearer—slanderer, hinderer of good, transgressor, sinful, cruel, pretender; because he has wealth and children (test).",
+    "When Our verses are recited he says: legends of the ancients; We will brand him on the snout (false pride).",
+    "Companions of the garden: swore to pluck in morning without saying If Allah wills; calamity from Lord while they slept; excluded the poor; when they saw it: we are lost/deprived; glorify Allah; we were wrongdoers; such is the punishment—and the Hereafter’s is greater.",
+    "For the muttaqin are Gardens of Pleasure; shall We treat Muslims like criminals? How do you judge? No book/oath for that; Day when shin uncovered, called to prostration but cannot; leave deniers—We will lead them gradually from where they do not know; My plan is firm.",
+    "Be patient for your Lord’s decision; do not be like the companion of the fish (Yunus)—his Lord chose him and made him of the righteous; the Quran is only a reminder for the worlds."
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "revelation": "purple",
+    "hereafter": "amber",
+    "warning": "orange",
+    "guidance": "lime",
+    "patience": "pink",
+    "mercy": "teal",
+    "prophet_story": "blue",
+    "signs": "cyan",
+    "stories": "fuchsia"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ نۤۚ وَٱلۡقَلَمِ وَمَا یَسۡطُرُونَ",
+      "translation": "Nun. By the pen and what they inscribe,",
+      "summary": "Nun. By the pen and what they inscribe,",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "ٱلۡقَلَمِ", "translation": "The pen" },
+        { "arabic": "یَسۡطُرُونَ", "translation": "They inscribe" }
+      ],
+      "tafsirSummary": "Allah swears by the pen and by what they write. The first thing Allah created was the pen, and He said to it: Write the qadr and whatever is to happen. The pen and its writing are among the most noble actions; we must use the ability Allah gave us to write what is useful and good. Islam places great emphasis on education; the Prophet said whoever treads a path seeking knowledge, Allah makes easy for him a path to Paradise, and the scholars are the heirs of the prophets. Nun is of the huruf muqatta'at—none knows its meaning but Allah.",
+      "lessonReflection": "Use the gift of the pen and knowledge for what is good and for conveying the truth; the first creation was the pen—honour it.",
+      "beforeThisAyah": "This surah opens with its main themes.",
+      "afterThisAyah": "Allah affirms that by His grace the Prophet is not mad."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "مَاۤ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونࣲ",
+      "translation": "You are not, [O Muhammad], by the favor of your Lord, a madman.",
+      "summary": "You are not, by the favor of your Lord, a madman.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "بِنِعۡمَةِ رَبِّكَ", "translation": "By the favor of your Lord" },
+        { "arabic": "بِمَجۡنُونࣲ", "translation": "A madman" }
+      ],
+      "tafsirSummary": "By the grace of your Lord you are not mad. This was the constant allegation the Prophet had to face; Allah affirms he is not majnun. So do not be intimidated or falter because of their allegations and foolish remarks.",
+      "lessonReflection": "When people accuse the people of truth of madness, hold fast to the favour of your Lord—He is your witness.",
+      "beforeThisAyah": "The pen and what they inscribe were sworn by.",
+      "afterThisAyah": "For you is an endless reward."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَإِنَّ لَكَ لَأَجۡرًا غَیۡرَ مَمۡنُونࣲ",
+      "translation": "And indeed, for you is a reward uninterrupted.",
+      "summary": "And indeed, for you is a reward uninterrupted.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "أَجۡرًا", "translation": "Reward" },
+        { "arabic": "غَیۡرَ مَمۡنُونࣲ", "translation": "Uninterrupted / never cut off" }
+      ],
+      "tafsirSummary": "And indeed for you will be an endless reward. Allah tells the Prophet: do not be intimidated by their allegations; your reward will never be exhausted or cut off. Depending on the rank of a person is his reward—and because of his sabr, his tolerance and steadfastness in the face of their accusations, his reward too will be great.",
+      "lessonReflection": "The one who is patient with false accusations is promised an endless reward; do not falter for the sake of people's approval.",
+      "beforeThisAyah": "Allah affirmed the Prophet is not mad by His grace.",
+      "afterThisAyah": "You are upon a great moral character."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِیمࣲ",
+      "translation": "And indeed, you are of a great moral character.",
+      "summary": "And indeed, you are of a great moral character.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "خُلُقٍ", "translation": "Moral character" },
+        { "arabic": "عَظِیمࣲ", "translation": "Great" }
+      ],
+      "tafsirSummary": "And indeed you are upon an exalted standard of character. When we look at the Prophet's Sunnah we find a man who fulfilled every role to perfection—teacher, general, ruler, friend, husband, father. As Aisha (may Allah be pleased with her) said: Kana khuluquhu al-Quran—his conduct was the Quran. He was the Quran walking, the epitome of the Quran. Hazrat Anas said: for ten years I served him; he never once said uff to me, never blamed me. There is for you in the Messenger of Allah a beautiful example.",
+      "lessonReflection": "Take the Prophet as your model in character; his conduct was the Quran—we are to emulate that standard, not just preach it.",
+      "beforeThisAyah": "An endless reward was promised for the Prophet.",
+      "afterThisAyah": "You will see and they will see—which of you is afflicted."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَسَتُبۡصِرُ وَیُبۡصِرُونَ",
+      "translation": "So you will see and they will see",
+      "summary": "So you will see and they will see.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "فَسَتُبۡصِرُ", "translation": "So you will see" },
+        { "arabic": "وَیُبۡصِرُونَ", "translation": "And they will see" }
+      ],
+      "tafsirSummary": "Fasatubsir wa yubsirun—you will see and they will see. How many of the enemies of the Prophet are known to us today? We know Abu Jahl, Abu Lahab, Abu Sufyan (who later became Muslim)—but the rest are forgotten. Allah says: you will see and they will see. Which of you achieves enduring reputation of honour and respect? Which of you is remembered as the one upon the truth?",
+      "lessonReflection": "Time reveals who was right; the one who holds to the truth will be vindicated, and the revilers will be forgotten.",
+      "beforeThisAyah": "The Prophet was described as having a great moral character.",
+      "afterThisAyah": "Which of you is the afflicted (by madness)?"
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "بِأَییِّكُمُ ٱلۡمَفۡتُونُ",
+      "translation": "Which of you is the afflicted [by a devil].",
+      "summary": "Which of you is the afflicted [by a devil].",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "بِأَییِّكُمُ", "translation": "Which of you" },
+        { "arabic": "ٱلۡمَفۡتُونُ", "translation": "The afflicted (by madness)" }
+      ],
+      "tafsirSummary": "Bi-ayyikumul muftoon—which of you is afflicted with madness? The question is rhetorical: the one who rejects revelation and slanders the Prophet is the one truly afflicted. Allah will make clear in the end who was upon guidance and who was in error.",
+      "lessonReflection": "Do not let the world's label of \"mad\" or \"extreme\" shake you; Allah knows who is truly afflicted and who is guided.",
+      "beforeThisAyah": "You will see and they will see.",
+      "afterThisAyah": "Your Lord knows best who has gone astray and who is guided."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِیلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِینَ",
+      "translation": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided.",
+      "summary": "Your Lord knows best who has gone astray and who is guided.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "أَعۡلَمُ بِمَن ضَلَّ", "translation": "Most knowing of who has gone astray" },
+        { "arabic": "أَعۡلَمُ بِٱلۡمُهۡتَدِینَ", "translation": "Most knowing of the guided" }
+      ],
+      "tafsirSummary": "Indeed your Lord—He knows best him who has gone astray from His path, and He knows best those who are guided. Inna akramakum indallahi atqaakum—the most honourable of you with Allah is the most Allah-conscious. Allah is teaching us not to value people's opinions, not to judge by what people say. People's opinion has never been the yardstick.",
+      "lessonReflection": "Seek honour with Allah through taqwa, not with people through compromise; He knows who is astray and who is guided.",
+      "beforeThisAyah": "Which of you is afflicted was asked.",
+      "afterThisAyah": "So do not obey the deniers."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "فَلَا تُطِعِ ٱلۡمُكَذِّبِینَ",
+      "translation": "Then do not obey the deniers.",
+      "summary": "Then do not obey the deniers.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "لَا تُطِعِ", "translation": "Do not obey" },
+        { "arabic": "ٱلۡمُكَذِّبِینَ", "translation": "The deniers" }
+      ],
+      "tafsirSummary": "So do not obey those who deny. Look at the link between the verses: Allah says focus on pleasing Me, ignore people, and do not compromise. Do not fall into the trap of compromising your deen for the sake of people. Denial can be by words or by actions—they want you to soften so they can go on sinning. It is often people who do not pray who are most vehement against those who do; those who do not do hijab who attack those who do—because they feel guilty and want to cover up.",
+      "lessonReflection": "Do not obey the deniers or soften your stance to please them; hold to the truth and leave their judgment to Allah.",
+      "beforeThisAyah": "Your Lord knows best who is astray and who is guided.",
+      "afterThisAyah": "They wish you would soften so they would soften."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَدُّوا۟ لَوۡ تُدۡهِنُ فَیُدۡهِنُونَ",
+      "translation": "They wish that you would soften [in your position], so they would soften [toward you].",
+      "summary": "They wish that you would soften so they would soften.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "تُدۡهِنُ", "translation": "You would soften (compromise)" },
+        { "arabic": "فَیُدۡهِنُونَ", "translation": "So they would soften" }
+      ],
+      "tafsirSummary": "They wish that you would soften—that you would compromise your stance—so they would soften toward you. Their aim is not peace but to get you to dilute the deen so they can continue without guilt. If you stand firm, they feel exposed; if you soften, they feel justified. Allah warns: do not give them that satisfaction.",
+      "lessonReflection": "The wish of the deniers is for you to compromise so they can feel at ease; do not soften the truth for their comfort.",
+      "beforeThisAyah": "Do not obey the deniers.",
+      "afterThisAyah": "And do not obey every habitual swearer—the one described next."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَلَا تُطِعۡ كُلَّ حَلَّافࣲ مَّهِینٍ",
+      "translation": "And do not obey every worthless habitual swearer",
+      "summary": "And do not obey every worthless habitual swearer.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "حَلَّافࣲ", "translation": "Habitual swearer" },
+        { "arabic": "مَّهِینٍ", "translation": "Worthless" }
+      ],
+      "tafsirSummary": "And do not obey every hallafin maheen—every worthless habitual swearer. Allah says he is a liar. Before you fall into this person's trap, analyse him: what is he himself toward others? The next verses describe him fully—going about with slanders, hinderer of good, transgressor, sinful, cruel, and a pretender of lineage.",
+      "lessonReflection": "Do not obey those who swear much but are worthless in character; look at their deeds before you take their counsel.",
+      "beforeThisAyah": "They wish you would soften so they would soften.",
+      "afterThisAyah": "He is a scorner, going about with malicious gossip."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "هَمَّازࣲ مَّشَّاۤءِۭ بِنَمِیمࣲ",
+      "translation": "[And] scorner, going about with malicious gossip -",
+      "summary": "Scorner, going about with malicious gossip.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "هَمَّازࣲ", "translation": "Scorner" },
+        { "arabic": "بِنَمِیمࣲ", "translation": "With malicious gossip (nameemah)" }
+      ],
+      "tafsirSummary": "Hammaz—scorner; mashaa'an binameem—going about with slanders. Nameemah is making false statements to slander someone's reputation and to cause division. This person does not only sin in private; he spreads gossip and scorn. Such a one is not to be obeyed or taken as a guide.",
+      "lessonReflection": "Shun the one who scorns and carries tales; slander and gossip are from the traits that disqualify a person from being followed.",
+      "beforeThisAyah": "Do not obey the worthless habitual swearer.",
+      "afterThisAyah": "A preventer of good, transgressing and sinful."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "مَّنَّاعࣲ لِّلۡخَیۡرِ مُعۡتَدٍ أَثِیمٍ",
+      "translation": "A preventer of good, transgressing and sinful,",
+      "summary": "A preventer of good, transgressing and sinful.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "مَّنَّاعࣲ لِّلۡخَیۡرِ", "translation": "Preventer of good" },
+        { "arabic": "مُعۡتَدٍ أَثِیمٍ", "translation": "Transgressing and sinful" }
+      ],
+      "tafsirSummary": "Manna'in lil-khayri mu'tadin athim—a preventer of good, transgressing and sinful. He hinders good deeds and stops others from doing them; he transgresses the rights of Allah and the rights of people; he is sinful. Such a person—going about with slanders, hindering good, transgressing—is the one not to obey. Allah lists these traits so we recognise the type and do not fall into his trap.",
+      "lessonReflection": "Do not obey those who prevent good and transgress; they are sinful and lead others away from good.",
+      "beforeThisAyah": "Nor the scorner who goes about with slander.",
+      "afterThisAyah": "Cruel, moreover, and an illegitimate pretender."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "عُتُلِّۭ بَعۡدَ ذَ ٰ⁠لِكَ زَنِیمٍ",
+      "translation": "Cruel, moreover, and an illegitimate pretender.",
+      "summary": "Cruel, moreover, and an illegitimate pretender.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "عُتُلِّۭ", "translation": "Cruel / crude" },
+        { "arabic": "زَنِیمٍ", "translation": "Illegitimate pretender (false lineage)" }
+      ],
+      "tafsirSummary": "Utullin ba'da dhalika zanim—cruel, moreover, and then an illegitimate pretender (zanim). He is crude in behaviour and pretends to a certain lineage he does not have. Look at this category of sins Allah recites: before you obey such a person, analyse him. What is giving him the courage to disobey? The next verse says: because he has wealth and children.",
+      "lessonReflection": "The one who is cruel and pretends to what he is not is not to be obeyed; his wealth and children do not make him right.",
+      "beforeThisAyah": "A preventer of good, transgressing and sinful.",
+      "afterThisAyah": "Because he is a possessor of wealth and children."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "أَن كَانَ ذَا مَالࣲ وَبَنِینَ",
+      "translation": "Because he is a possessor of wealth and children,",
+      "summary": "Because he is a possessor of wealth and children.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "ذَا مَالࣲ", "translation": "Possessor of wealth" },
+        { "arabic": "وَبَنِینَ", "translation": "And children" }
+      ],
+      "tafsirSummary": "An kana dha malin wa banin—because he is a possessor of wealth and children. He assumes that since Allah gave him wealth and children, he must be doing something right, even if he is disobeying Allah. For some people wealth and children are a curse, not a blessing: they are a test. Indeed We have tested them—this wealth and these children were not given because Allah was pleased with him; they were given so Allah could test him. Do not be impressed by such people.",
+      "lessonReflection": "Wealth and children are a test; they do not prove Allah's pleasure—do not take the wealthy sinner as a model.",
+      "beforeThisAyah": "Cruel and an illegitimate pretender.",
+      "afterThisAyah": "When Our verses are recited to him he says: legends of the ancients."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "إِذَا تُتۡلَىٰ عَلَیۡهِ ءَایَـٰتُنَا قَالَ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ",
+      "translation": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
+      "summary": "When Our verses are recited to him he says: legends of the ancients.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "ءَایَـٰتُنَا", "translation": "Our verses" },
+        { "arabic": "أَسَـٰطِیرُ ٱلۡأَوَّلِینَ", "translation": "Legends of the former peoples" }
+      ],
+      "tafsirSummary": "When Our verses are recited to him he says: asateerul awwaleen—tales of the men of old. He dismisses the Quran as ancient fables instead of receiving it as guidance. This is the response of the one who feels secure because of his wealth and children and who refuses to submit. Allah's response: We will brand him on the snout—a symbol of his false pride and his humiliation in the Hereafter.",
+      "lessonReflection": "Dismissing the verses as \"old tales\" is the response of the arrogant; such a person will be humiliated.",
+      "beforeThisAyah": "He has wealth and children and so feels secure.",
+      "afterThisAyah": "We will brand him upon the snout."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+      "translation": "We will brand him upon the snout.",
+      "summary": "We will brand him upon the snout.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "سَنَسِمُهُۥ", "translation": "We will brand him" },
+        { "arabic": "ٱلۡخُرۡطُومِ", "translation": "The snout / nose" }
+      ],
+      "tafsirSummary": "Sanasimuhu alal khurtum—We will brand him on the snout (on the nose). Because he is stuck up—this is a symbol of his false pride. Allah says: I will humiliate him. The one who dismissed the verses as legends and relied on his wealth and children will be marked with a brand of disgrace, and his arrogance will be turned against him.",
+      "lessonReflection": "False pride leads to humiliation; the one who is \"stuck up\" before Allah will be branded in the Hereafter.",
+      "beforeThisAyah": "He said the verses are legends of the ancients.",
+      "afterThisAyah": "Indeed We have tried them as We tried the people of the garden."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "إِنَّا بَلَوۡنَـٰهُمۡ كَمَا بَلَوۡنَاۤ أَصۡحَـٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُوا۟ لَیَصۡرِمُنَّهَا مُصۡبِحِینَ",
+      "translation": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+      "summary": "We have tried them as We tried the companions of the garden when they swore to pluck its fruit in the morning.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "بَلَوۡنَـٰهُمۡ", "translation": "We have tried them" },
+        { "arabic": "أَصۡحَـٰبَ ٱلۡجَنَّةِ", "translation": "The companions of the garden" },
+        { "arabic": "لَیَصۡرِمُنَّهَا مُصۡبِحِینَ", "translation": "To pluck it in the morning" }
+      ],
+      "tafsirSummary": "Indeed We have tried them as We tried the people of the garden—when they swore to pluck the fruits of the garden in the morning without saying If Allah wills (la yastathnun). They did not say In sha Allah. In sha Allah is not just words; it is recognition that there is no power or authority except by Allah's will. When man thinks he earns everything from his own effort, he forgets: la hawla wa la quwwata illa billah. Allah gives us an example so we understand how He tests us by means of wealth.",
+      "lessonReflection": "Never rely on your own power when making plans; say In sha Allah and mean it—recognition that all power is with Allah.",
+      "beforeThisAyah": "We will brand him upon the snout.",
+      "afterThisAyah": "Without making exception (they did not say If Allah wills)."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "وَلَا یَسۡتَثۡنُونَ",
+      "translation": "Without making exception.",
+      "summary": "Without making exception (they did not say If Allah wills).",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "لَا یَسۡتَثۡنُونَ", "translation": "They do not make exception (In sha Allah)" }
+      ],
+      "tafsirSummary": "Wa la yastathnun—and they do not make exception. They did not say In sha Allah. The greatest recognition is that I will do such-and-such if Allah wills—if Allah gives me life, strength, and permission. When we plan without that recognition, we are relying on our own power. A calamity can occur anytime, even while we are asleep; the garden was destroyed in the night.",
+      "lessonReflection": "Always condition your plans with In sha Allah; it is the recognition that nothing happens except by Allah's will.",
+      "beforeThisAyah": "They swore to pluck the fruit in the morning.",
+      "afterThisAyah": "So there came upon the garden an affliction from your Lord while they slept."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "فَطَافَ عَلَیۡهَا طَاۤىِٕفࣱ مِّن رَّبِّكَ وَهُمۡ نَاۤىِٕمُونَ",
+      "translation": "So there came upon the garden an affliction from your Lord while they were asleep.",
+      "summary": "So there came upon the garden an affliction from your Lord while they were asleep.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "طَاۤىِٕفࣱ مِّن رَّبِّكَ", "translation": "An affliction from your Lord" },
+        { "arabic": "نَاۤىِٕمُونَ", "translation": "While they were asleep" }
+      ],
+      "tafsirSummary": "Fatafa alayha taifun min rabbika wa hum na'imun—so there came upon the garden a visitation, a fire from your Lord, at night, while they were asleep. We need to realise that a calamity can occur at any time, even while we sleep. They had planned to pluck in the morning with strong determination (hardin qadireen), thinking they had the power—but by morning the garden was like a pitch-dark night, in complete ruins.",
+      "lessonReflection": "Calamity can come while we sleep; do not place confidence in your own power—only in Allah's will.",
+      "beforeThisAyah": "They did not say If Allah wills.",
+      "afterThisAyah": "And it became as though reaped (blackened, ruined)."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "فَأَصۡبَحَتۡ كَٱلصَّرِیمِ",
+      "translation": "And it became as though reaped.",
+      "summary": "And it became as though reaped (blackened, ruined).",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "فَأَصۡبَحَتۡ", "translation": "So it became by morning" },
+        { "arabic": "كَٱلصَّرِیمِ", "translation": "As though reaped / stripped" }
+      ],
+      "tafsirSummary": "Fa-asbahat kal-sareem—so it became by the morning like a pitch-dark night, in complete ruins. The garden that they had sworn to pluck the next day was gone. One night, everything was lost. Such is the punishment of this world—and the torment of the Hereafter is greater, if they but knew.",
+      "lessonReflection": "Worldly loss can come in a single night; preserve your blessings with shukr, humility, obedience, and sharing with others.",
+      "beforeThisAyah": "An affliction from your Lord came while they slept.",
+      "afterThisAyah": "And they called one another in the morning."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "فَتَنَادَوۡا۟ مُصۡبِحِینَ",
+      "translation": "And they called one another at morning,",
+      "summary": "And they called one another at morning.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "فَتَنَادَوۡا۟", "translation": "So they called out to one another" },
+        { "arabic": "مُصۡبِحِینَ", "translation": "At morning" }
+      ],
+      "tafsirSummary": "Fatanadaw musbihiin—and they called out to one another when the morning broke, saying: go to your field in the morning if you would pluck the fruits. They did not yet know what had happened. They set out in the morning with strong intention (hardin qadireen), thinking they had the power—and they had already agreed that no poor person would enter the garden that day.",
+      "lessonReflection": "When we turn away from Allah and rely on our own power, we also begin to violate the rights of others—like excluding the poor.",
+      "beforeThisAyah": "The garden had become like reaped land.",
+      "afterThisAyah": "Saying: Go early to your crop if you would pluck the fruit."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "أَنِ ٱغۡدُوا۟ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَـٰرِمِینَ",
+      "translation": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
+      "summary": "Saying: Go early to your crop if you would cut the fruit.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "ٱغۡدُوا۟", "translation": "Go early" },
+        { "arabic": "حَرۡثِكُمۡ", "translation": "Your crop" }
+      ],
+      "tafsirSummary": "They said to one another: go early to your crop if you would pluck the fruit. They departed conversing in secret (yatakhafatun), saying—as the next verse reveals—that no poor person would enter the garden that day. When we rely on \"our own\" effort and forget Allah, we also start depriving others: why should we give to the poor? Let him work for himself. Arrogance breeds cruelty and insensitivity.",
+      "lessonReflection": "The same attitude that drops In sha Allah leads to excluding the needy; remember the poor and share what Allah has given.",
+      "beforeThisAyah": "They called one another in the morning.",
+      "afterThisAyah": "So they set out, lowering their voices."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "فَٱنطَلَقُوا۟ وَهُمۡ یَتَخَـٰفَتُونَ",
+      "translation": "So they set out, while lowering their voices,",
+      "summary": "So they set out, while lowering their voices.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "ٱنطَلَقُوا۟", "translation": "They set out" },
+        { "arabic": "یَتَخَـٰفَتُونَ", "translation": "Lowering their voices (in secret)" }
+      ],
+      "tafsirSummary": "Fantalagu wa hum yatakhafatun—so they departed, conversing in secret, in low tones. What were they saying in secret? The next verse: that no poor person shall enter the garden upon them today. They had resolved to exclude the needy from their harvest. When you try to deprive Allah of His right (by not saying In sha Allah, by not sharing), you end up depriving people of their rights too.",
+      "lessonReflection": "Secret plans to exclude the poor are recorded; do not conspire to withhold from those in need.",
+      "beforeThisAyah": "Go early to your crop if you would pluck.",
+      "afterThisAyah": "Saying: No poor person shall enter it today upon you."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "أَن لَّا یَدۡخُلَنَّهَا ٱلۡیَوۡمَ عَلَیۡكُم مِّسۡكِینࣱ",
+      "translation": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
+      "summary": "Saying: No poor person shall enter it today upon you.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "لَّا یَدۡخُلَنَّهَا", "translation": "Shall not enter it" },
+        { "arabic": "مِّسۡكِینࣱ", "translation": "Poor person" }
+      ],
+      "tafsirSummary": "An la yadkhulannaha al-yawma alaykum miskeen—that no poor person shall enter upon you into it today. They went in the morning with strong intention, thinking they had the power, and resolved to keep the poor away. When we turn from Allah and rely on our effort, we start violating human rights: we earned this ourselves, so why give to the poor? Let him work for himself. Arrogance breeds cruelty.",
+      "lessonReflection": "Excluding the poor from our bounty is a sign of reliance on self instead of Allah; share and give so that you are given.",
+      "beforeThisAyah": "They set out conversing in secret.",
+      "afterThisAyah": "And they went early in determination, assuming themselves able."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "وَغَدَوۡا۟ عَلَىٰ حَرۡدࣲ قَـٰدِرِینَ",
+      "translation": "And they went early in determination, [assuming themselves] able.",
+      "summary": "And they went early in determination, assuming themselves able.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "وَغَدَوۡا۟", "translation": "And they went early" },
+        { "arabic": "حَرۡدࣲ قَـٰدِرِینَ", "translation": "In determination, able" }
+      ],
+      "tafsirSummary": "Wa gadaw ala hardin qadireen—and they went in the morning with strong intention, thinking they had the power. Hardin qadireen: they believed they were capable and in control. But there is no power except as much as Allah allows—la hawla wa la quwwata illa billah. When they reached the garden and saw it, they realised they had lost everything.",
+      "lessonReflection": "Do not rely on your own ability; every power we have is from Allah—remember that when you plan and when you exclude others.",
+      "beforeThisAyah": "No poor person was to enter the garden that day.",
+      "afterThisAyah": "But when they saw the garden they said: Indeed we are lost."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "فَلَمَّا رَأَوۡهَا قَالُوۤا۟ إِنَّا لَضَاۤلُّونَ",
+      "translation": "But when they saw it, they said, \"Indeed, we are lost;",
+      "summary": "But when they saw it, they said, \"Indeed, we are lost;",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "رَأَوۡهَا", "translation": "When they saw it" },
+        { "arabic": "لَضَاۤلُّونَ", "translation": "We are lost" }
+      ],
+      "tafsirSummary": "Falamma raawha qalu inna la-dallun—but when they saw it (the garden), they said: indeed we are lost. They had gone in the morning with strong intention, assuming they were able—and in one look they realised everything was gone. Such is the punishment of this world; the punishment of the Hereafter is greater, if they but knew.",
+      "lessonReflection": "When we rely on ourselves and forget Allah, loss can come in an instant; turn back to Him before it is too late.",
+      "beforeThisAyah": "They went early in determination, assuming themselves able.",
+      "afterThisAyah": "Rather, we have been deprived."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "translation": "Rather, we have been deprived.\"",
+      "summary": "Rather, we have been deprived.\"",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "بَلۡ", "translation": "Rather" },
+        { "arabic": "مَحۡرُومُونَ", "translation": "We are deprived" }
+      ],
+      "tafsirSummary": "Bal nahnu mahrumun—rather, we are deprived. First they said we are lost; then they corrected themselves: we are deprived. They had excluded the poor and relied on their own power—and now they were the ones deprived. The best among them then spoke: Did I not say to you, why do you not glorify Allah?",
+      "lessonReflection": "Deprivation can be a consequence of our own arrogance and withholding from others; glorify Allah and share so that you are not deprived.",
+      "beforeThisAyah": "They said: Indeed we are lost.",
+      "afterThisAyah": "The most moderate of them said: Did I not say, why do you not glorify Allah?"
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+      "translation": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allah]?' \"",
+      "summary": "The most moderate of them said, \"Did I not say to you, 'Why…",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "أَوۡسَطُهُمۡ", "translation": "The most moderate of them" },
+        { "arabic": "لَوۡلَا تُسَبِّحُونَ", "translation": "Why do you not glorify (Allah)" }
+      ],
+      "tafsirSummary": "Qala awsatuhum alam aqul lakum lawla tusabbihun—the most moderate, the best of them, said: did I not say to you, why do you not glorify Allah? He had warned them—they should have said In sha Allah and remembered Allah. Now they turned to one another in blame, and said: Glory to our Lord, we were wrongdoers.",
+      "lessonReflection": "One person who remembers Allah can remind others; speak up for what is right before the calamity, and glorify Allah always.",
+      "beforeThisAyah": "They said: We are deprived.",
+      "afterThisAyah": "They said: Glory to our Lord; we were wrongdoers."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "قَالُوا۟ سُبۡحَـٰنَ رَبِّنَاۤ إِنَّا كُنَّا ظَـٰلِمِینَ",
+      "translation": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
+      "summary": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.…",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "سُبۡحَـٰنَ رَبِّنَاۤ", "translation": "Glory to our Lord" },
+        { "arabic": "ظَـٰلِمِینَ", "translation": "Wrongdoers" }
+      ],
+      "tafsirSummary": "Qalu subhana rabbina inna kunna zalimin—they said: Glory to our Lord; indeed we were wrongdoers. After the calamity they admitted their wrong: they had not said In sha Allah, they had excluded the poor, they had relied on their own power. Then they turned on one another in blame: woe to us, we were transgressors.",
+      "lessonReflection": "Admitting wrong and glorifying Allah after loss is good, but better to remember Him and do right before the trial comes.",
+      "beforeThisAyah": "The best of them had said: Why do you not glorify Allah?",
+      "afterThisAyah": "Then they approached one another, blaming each other."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ یَتَلَـٰوَمُونَ",
+      "translation": "Then they approached one another, blaming each other.",
+      "summary": "Then they approached one another, blaming each other.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ", "translation": "They approached one another" },
+        { "arabic": "یَتَلَـٰوَمُونَ", "translation": "Blaming each other" }
+      ],
+      "tafsirSummary": "Fa-aqbala ba'duhum ala ba'din yatalawamun—then they approached one another, blaming each other. After admitting we were wrongdoers they turned on each other. Then they said: O woe to us; indeed we were transgressors. Then: Perhaps our Lord will give us better than it; we turn to our Lord.",
+      "lessonReflection": "When calamity strikes, people often blame each other; instead, turn together to Allah in repentance and hope.",
+      "beforeThisAyah": "They said: Glory to our Lord; we were wrongdoers.",
+      "afterThisAyah": "They said: O woe to us; we were transgressors."
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "قَالُوا۟ یَـٰوَیۡلَنَاۤ إِنَّا كُنَّا طَـٰغِینَ",
+      "translation": "They said, \"O woe to us; indeed we were transgressors.",
+      "summary": "They said, \"O woe to us; indeed we were transgressors.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "یَـٰوَیۡلَنَاۤ", "translation": "O woe to us" },
+        { "arabic": "طَـٰغِینَ", "translation": "Transgressors" }
+      ],
+      "tafsirSummary": "Qalu ya waylana inna kunna taghin—they said: O woe to us; indeed we were transgressors. They turned on one another in blame. Then they said: Perhaps our Lord will give us in exchange better than it; truly we turn to our Lord. Such is the punishment—and the punishment of the Hereafter is greater, if they but knew.",
+      "lessonReflection": "Transgression—relying on self, excluding the poor, forgetting In sha Allah—leads to loss; repent and turn to your Lord before the greater punishment.",
+      "beforeThisAyah": "They approached one another, blaming each other.",
+      "afterThisAyah": "Perhaps our Lord will give us better than it; we turn to our Lord."
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "عَسَىٰ رَبُّنَاۤ أَن یُبۡدِلَنَا خَیۡرࣰا مِّنۡهَاۤ إِنَّاۤ إِلَىٰ رَبِّنَا رَ ٰ⁠غِبُونَ",
+      "translation": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"",
+      "summary": "Perhaps our Lord will substitute for us [one] better than it…",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "عَسَىٰ رَبُّنَاۤ أَن یُبۡدِلَنَا", "translation": "Perhaps our Lord will give us in exchange" },
+        { "arabic": "رَـٰغِبُونَ", "translation": "We turn (to our Lord)" }
+      ],
+      "tafsirSummary": "Asa rabbuna an yubdilana khayran minha inna ila rabbina raghibun—perhaps our Lord will give us in exchange better than it; truly we turn to our Lord. After admitting wrong and blaming themselves, they turned to Allah in hope. Such is the punishment of this world—and the punishment of the Hereafter is greater, if they but knew. Preserve blessings by shukr, humility, obedience, and sharing.",
+      "lessonReflection": "When loss comes, turn to your Lord in hope and repentance; perhaps He will give you better—and remember the Hereafter is greater.",
+      "beforeThisAyah": "They said: Woe to us; we were transgressors.",
+      "afterThisAyah": "Such is the punishment—and the punishment of the Hereafter is greater."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "كَذَ ٰ⁠لِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡـَٔاخِرَةِ أَكۡبَرُۚ لَوۡ كَانُوا۟ یَعۡلَمُونَ",
+      "translation": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
+      "summary": "Such is the punishment [of this world]. And the punishment o…",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "كَذَٰلِكَ ٱلۡعَذَابُ", "translation": "Such is the punishment" },
+        { "arabic": "وَلَعَذَابُ ٱلۡـَٔاخِرَةِ أَكۡبَرُ", "translation": "And the punishment of the Hereafter is greater" }
+      ],
+      "tafsirSummary": "Kathalika al-adhab wa la-adhabu al-akhirati akbar—such is the punishment (of this world), and the punishment of the Hereafter is greater, if they only knew. The people of the garden lost everything in one night; that is a worldly lesson. The real accountability is in the Hereafter. Preserve blessings by gratitude (shukr), humility, obedience, and sharing with others.",
+      "lessonReflection": "Worldly loss is a warning; the punishment of the Hereafter is greater—preserve your blessings and turn to Allah before it is too late.",
+      "beforeThisAyah": "Perhaps our Lord will give us better; we turn to our Lord.",
+      "afterThisAyah": "Indeed, for the righteous with their Lord are the Gardens of Pleasure."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "إِنَّ لِلۡمُتَّقِینَ عِندَ رَبِّهِمۡ جَنَّـٰتِ ٱلنَّعِیمِ",
+      "translation": "Indeed, for the righteous with their Lord are the Gardens of Pleasure.",
+      "summary": "Indeed, for the righteous with their Lord are the Gardens of…",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "لِلۡمُتَّقِینَ", "translation": "For the righteous (muttaqin)" },
+        { "arabic": "جَنَّـٰتِ ٱلنَّعِیمِ", "translation": "Gardens of Pleasure" }
+      ],
+      "tafsirSummary": "Inna lil-muttaqina inda rabbihim jannati an-na'im—indeed for the righteous with their Lord are the Gardens of Pleasure. After the story of the garden and its punishment, Allah contrasts: for those who fear Him there are eternal gardens. Then He rebukes the deniers: Shall We treat the Muslims like the criminals? What is wrong with you, how do you judge?",
+      "lessonReflection": "The reward of the righteous is with their Lord—Gardens of Pleasure; do not confuse the fate of the obedient with the fate of the wrongdoers.",
+      "beforeThisAyah": "Such is the punishment—and the punishment of the Hereafter is greater.",
+      "afterThisAyah": "Shall We treat the Muslims like the criminals?"
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِینَ كَٱلۡمُجۡرِمِینَ",
+      "translation": "Then will We treat the Muslims like the criminals?",
+      "summary": "Then will We treat the Muslims like the criminals?",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ٱلۡمُسۡلِمِینَ", "translation": "The Muslims" },
+        { "arabic": "ٱلۡمُجۡرِمِینَ", "translation": "The criminals" }
+      ],
+      "tafsirSummary": "Afa naj'alu al-muslimeen ka al-mujrimeen—shall We treat the Muslims like the criminals? Allah addresses the deniers who equate or confuse the two: the one who submits to Allah and does good will not be treated like the one who commits crimes. What is wrong with you? How do you judge?",
+      "lessonReflection": "Allah does not treat the obedient like the criminals; do not judge as if He would—His justice is clear.",
+      "beforeThisAyah": "For the righteous are the Gardens of Pleasure.",
+      "afterThisAyah": "What is wrong with you? How do you judge?"
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "مَا لَكُمۡ كَیۡفَ تَحۡكُمُونَ",
+      "translation": "What is [the matter] with you? How do you judge?",
+      "summary": "What is [the matter] with you? How do you judge?",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "مَا لَكُمۡ", "translation": "What is wrong with you" },
+        { "arabic": "تَحۡكُمُونَ", "translation": "How do you judge" }
+      ],
+      "tafsirSummary": "Ma lakum kayfa tahkumun—what is wrong with you? How do you judge? Allah rebukes those who judge that Muslims and criminals will be treated alike, or who reject the truth without proof. Do you have a book from which you learn that? Or oaths from Us until the Day of Resurrection? Ask them which of them will stand surety.",
+      "lessonReflection": "Examine how you judge—do not equate the righteous with the wrongdoers; Allah's judgment is just.",
+      "beforeThisAyah": "Shall We treat the Muslims like the criminals?",
+      "afterThisAyah": "Or do you have a scripture in which you learn?"
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "أَمۡ لَكُمۡ كِتَـٰبࣱ فِیهِ تَدۡرُسُونَ",
+      "translation": "Or do you have a scripture in which you learn",
+      "summary": "Or do you have a scripture in which you learn",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "كِتَـٰبࣱ", "translation": "A scripture/book" },
+        { "arabic": "تَدۡرُسُونَ", "translation": "In which you learn" }
+      ],
+      "tafsirSummary": "Am lakum kitabun fihi tadrusun—or do you have a scripture in which you learn (that you will get whatever you choose)? They have no such book. Then: that indeed for you is whatever you choose? Or do you have oaths binding upon Us until the Day of Resurrection? Ask them which of them will stand surety for that—can they endure even a moment of the Fire?",
+      "lessonReflection": "Do not claim what you cannot prove; no scripture gives the deniers the right to judge as they do.",
+      "beforeThisAyah": "What is wrong with you? How do you judge?",
+      "afterThisAyah": "That indeed for you is whatever you choose?"
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "إِنَّ لَكُمۡ فِیهِ لَمَا تَخَیَّرُونَ",
+      "translation": "That indeed for you is whatever you choose?",
+      "summary": "That indeed for you is whatever you choose?",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "لَكُمۡ فِیهِ لَمَا تَخَیَّرُونَ", "translation": "For you in it whatever you choose" }
+      ],
+      "tafsirSummary": "Inna lakum fihi lama takhayyarun—that indeed for you in it is whatever you choose? They have no such scripture. Or do you have oaths binding upon Us until the Day of Resurrection that indeed for you is whatever you judge? Ask them which of them will stand surety—who can guarantee they can endure the Fire?",
+      "lessonReflection": "No one has a promise from Allah that they will get whatever they choose; only Allah decides.",
+      "beforeThisAyah": "Or do you have a scripture in which you learn?",
+      "afterThisAyah": "Or do you have oaths upon Us until the Day of Resurrection?"
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "أَمۡ لَكُمۡ أَیۡمَـٰنٌ عَلَیۡنَا بَـٰلِغَةٌ إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+      "translation": "Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?",
+      "summary": "Or do you have oaths [binding] upon Us, extending until the…",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "أَیۡمَـٰنٌ عَلَیۡنَا بَـٰلِغَةٌ", "translation": "Oaths binding upon Us" },
+        { "arabic": "إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِ", "translation": "Until the Day of Resurrection" }
+      ],
+      "tafsirSummary": "Am lakum aymanun alayna balighatun ila yawmi al-qiyamati inna lakum lama tahkumun—or do you have oaths from Us, extending until the Day of Resurrection, that indeed for you is whatever you judge? They have no such oaths. Ask them which of them will stand surety for that claim—can any of them endure even five seconds of the Fire?",
+      "lessonReflection": "No one has oaths from Allah that their judgment will stand; the Day of Resurrection will show the truth.",
+      "beforeThisAyah": "That for you is whatever you choose?",
+      "afterThisAyah": "Ask them which of them will stand surety for that."
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "سَلۡهُمۡ أَیُّهُم بِذَ ٰ⁠لِكَ زَعِیمٌ",
+      "translation": "Ask them which of them, for that [claim], is responsible.",
+      "summary": "Ask them which of them, for that [claim], is responsible.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "سَلۡهُمۡ", "translation": "Ask them" },
+        { "arabic": "زَعِیمٌ", "translation": "Who is responsible / will stand surety" }
+      ],
+      "tafsirSummary": "Salhum ayyuhum bi-dhalika za'imun—ask them which of them will stand surety for that (claim). Can any of them guarantee they can endure the punishment? Or do they have partners (gods) who will help them? Then let them bring their partners if they are truthful. They have no proof and no surety.",
+      "lessonReflection": "Ask those who deny: who will stand surety for your claim? No one can guarantee safety from Allah's plan.",
+      "beforeThisAyah": "Or do you have oaths upon Us until the Day of Resurrection?",
+      "afterThisAyah": "Or do they have partners? Let them bring them if they are truthful."
+    },
+    {
+      "ayahNumber": 41,
+      "arabic": "أَمۡ لَهُمۡ شُرَكَاۤءُ فَلۡیَأۡتُوا۟ بِشُرَكَاۤىِٕهِمۡ إِن كَانُوا۟ صَـٰدِقِینَ",
+      "translation": "Or do they have partners? Then let them bring their partners, if they should be truthful.",
+      "summary": "Or do they have partners? Then let them bring their partners…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Or"
+        },
+        {
+          "arabic": "",
+          "translation": "do"
+        },
+        {
+          "arabic": "",
+          "translation": "they"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Ask them which of them, for that [claim]….",
+      "afterThisAyah": "The next verse continues: The Day the shin will be uncovered and t…."
+    },
+    {
+      "ayahNumber": 42,
+      "arabic": "یَوۡمَ یُكۡشَفُ عَن سَاقࣲ وَیُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا یَسۡتَطِیعُونَ",
+      "translation": "The Day the shin will be uncovered and they are invited to prostration but the disbelievers will not be able,",
+      "summary": "The Day the shin will be uncovered and they are invited to p…",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "The"
+        },
+        {
+          "arabic": "",
+          "translation": "Day"
+        },
+        {
+          "arabic": "",
+          "translation": "the"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Or do they have partners? Then let them….",
+      "afterThisAyah": "The next verse continues: Their eyes humbled, humiliation will cov…."
+    },
+    {
+      "ayahNumber": 43,
+      "arabic": "خَـٰشِعَةً أَبۡصَـٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةࣱۖ وَقَدۡ كَانُوا۟ یُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَـٰلِمُونَ",
+      "translation": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.",
+      "summary": "Their eyes humbled, humiliation will cover them. And they us…",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Their"
+        },
+        {
+          "arabic": "",
+          "translation": "eyes"
+        },
+        {
+          "arabic": "",
+          "translation": "humbled"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned The Day the shin will be uncovered and t….",
+      "afterThisAyah": "The next verse continues: So leave Me, [O Muhammad], with [the mat…."
+    },
+    {
+      "ayahNumber": 44,
+      "arabic": "فَذَرۡنِی وَمَن یُكَذِّبُ بِهَـٰذَا ٱلۡحَدِیثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَیۡثُ لَا یَعۡلَمُونَ",
+      "translation": "So leave Me, [O Muhammad], with [the matter of] whoever denies the Qur'an. We will progressively lead them [to punishment] from where they do not know.",
+      "summary": "So leave Me, [O Muhammad], with [the matter of] whoever deni…",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "So"
+        },
+        {
+          "arabic": "",
+          "translation": "leave"
+        },
+        {
+          "arabic": "",
+          "translation": "Me"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Their eyes humbled, humiliation will cov….",
+      "afterThisAyah": "The next verse continues: And I will give them time. Indeed, My pl…."
+    },
+    {
+      "ayahNumber": 45,
+      "arabic": "وَأُمۡلِی لَهُمۡۚ إِنَّ كَیۡدِی مَتِینٌ",
+      "translation": "And I will give them time. Indeed, My plan is firm.",
+      "summary": "And I will give them time. Indeed, My plan is firm.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "will"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned So leave Me, [O Muhammad], with [the mat….",
+      "afterThisAyah": "The next verse continues: Or do you ask of them a payment, so they…."
+    },
+    {
+      "ayahNumber": 46,
+      "arabic": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرࣰا فَهُم مِّن مَّغۡرَمࣲ مُّثۡقَلُونَ",
+      "translation": "Or do you ask of them a payment, so they are by debt burdened down?",
+      "summary": "Or do you ask of them a payment, so they are by debt burdene…",
+      "theme": "stories",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Or"
+        },
+        {
+          "arabic": "",
+          "translation": "do"
+        },
+        {
+          "arabic": "",
+          "translation": "you"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And I will give them time. Indeed, My pl….",
+      "afterThisAyah": "The next verse continues: Or have they [knowledge of] the unseen,…."
+    },
+    {
+      "ayahNumber": 47,
+      "arabic": "أَمۡ عِندَهُمُ ٱلۡغَیۡبُ فَهُمۡ یَكۡتُبُونَ",
+      "translation": "Or have they [knowledge of] the unseen, so they write [it] down?",
+      "summary": "Or have they [knowledge of] the unseen, so they write [it] d…",
+      "theme": "hereafter",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Or"
+        },
+        {
+          "arabic": "",
+          "translation": "have"
+        },
+        {
+          "arabic": "",
+          "translation": "they"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Or do you ask of them a payment, so they….",
+      "afterThisAyah": "The next verse continues: Then be patient for the decision of your…."
+    },
+    {
+      "ayahNumber": 48,
+      "arabic": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومࣱ",
+      "translation": "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish when he called out while he was distressed.",
+      "summary": "Then be patient for the decision of your Lord, [O Muhammad],…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Then"
+        },
+        {
+          "arabic": "",
+          "translation": "be"
+        },
+        {
+          "arabic": "",
+          "translation": "patient"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Or have they [knowledge of] the unseen,….",
+      "afterThisAyah": "The next verse continues: If not that a favor from his Lord overto…."
+    },
+    {
+      "ayahNumber": 49,
+      "arabic": "لَّوۡلَاۤ أَن تَدَ ٰ⁠رَكَهُۥ نِعۡمَةࣱ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَاۤءِ وَهُوَ مَذۡمُومࣱ",
+      "translation": "If not that a favor from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.",
+      "summary": "If not that a favor from his Lord overtook him, he would hav…",
+      "theme": "guidance",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "If"
+        },
+        {
+          "arabic": "",
+          "translation": "not"
+        },
+        {
+          "arabic": "",
+          "translation": "that"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Then be patient for the decision of your….",
+      "afterThisAyah": "The next verse continues: And his Lord chose him and made him of t…."
+    },
+    {
+      "ayahNumber": 50,
+      "arabic": "فَٱجۡتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِینَ",
+      "translation": "And his Lord chose him and made him of the righteous.",
+      "summary": "And his Lord chose him and made him of the righteous.",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "his"
+        },
+        {
+          "arabic": "",
+          "translation": "Lord"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned If not that a favor from his Lord overto….",
+      "afterThisAyah": "The next verse continues: And indeed, those who disbelieve would a…."
+    },
+    {
+      "ayahNumber": 51,
+      "arabic": "وَإِن یَكَادُ ٱلَّذِینَ كَفَرُوا۟ لَیُزۡلِقُونَكَ بِأَبۡصَـٰرِهِمۡ لَمَّا سَمِعُوا۟ ٱلذِّكۡرَ وَیَقُولُونَ إِنَّهُۥ لَمَجۡنُونࣱ",
+      "translation": "And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say, \"Indeed, he is mad.\"",
+      "summary": "And indeed, those who disbelieve would almost make you slip…",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "those"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And his Lord chose him and made him of t….",
+      "afterThisAyah": "The next verse continues: But it is not except a reminder to the w…."
+    },
+    {
+      "ayahNumber": 52,
+      "arabic": "وَمَا هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ",
+      "translation": "But it is not except a reminder to the worlds.",
+      "summary": "But it is not except a reminder to the worlds.",
+      "theme": "warning",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "But"
+        },
+        {
+          "arabic": "",
+          "translation": "it"
+        },
+        {
+          "arabic": "",
+          "translation": "is"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And indeed, those who disbelieve would a….",
+      "afterThisAyah": "The surah concludes with this theme."
+    }
+  ]
+}

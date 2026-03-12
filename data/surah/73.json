@@ -1,0 +1,525 @@
+{
+  "surahId": 73,
+  "surahNameArabic": "المزمل",
+  "surahNameEnglish": "Al-Muzzammil",
+  "revelationType": "Makki",
+  "totalAyahs": 20,
+  "thesis": "O you wrapped in garments, stand by night except a little—half or less or more—and recite the Quran with tarteel; We shall send down upon you a heavy word; the rising by night is most potent for governing the self and best for understanding the word; in the day you have prolonged occupation; take the name of your Lord and devote yourself to Him completely; He is the Lord of the East and the West—take Him as your disposer of affairs; be patient over what they say and leave them with beautiful avoidance; when the earth and mountains shake, We have sent you a messenger as We sent one to Pharaoh; your Lord knows you stand by night—so recite of the Quran what is easy, establish Salat, give Zakat, lend to Allah a good loan, and seek Allah’s forgiveness.",
+  "gist": [
+    "O you wrapped in garments: stand by night except a little, half or less or more; recite the Quran in slow, distinct style (tarteel)—correct pronunciation, every letter and harakah, pause at correct places, with heart and mind.",
+    "We are sending down upon you a heavy word; the rising by night is hardest and most potent for governing the self and best for understanding the word; in the day you have prolonged occupation—tahajjud is quality time with Allah, free from riya.",
+    "Take the name of your Lord and devote yourself to Him completely; He is the Lord of the East and the West—make Him your wakeel; be patient over what they say and leave them with beautiful avoidance; leave Me with those who deny—We have chains, fire, food that chokes, painful torment.",
+    "Your Lord knows you stand by night; recite of the Quran as much as is easy; establish Salat, give Zakat, lend Allah a good loan—whatever good you send ahead you will find with Allah; seek Allah’s forgiveness—He is Forgiving, Merciful."
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "revelation": "purple",
+    "hereafter": "amber",
+    "warning": "orange",
+    "guidance": "lime",
+    "patience": "pink",
+    "mercy": "teal",
+    "prophet_story": "blue",
+    "signs": "cyan",
+    "stories": "fuchsia"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ یَـٰۤأَیُّهَا ٱلۡمُزَّمِّلُ",
+      "translation": "O you who wraps himself [in clothing],",
+      "summary": "O you who wraps himself [in clothing],",
+      "theme": "spiritual",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "you"
+        },
+        {
+          "arabic": "",
+          "translation": "who"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "This surah opens with its main themes.",
+      "afterThisAyah": "The next verse continues: Arise [to pray] the night, except for a…."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "قُمِ ٱلَّیۡلَ إِلَّا قَلِیلࣰا",
+      "translation": "Arise [to pray] the night, except for a little -",
+      "summary": "Arise [to pray] the night, except for a little -",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Arise"
+        },
+        {
+          "arabic": "",
+          "translation": "to"
+        },
+        {
+          "arabic": "",
+          "translation": "pray"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned O you who wraps himself [in clothing],.",
+      "afterThisAyah": "The next verse continues: Half of it - or subtract from it a littl…."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "نِّصۡفَهُۥۤ أَوِ ٱنقُصۡ مِنۡهُ قَلِیلًا",
+      "translation": "Half of it - or subtract from it a little",
+      "summary": "Half of it - or subtract from it a little",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Half"
+        },
+        {
+          "arabic": "",
+          "translation": "of"
+        },
+        {
+          "arabic": "",
+          "translation": "it"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Arise [to pray] the night, except for a….",
+      "afterThisAyah": "The next verse continues: Or add to it, and recite the Qur'an with…."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "أَوۡ زِدۡ عَلَیۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِیلًا",
+      "translation": "Or add to it, and recite the Qur'an with measured recitation.",
+      "summary": "Or add to it, and recite the Qur'an with measured recitation…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Or"
+        },
+        {
+          "arabic": "",
+          "translation": "add"
+        },
+        {
+          "arabic": "",
+          "translation": "to"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Half of it - or subtract from it a littl….",
+      "afterThisAyah": "The next verse continues: Indeed, We will cast upon you a heavy wo…."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "إِنَّا سَنُلۡقِی عَلَیۡكَ قَوۡلࣰا ثَقِیلًا",
+      "translation": "Indeed, We will cast upon you a heavy word.",
+      "summary": "Indeed, We will cast upon you a heavy word.",
+      "theme": "spiritual",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "We"
+        },
+        {
+          "arabic": "",
+          "translation": "will"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Or add to it, and recite the Qur'an with….",
+      "afterThisAyah": "The next verse continues: Indeed, the hours of the night are more…."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِنَّ نَاشِئَةَ ٱلَّیۡلِ هِیَ أَشَدُّ وَطۡـࣰٔا وَأَقۡوَمُ قِیلًا",
+      "translation": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words.",
+      "summary": "Indeed, the hours of the night are more effective for concur…",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "the"
+        },
+        {
+          "arabic": "",
+          "translation": "hours"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, We will cast upon you a heavy wo….",
+      "afterThisAyah": "The next verse continues: Indeed, for you by day is prolonged occu…."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِنَّ لَكَ فِی ٱلنَّهَارِ سَبۡحࣰا طَوِیلࣰا",
+      "translation": "Indeed, for you by day is prolonged occupation.",
+      "summary": "Indeed, for you by day is prolonged occupation.",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "for"
+        },
+        {
+          "arabic": "",
+          "translation": "you"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, the hours of the night are more….",
+      "afterThisAyah": "The next verse continues: And remember the name of your Lord and d…."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَیۡهِ تَبۡتِیلࣰا",
+      "translation": "And remember the name of your Lord and devote yourself to Him with [complete] devotion.",
+      "summary": "And remember the name of your Lord and devote yourself to Hi…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "remember"
+        },
+        {
+          "arabic": "",
+          "translation": "the"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, for you by day is prolonged occu….",
+      "afterThisAyah": "The next verse continues: the Lord of the East and the West; there…."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَاۤ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِیلࣰا",
+      "translation": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.",
+      "summary": "the Lord of the East and the West; there is no deity except…",
+      "theme": "spiritual",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "He"
+        },
+        {
+          "arabic": "",
+          "translation": "is"
+        },
+        {
+          "arabic": "",
+          "translation": "the"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And remember the name of your Lord and d….",
+      "afterThisAyah": "The next verse continues: And be patient over what they say and av…."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرࣰا جَمِیلࣰا",
+      "translation": "And be patient over what they say and avoid them with gracious avoidance.",
+      "summary": "And be patient over what they say and avoid them with gracio…",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "be"
+        },
+        {
+          "arabic": "",
+          "translation": "patient"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned the Lord of the East and the West; there….",
+      "afterThisAyah": "The next verse continues: And leave Me with [the matter of] the de…."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَذَرۡنِی وَٱلۡمُكَذِّبِینَ أُو۟لِی ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِیلًا",
+      "translation": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+      "summary": "And leave Me with [the matter of] the deniers, those of ease…",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "leave"
+        },
+        {
+          "arabic": "",
+          "translation": "Me"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And be patient over what they say and av….",
+      "afterThisAyah": "The next verse continues: Indeed, with Us [for them] are shackles…."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِنَّ لَدَیۡنَاۤ أَنكَالࣰا وَجَحِیمࣰا",
+      "translation": "Indeed, with Us [for them] are shackles and burning fire",
+      "summary": "Indeed, with Us [for them] are shackles and burning fire",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "with"
+        },
+        {
+          "arabic": "",
+          "translation": "Us"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And leave Me with [the matter of] the de….",
+      "afterThisAyah": "The next verse continues: And food that chokes and a painful punis…."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَطَعَامࣰا ذَا غُصَّةࣲ وَعَذَابًا أَلِیمࣰا",
+      "translation": "And food that chokes and a painful punishment -",
+      "summary": "And food that chokes and a painful punishment -",
+      "theme": "spiritual",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "And"
+        },
+        {
+          "arabic": "",
+          "translation": "food"
+        },
+        {
+          "arabic": "",
+          "translation": "that"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, with Us [for them] are shackles….",
+      "afterThisAyah": "The next verse continues: On the Day the earth and the mountains w…."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "یَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِیبࣰا مَّهِیلًا",
+      "translation": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.",
+      "summary": "On the Day the earth and the mountains will convulse and the…",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "On"
+        },
+        {
+          "arabic": "",
+          "translation": "the"
+        },
+        {
+          "arabic": "",
+          "translation": "Day"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned And food that chokes and a painful punis….",
+      "afterThisAyah": "The next verse continues: Indeed, We have sent to you a Messenger…."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "إِنَّاۤ أَرۡسَلۡنَاۤ إِلَیۡكُمۡ رَسُولࣰا شَـٰهِدًا عَلَیۡكُمۡ كَمَاۤ أَرۡسَلۡنَاۤ إِلَىٰ فِرۡعَوۡنَ رَسُولࣰا",
+      "translation": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.",
+      "summary": "Indeed, We have sent to you a Messenger as a witness upon yo…",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "We"
+        },
+        {
+          "arabic": "",
+          "translation": "have"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned On the Day the earth and the mountains w….",
+      "afterThisAyah": "The next verse continues: But Pharaoh disobeyed the messenger, so…."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَـٰهُ أَخۡذࣰا وَبِیلࣰا",
+      "translation": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.",
+      "summary": "But Pharaoh disobeyed the messenger, so We seized him with a…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "But"
+        },
+        {
+          "arabic": "",
+          "translation": "Pharaoh"
+        },
+        {
+          "arabic": "",
+          "translation": "disobeyed"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, We have sent to you a Messenger….",
+      "afterThisAyah": "The next verse continues: Then how can you fear, if you disbelieve…."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَكَیۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ یَوۡمࣰا یَجۡعَلُ ٱلۡوِلۡدَ ٰ⁠نَ شِیبًا",
+      "translation": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired?",
+      "summary": "Then how can you fear, if you disbelieve, a Day that will ma…",
+      "theme": "spiritual",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Then"
+        },
+        {
+          "arabic": "",
+          "translation": "how"
+        },
+        {
+          "arabic": "",
+          "translation": "can"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned But Pharaoh disobeyed the messenger, so….",
+      "afterThisAyah": "The next verse continues: The heaven will break apart therefrom; e…."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "ٱلسَّمَاۤءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا",
+      "translation": "The heaven will break apart therefrom; ever is His promise fulfilled.",
+      "summary": "The heaven will break apart therefrom; ever is His promise f…",
+      "theme": "revelation",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "The"
+        },
+        {
+          "arabic": "",
+          "translation": "heaven"
+        },
+        {
+          "arabic": "",
+          "translation": "will"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Then how can you fear, if you disbelieve….",
+      "afterThisAyah": "The next verse continues: Indeed, this is a reminder, so whoever w…."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "إِنَّ هَـٰذِهِۦ تَذۡكِرَةࣱۖ فَمَن شَاۤءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِیلًا",
+      "translation": "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
+      "summary": "Indeed, this is a reminder, so whoever wills may take to his…",
+      "theme": "faith",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "this"
+        },
+        {
+          "arabic": "",
+          "translation": "is"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned The heaven will break apart therefrom; e….",
+      "afterThisAyah": "The next verse continues: Indeed, your Lord knows, [O Muhammad], t…."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "۞ إِنَّ رَبَّكَ یَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَیِ ٱلَّیۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَاۤىِٕفَةࣱ مِّنَ ٱلَّذِینَ مَعَكَۚ وَٱللَّهُ یُقَدِّرُ ٱلَّیۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَیۡكُمۡۖ فَٱقۡرَءُوا۟ مَا تَیَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَیَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ یَضۡرِبُونَ فِی ٱلۡأَرۡضِ یَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ یُقَـٰتِلُونَ فِی سَبِیلِ ٱللَّهِۖ فَٱقۡرَءُوا۟ مَا تَیَسَّرَ مِنۡهُۚ وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقۡرِضُوا۟ ٱللَّهَ قَرۡضًا حَسَنࣰاۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنۡ خَیۡرࣲ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَیۡرࣰا وَأَعۡظَمَ أَجۡرࣰاۚ وَٱسۡتَغۡفِرُوا۟ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمُۢ",
+      "translation": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+      "summary": "Indeed, your Lord knows, [O Muhammad], that you stand [in pr…",
+      "theme": "patience",
+      "wordHighlights": [
+        {
+          "arabic": "",
+          "translation": "Indeed"
+        },
+        {
+          "arabic": "",
+          "translation": "your"
+        },
+        {
+          "arabic": "",
+          "translation": "Lord"
+        }
+      ],
+      "tafsirSummary": "(Tafsir Ibn Kathir and lecture: this verse addresses the themes of the surah—sovereignty, trial, the Day of Judgment, and the two parties.)",
+      "lessonReflection": "Reflect on the meaning of this verse in the context of the surah and the reminder of the Hereafter.",
+      "beforeThisAyah": "The previous verse mentioned Indeed, this is a reminder, so whoever w….",
+      "afterThisAyah": "The surah concludes with this theme."
+    }
+  ]
+}

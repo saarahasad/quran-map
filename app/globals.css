@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* White textured background for the whole site */
+:root {
+  --bg-base: #ffffff;
+  --bg-texture: rgba(0, 0, 0, 0.02);
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    background-color: var(--bg-base);
+    background-image:
+      /* Subtle dot texture (light grey dots on white) */
+      radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.06) 1px, transparent 0);
+    background-size: 24px 24px;
+    background-position: 0 0, 12px 12px;
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+}
+
+.timeline-glow {
+  position: absolute;
+  width: 300px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 0;
+  bottom: 0;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(255, 255, 255, 0.1) 40%,
+    transparent 70%
+  );
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+/* Journey map: white with same subtle dot texture */
+.map-journey-bg {
+  background-color: #ffffff;
+  background-image: radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.05) 1px, transparent 0);
+  background-size: 24px 24px;
+  position: relative;
+}
+
+.map-journey-bg::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 140px;
+  background-image:
+    /* Mountain silhouettes (muted grey/purple) */
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0 120 L0 80 Q100 40 200 60 L400 30 Q500 50 600 45 L800 55 Q950 35 1000 50 L1200 40 L1200 120 Z' fill='%2394a3b8' fill-opacity='0.15'/%3E%3Cpath d='M0 120 L50 95 Q150 70 250 85 L450 60 Q550 75 700 65 L900 80 Q1050 70 1150 80 L1200 75 L1200 120 Z' fill='%2374758b' fill-opacity='0.12'/%3E%3Cpath d='M0 120 L100 100 Q200 75 350 90 L550 70 Q750 85 950 75 L1200 90 L1200 120 Z' fill='%2364748b' fill-opacity='0.08'/%3E%3C/svg%3E");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  pointer-events: none;
+}
+
+/* Golden dotted path (vertical center line in journey view) */
+.journey-path-line {
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 6px,
+    rgba(251, 191, 36, 0.55) 6px,
+    rgba(251, 191, 36, 0.55) 8px
+  );
+}

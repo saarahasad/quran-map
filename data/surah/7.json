@@ -1,0 +1,75 @@
+{
+  "surahId": 7,
+  "surahNameArabic": "الأعراف",
+  "surahNameEnglish": "Al-A'raf",
+  "thesis": "Arrogance after guidance destroys civilizations.",
+  "gist": [
+    "Revelation and accountability",
+    "Stories of prophets",
+    "Fall of arrogance",
+    "Covenant and betrayal",
+    "Spiritual discipline"
+  ],
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "الٓمٓصٓ",
+      "translation": "Alif, Lam, Mim, Sad.",
+      "summary": "Disconnected letters opening the surah.",
+      "theme": "spiritual",
+      "keywords": [
+        { "word": "الٓمٓصٓ", "meaning": "Letters" },
+        { "word": "الٓ", "meaning": "Alif" },
+        { "word": "مٓصٓ", "meaning": "Mim Sad" }
+      ]
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "كِتَٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+      "translation": "A Book revealed to you—let there be no distress in your heart from it—that you may warn thereby and as a reminder to the believers.",
+      "summary": "Revelation is for warning and remembrance.",
+      "theme": "tawhid",
+      "keywords": [
+        { "word": "كِتَٰبٌ", "meaning": "Book" },
+        { "word": "أُنزِلَ", "meaning": "Revealed" },
+        { "word": "لِلْمُؤْمِنِينَ", "meaning": "For the believers" }
+      ]
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "ٱتَّبِعُوا۟ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ وَلَا تَتَّبِعُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۗ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "translation": "Follow what has been sent down to you from your Lord, and do not follow allies besides Him. Little do you remember.",
+      "summary": "Follow revelation; do not take other protectors.",
+      "theme": "tawhid",
+      "keywords": [
+        { "word": "ٱتَّبِعُوا۟", "meaning": "Follow" },
+        { "word": "رَّبِّكُمْ", "meaning": "Your Lord" },
+        { "word": "أَوْلِيَآءَ", "meaning": "Protectors" }
+      ]
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَٰهَا فَجَآءَهَا بَأْسُنَا بَيَٰتًا أَوْ هُمْ قَآئِلُونَ",
+      "translation": "And how many cities have We destroyed? Our punishment came to them by night or while they were resting at noon.",
+      "summary": "Past nations were destroyed when they were heedless.",
+      "theme": "warning",
+      "keywords": [
+        { "word": "قَرْيَةٍ", "meaning": "Town" },
+        { "word": "أَهْلَكْنَٰهَا", "meaning": "We destroyed" },
+        { "word": "بَأْسُنَا", "meaning": "Our punishment" }
+      ]
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "So their cry, when Our punishment came to them, was only that they said, \"Indeed, we were wrongdoers.\"",
+      "summary": "They admitted wrongdoing only when punishment came.",
+      "theme": "hereafter",
+      "keywords": [
+        { "word": "دَعْوَىٰهُمْ", "meaning": "Their cry" },
+        { "word": "بَأْسُنَآ", "meaning": "Our punishment" },
+        { "word": "ظَٰلِمِينَ", "meaning": "Wrongdoers" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "surahId": 94,
+  "surahNameArabic": "الشرح",
+  "surahNameEnglish": "The Relief",
+  "revelationType": "Makki",
+  "totalAyahs": 8,
+  "thesis": "Allah has uplifted the Prophet’s heart and eased his burden; gratitude and devotion are the response.",
+  "gist": [
+    "Allah has expanded the Prophet’s breast and relieved him",
+    "Ease after difficulty",
+    "Devotion and turning to the Lord"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "mercy": "teal",
+    "divine_support": "violet",
+    "spiritual": "indigo"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ١",
+      "translation": "Have We not uplifted your heart for you ˹O Prophet˺?",
+      "summary": "Allah has expanded and uplifted the Prophet’s breast.",
+      "theme": "divine_support",
+      "wordHighlights": [
+        { "arabic": "نَشْرَحْ", "translation": "We have expanded/uplifted" },
+        { "arabic": "صَدْرَكَ", "translation": "Your breast/heart" }
+      ],
+      "tafsirSummary": "Allah addresses the Prophet with a rhetorical question: Have We not uplifted your heart for you? He has opened and relieved his chest—granting him clarity, courage, and the capacity to carry the message. This is one of the consolations after the initial pause in revelation (linked with Sūrat aḍ-Ḍuḥā). The \"opening of the breast\" (sharḥ aṣ-ṣadr) is a divine gift that enables the believer to receive the truth and bear responsibility without despair.",
+      "lessonReflection": "Relief and expansion of the heart come from Allah; when He opens a chest, it is for a purpose greater than the self—so we seek that opening from Him and use it for what pleases Him.",
+      "beforeThisAyah": "This surah opens with a direct address to the Prophet, continuing the theme of consolation and favor from the previous surah.",
+      "afterThisAyah": "The surah continues with the promise of relief from burden and the call to devote to the Lord in gratitude."
+    }
+  ]
+}

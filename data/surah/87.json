@@ -1,0 +1,308 @@
+{
+  "surahId": 87,
+  "surahNameArabic": "الأعلى",
+  "surahNameEnglish": "The Most High",
+  "revelationType": "Makki",
+  "totalAyahs": 19,
+  "thesis": "Glorify the name of your Lord the Most High, who created and fashioned, destined and guided, and brings forth pasture then makes it withered; He will make you recite and not forget, and ease you to ease—so remind, for he who fears will remember; the wretched will burn in the greatest Fire; success is for whoever purifies himself and remembers his Lord and prays; the Hereafter is better and more lasting, and this is in the scriptures of Abraham and Moses.",
+  "gist": [
+    "Glorify the name of your Lord the Most High",
+    "He created, fashioned, destined, guided; brought forth pasture then made it withered",
+    "He will make you recite and not forget; ease you to ease; so remind",
+    "He who fears will remember; the wretched will avoid and burn in the greatest Fire",
+    "Success for whoever purifies, remembers the Lord, and prays; Hereafter better; in scriptures of Abraham and Moses"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "revelation": "purple",
+    "hereafter": "yellow",
+    "warning": "orange"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى ١",
+      "translation": "Glorify the Name of your Lord, the Most High,",
+      "summary": "Exalt the name of your Lord, the Most High.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "سَبِّحِ", "translation": "Glorify" },
+        { "arabic": "رَبِّكَ ٱلْأَعْلَى", "translation": "Your Lord, the Most High" }
+      ],
+      "tafsirSummary": "Glorify the name of your Lord, the Most High—declare Him free from any imperfection and exalt Him above all creation. The command is to the Prophet and to every believer: our primary response to the Lord is tasbīh, glorification. He is the Most High (Al-A'lā), above every rival and above every need. The surah opens with this command and then describes why He is worthy of it: His creation, His decree, and His guidance.",
+      "lessonReflection": "Glorify the name of your Lord the Most High—let this be the first response of the heart and the tongue to the One who created and guides.",
+      "beforeThisAyah": "The surah opens with the command to glorify the Lord.",
+      "afterThisAyah": "He who created and fashioned is described."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "ٱلَّذِى خَلَقَ فَسَوَّىٰ ٢",
+      "translation": "Who created and ˹perfectly˺ fashioned ˹all˺,",
+      "summary": "Who created and proportioned.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "خَلَقَ", "translation": "Created" },
+        { "arabic": "فَسَوَّىٰ", "translation": "Fashioned / proportioned" }
+      ],
+      "tafsirSummary": "Who created and fashioned—He brought things into existence and gave them form and proportion. Creation is not random; everything is made with measure and balance. The heavens, the earth, the human being—all are created and fashioned by the Most High. This is the first reason to glorify Him: He is the Creator who perfected what He made.",
+      "lessonReflection": "He created and fashioned—so we are not accidents; we are made with purpose and proportion by the Most High.",
+      "beforeThisAyah": "The command to glorify the name of the Lord was given.",
+      "afterThisAyah": "He who destined and guided is mentioned."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ ٣",
+      "translation": "and Who ordained precisely and inspired accordingly,",
+      "summary": "And who destined and [then] guided.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "قَدَّرَ", "translation": "Destined / ordained" },
+        { "arabic": "فَهَدَىٰ", "translation": "And guided" }
+      ],
+      "tafsirSummary": "And who destined and then guided—He set measures and decrees for creation and then guided each thing to its path. The stars in their courses, the animals to their instincts, and human beings to the guidance of revelation. Destiny and guidance go together: He decrees and He shows the way. So we glorify Him as the One who both determines and guides.",
+      "lessonReflection": "He destined and guided—so our fate is in His hand, and our path is clear when we follow His guidance.",
+      "beforeThisAyah": "He who created and fashioned was described.",
+      "afterThisAyah": "He who brings forth the pasture is mentioned."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ ٤",
+      "translation": "and Who brings forth ˹green˺ pasture,",
+      "summary": "And who brings out the pasture.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "أَخْرَجَ", "translation": "Brings forth" },
+        { "arabic": "ٱلْمَرْعَىٰ", "translation": "The pasture" }
+      ],
+      "tafsirSummary": "And who brings out the pasture—He causes the earth to produce green growth for animals and for human benefit. The cycle of vegetation is from Him: He brings it forth, and then He makes it wither. The verse is a sign of His power over life and death, growth and decay—and a reminder that the life of this world is temporary, like the pasture that turns to stubble.",
+      "lessonReflection": "He brings forth the pasture—then He makes it wither; so the life of this world is fleeting, and the lasting life is with Him.",
+      "beforeThisAyah": "He who destined and guided was described.",
+      "afterThisAyah": "Then He makes it black stubble."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ ٥",
+      "translation": "then reduces it to withered chaff.",
+      "summary": "And [then] makes it black stubble.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "غُثَآءً", "translation": "Chaff" },
+        { "arabic": "أَحْوَىٰ", "translation": "Withered / black" }
+      ],
+      "tafsirSummary": "Then He makes it withered chaff—the green pasture dries and turns dark, becoming stubble. The cycle is complete: from life to death, from freshness to decay. This is a sign for reflection: the world and its pleasures are like the pasture—they flourish and then fade. The one who remembers this will prefer what is lasting: the Hereafter and the pleasure of the Most High.",
+      "lessonReflection": "The pasture becomes withered chaff—so we do not cling to the world; we prepare for what does not wither.",
+      "beforeThisAyah": "He who brings forth the pasture was mentioned.",
+      "afterThisAyah": "We will make you recite and you will not forget."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ ٦",
+      "translation": "We will have you recite ˹the Quran, O  Prophet,˺ so you will not forget ˹any of it˺,",
+      "summary": "We will make you recite, and you will not forget.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "نُقْرِئُكَ", "translation": "We will make you recite" },
+        { "arabic": "لَا تَنسَىٰٓ", "translation": "You will not forget" }
+      ],
+      "tafsirSummary": "We will make you recite so you will not forget—Allah promises the Prophet that He will cause him to retain the Qur'an. The revelation will be fixed in his heart and memory, except what Allah wills to abrogate or replace. This is a mercy and a guarantee: the message will not be lost. The verse reassures the Prophet and the community that the Book is preserved through him.",
+      "lessonReflection": "Allah made the Prophet recite and not forget—so the Qur'an we have is what he received and retained; we can trust it and hold fast to it.",
+      "beforeThisAyah": "The pasture was said to become withered chaff.",
+      "afterThisAyah": "Except what Allah wills; He knows the manifest and the hidden."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ ٧",
+      "translation": "unless Allah wills otherwise. He surely knows what is open and what is hidden.",
+      "summary": "Except what Allah should will. Indeed, He knows what is declared and what is hidden.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "مَا شَآءَ ٱللَّهُ", "translation": "What Allah wills" },
+        { "arabic": "ٱلْجَهْرَ وَمَا يَخْفَىٰ", "translation": "The open and the hidden" }
+      ],
+      "tafsirSummary": "Except what Allah wills—meaning either that the Prophet might forget a ruling that is then replaced by another (abrogation), or that the promise applies to what Allah intends to preserve. And He knows what is open and what is hidden—nothing is beyond His knowledge. So the revelation is under His control, and He knows what is in the heart of the Prophet and of every soul.",
+      "lessonReflection": "He knows the open and the hidden—so we cannot hide from Him; and what He wills for the revelation will stand.",
+      "beforeThisAyah": "Allah will make the Prophet recite and not forget.",
+      "afterThisAyah": "We will ease you toward ease."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ ٨",
+      "translation": "We will facilitate for you the Way of Ease.",
+      "summary": "And We will ease you toward ease.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "نُيَسِّرُكَ", "translation": "We will ease you" },
+        { "arabic": "ٱلْيُسْرَىٰ", "translation": "Ease" }
+      ],
+      "tafsirSummary": "And We will ease you toward ease—Allah will make the path easy for the Prophet: ease in carrying the message, ease in the religion (which is designed to be manageable), and ultimately ease in the Hereafter. The \"ease\" is the path of faith and righteousness that leads to Paradise. The verse is a promise and a comfort: the one who glorifies the Lord and delivers His message will be helped toward ease.",
+      "lessonReflection": "Allah eases the Prophet toward ease—so we who follow him are also called to the path of ease: faith, remembrance, and prayer.",
+      "beforeThisAyah": "Allah knows the open and the hidden.",
+      "afterThisAyah": "So remind, if the reminder benefits."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ ٩",
+      "translation": "So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is beneficial ˹only to some˺.",
+      "summary": "So remind, if the reminder should benefit.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "فَذَكِّرْ", "translation": "So remind" },
+        { "arabic": "ٱلذِّكْرَىٰ", "translation": "The reminder" }
+      ],
+      "tafsirSummary": "So remind—use the Qur'an to remind people, wherever the reminder may benefit. Not everyone will accept, but the duty is to remind. The reminder is the Qur'an itself: the message of glorification, creation, destiny, guidance, and the Hereafter. The Prophet is to persist in reminding, and those who fear Allah will remember.",
+      "lessonReflection": "Remind whenever the reminder can benefit—we do not withhold the message because some reject; we offer it so that those who fear may remember.",
+      "beforeThisAyah": "Allah will ease the Prophet toward ease.",
+      "afterThisAyah": "He who fears will remember; the wretched will avoid it."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "سَيَذَّكَّرُ مَن يَخْشَىٰ ١٠",
+      "translation": "Those in awe ˹of Allah˺ will be mindful ˹of it˺.",
+      "summary": "He who fears [Allah] will be reminded.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "يَذَّكَّرُ", "translation": "Will remember" },
+        { "arabic": "يَخْشَىٰ", "translation": "Fears" }
+      ],
+      "tafsirSummary": "He who fears Allah will remember—the one who has reverence for the Lord will take the reminder to heart. Fear of Allah (khashyah) is the key that opens the heart to the Qur'an. Those who do not fear will not benefit; their hearts are closed. So the reminder is for everyone, but the benefit is for those who fear.",
+      "lessonReflection": "The one who fears Allah will remember—so we cultivate fear and hope in Him, that we may be among those who benefit from the reminder.",
+      "beforeThisAyah": "The Prophet was told to remind if the reminder benefits.",
+      "afterThisAyah": "The wretched will avoid it and burn in the greatest Fire."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى ١١",
+      "translation": "But it will be shunned by the most wretched,",
+      "summary": "But the wretched one will avoid it—",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "يَتَجَنَّبُهَا", "translation": "Will avoid it" },
+        { "arabic": "ٱلْأَشْقَى", "translation": "The most wretched" }
+      ],
+      "tafsirSummary": "But the most wretched will avoid it—he will turn away from the reminder and from the path of ease. He does not fear Allah, so he does not remember. His avoidance of the reminder is a choice that leads to the greatest Fire. The contrast is clear: the one who fears remembers and is eased to ease; the one who does not fear avoids and is eased to the Fire.",
+      "lessonReflection": "The wretched avoid the reminder—so we must not avoid it; we must draw near to it and let it correct our path.",
+      "beforeThisAyah": "He who fears will remember.",
+      "afterThisAyah": "He who will burn in the greatest Fire."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ ١٢",
+      "translation": "who will burn in the greatest Fire,",
+      "summary": "[He] who will [enter and] burn in the greatest Fire.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "يَصْلَى", "translation": "Will burn" },
+        { "arabic": "ٱلنَّارَ ٱلْكُبْرَىٰ", "translation": "The greatest Fire" }
+      ],
+      "tafsirSummary": "The one who will burn in the greatest Fire—Hell, the ultimate punishment. He enters it because he avoided the reminder and chose disbelief. The \"greatest\" Fire indicates its severity and its permanence. The verse completes the fate of the wretched: he avoids the reminder and will burn in the Fire, where he will neither die nor live (as the next verse states).",
+      "lessonReflection": "The greatest Fire awaits the one who avoids the reminder—so the choice is stark: remember and be eased, or avoid and burn.",
+      "beforeThisAyah": "The wretched will avoid the reminder.",
+      "afterThisAyah": "There he will neither die nor live."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ ١٣",
+      "translation": "where they will not ˹be able to˺ live or die.",
+      "summary": "Neither dying therein nor living.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "لَا يَمُوتُ", "translation": "Will not die" },
+        { "arabic": "وَلَا يَحْيَىٰ", "translation": "Nor live" }
+      ],
+      "tafsirSummary": "Where he will neither die nor live—in the Fire there is no release by death and no real life; only lasting punishment. It is a state of perpetual suffering, without the relief of death or the comfort of life. The description is meant to strike awe and to urge the listener to take the reminder seriously and to purify himself.",
+      "lessonReflection": "In the Fire there is no death and no life—only punishment; so we seek refuge in Allah from that end and hold fast to the reminder.",
+      "beforeThisAyah": "The wretched will burn in the greatest Fire.",
+      "afterThisAyah": "Successful is he who purifies himself and remembers his Lord and prays."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ ١٤",
+      "translation": "Successful indeed are those who purify themselves,",
+      "summary": "He has certainly succeeded who purifies himself.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "أَفْلَحَ", "translation": "Has succeeded" },
+        { "arabic": "تَزَكَّىٰ", "translation": "Purifies himself" }
+      ],
+      "tafsirSummary": "He has succeeded who purifies himself—tazkiyah is the purification of the soul through faith, good deeds, and avoiding sin. The successful one is the one who purifies himself from shirk and corruption and adorns himself with tawhid and obedience. This is the opposite of the wretched: the latter avoids the reminder and burns; the former purifies himself and succeeds.",
+      "lessonReflection": "Success belongs to the one who purifies himself—so we strive for tazkiyah through faith, repentance, and good deeds.",
+      "beforeThisAyah": "In the Fire he will neither die nor live.",
+      "afterThisAyah": "And remembers the name of his Lord and prays."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ ١٥",
+      "translation": "remember the Name of their Lord, and pray.",
+      "summary": "And mentions the name of his Lord and prays.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "ذَكَرَ ٱسْمَ رَبِّهِۦ", "translation": "Remembers the name of his Lord" },
+        { "arabic": "فَصَلَّىٰ", "translation": "And prays" }
+      ],
+      "tafsirSummary": "And remembers the name of his Lord and prays—the successful one not only purifies himself but also remembers Allah in his heart and on his tongue, and he establishes prayer. Remembrance and prayer are the practical expression of tazkiyah. He does not prefer the life of this world over the Hereafter; he lives in the light of the name of the Most High and in the discipline of prayer.",
+      "lessonReflection": "Remember the name of your Lord and pray—these two actions keep the heart alive and the soul connected to the Most High.",
+      "beforeThisAyah": "He who purifies himself has succeeded.",
+      "afterThisAyah": "But you prefer the worldly life, though the Hereafter is better and more lasting."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا ١٦",
+      "translation": "But you ˹deniers only˺ prefer the life of this world,",
+      "summary": "But you prefer the worldly life.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "تُؤْثِرُونَ", "translation": "Prefer" },
+        { "arabic": "ٱلْحَيَوٰةَ ٱلدُّنْيَا", "translation": "The worldly life" }
+      ],
+      "tafsirSummary": "But you prefer the worldly life—the deniers choose the transient over the lasting. They favor what is in front of them—wealth, status, pleasure—over what is with Allah in the Hereafter. The preference is a moral failure: they know (or could know) that the Hereafter is better and more lasting, but they still choose the world. The verse addresses \"you\" to warn and to invite a change of preference.",
+      "lessonReflection": "To prefer the world over the Hereafter is to choose what fades over what remains—so we constantly reorient our preference toward the lasting.",
+      "beforeThisAyah": "The successful one remembers his Lord and prays.",
+      "afterThisAyah": "The Hereafter is better and more lasting."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "وَٱلْـَٔاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ ١٧",
+      "translation": "even though the Hereafter is far better and more lasting.",
+      "summary": "While the Hereafter is better and more enduring.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ٱلْـَٔاخِرَةُ", "translation": "The Hereafter" },
+        { "arabic": "خَيْرٌۭ وَأَبْقَىٰٓ", "translation": "Better and more lasting" }
+      ],
+      "tafsirSummary": "While the Hereafter is better and more lasting—it is of higher quality (better) and of longer duration (more lasting). The world is less and fleeting; the Hereafter is greater and eternal. So the rational choice is to prefer the Hereafter and to live in a way that secures it: glorify the Lord, purify yourself, remember Him, and pray. The verse closes the argument: you have no excuse for preferring the world when the Hereafter is clearly superior.",
+      "lessonReflection": "The Hereafter is better and more lasting—so we invest in it with our faith, our deeds, and our preference.",
+      "beforeThisAyah": "They prefer the worldly life.",
+      "afterThisAyah": "This is in the former scriptures."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ ١٨",
+      "translation": "This is certainly ˹mentioned˺ in the earlier Scriptures—",
+      "summary": "Indeed, this is in the former scriptures.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "ٱلصُّحُفِ ٱلْأُولَىٰ", "translation": "The former scriptures" }
+      ],
+      "tafsirSummary": "This is in the former scriptures—the message of glorification, creation, destiny, guidance, the reminder, success for the one who purifies and remembers and prays, and the superiority of the Hereafter is not new. It was in the earlier revelations. The Qur'an confirms what was in the scriptures of Abraham and Moses; it is the same truth, the same call to the Most High.",
+      "lessonReflection": "This message is in the former scriptures—so the Qur'an is not a break from the past but a confirmation of the same eternal truth.",
+      "beforeThisAyah": "The Hereafter was said to be better and more lasting.",
+      "afterThisAyah": "The scriptures of Abraham and Moses."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ ١٩",
+      "translation": "the Scriptures of Abraham and Moses.",
+      "summary": "The scriptures of Abraham and Moses.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "إِبْرَٰهِيمَ", "translation": "Abraham" },
+        { "arabic": "مُوسَىٰ", "translation": "Moses" }
+      ],
+      "tafsirSummary": "The scriptures of Abraham and Moses—the surah ends by anchoring its message in the legacy of two great prophets. What was given to Abraham and Moses—tawhid, moral purity, remembrance of the Lord, prayer, and the priority of the Hereafter—is what the Qur'an restates and completes. So the Muslim is in the same stream as the followers of Abraham and Moses; one Lord, one truth, one direction: the Most High.",
+      "lessonReflection": "The scriptures of Abraham and Moses carried the same call—so we are part of one ummah of tawhid, from the first prophets to the last.",
+      "beforeThisAyah": "This was said to be in the former scriptures.",
+      "afterThisAyah": "The surah ends; the themes of glorification, creation, reminder, success, and the Hereafter are left with the reader."
+    }
+  ]
+}

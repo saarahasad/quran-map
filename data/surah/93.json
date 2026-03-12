@@ -1,0 +1,188 @@
+{
+  "surahId": 93,
+  "surahNameArabic": "الضحى",
+  "surahNameEnglish": "The Morning Hours",
+  "revelationType": "Makki",
+  "totalAyahs": 11,
+  "thesis": "Your Lord has not abandoned you; He found you orphan, lost, and poor and gave you refuge, guidance, and sufficiency—so do not oppress the orphan or repel the petitioner, and speak of His favor.",
+  "gist": [
+    "Oath by the morning light and the night",
+    "Allah has not forsaken the Prophet; the Hereafter is better",
+    "He found him orphan, lost, and poor and gave refuge, guidance, and wealth",
+    "Command: do not oppress the orphan, do not repel the petitioner, and report the favor of your Lord"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "mercy": "teal",
+    "divine_support": "violet",
+    "hereafter": "yellow",
+    "guidance": "lime"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَٱلضُّحَىٰ ١",
+      "translation": "By the morning brightness",
+      "summary": "Oath by the morning brightness.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلضُّحَىٰ", "translation": "The morning brightness" }
+      ],
+      "tafsirSummary": "Allah swears by the morning brightness—the time when the sun has risen and spread its light, a time of clarity and hope. This surah was revealed to console the Prophet after a pause in revelation; the morning light is a sign that darkness does not last and that Allah's care is constant. The oath introduces a message of reassurance and gratitude.",
+      "lessonReflection": "The morning brightness that follows the night is a sign that ease follows difficulty and that Allah's mercy is never cut off.",
+      "beforeThisAyah": "The surah opens with an oath that leads to consolation and then to moral instruction.",
+      "afterThisAyah": "The night when it covers is sworn by next."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ ٢",
+      "translation": "And [by] the night when it covers with darkness,",
+      "summary": "And by the night when it covers and becomes still.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلَّيْلِ", "translation": "The night" },
+        { "arabic": "سَجَىٰ", "translation": "Covers / becomes still" }
+      ],
+      "tafsirSummary": "And by the night when it covers and grows still—when darkness spreads and the world settles. Morning and night together frame the rhythm of creation; both are from Allah. The Prophet had experienced a \"night\" of pause in revelation; the surah assures him that his Lord had not left him. The oath sets the stage for the consolation that follows.",
+      "lessonReflection": "Night and morning alternate by Allah's will; so too do trial and relief—and through both, the Lord is with His servant.",
+      "beforeThisAyah": "The morning brightness was sworn by.",
+      "afterThisAyah": "Allah declares that He has not taken leave of the Prophet nor detested him."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣",
+      "translation": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you].",
+      "summary": "Allah has not abandoned or disliked the Prophet.",
+      "theme": "divine_support",
+      "wordHighlights": [
+        { "arabic": "وَدَّعَكَ", "translation": "Taken leave of you" },
+        { "arabic": "قَلَىٰ", "translation": "Detested" },
+        { "arabic": "رَبُّكَ", "translation": "Your Lord" }
+      ],
+      "tafsirSummary": "Your Lord has not taken leave of you, nor has He detested you. This was revealed when revelation had paused and the Prophet was troubled. Allah reassures him directly: the pause was not abandonment or displeasure. The Lord never leaves His chosen ones in a permanent sense; He may test, but He does not forsake. This verse is a healing for every believer who has felt distant from Allah.",
+      "lessonReflection": "When we feel that Allah is distant, we must remember: He has not taken leave of us nor detested us—the feeling of distance is a test, not a verdict.",
+      "beforeThisAyah": "The morning and the night were sworn by.",
+      "afterThisAyah": "The Hereafter is said to be better for him than the first life."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ ٤",
+      "translation": "And the Hereafter is better for you than the first [life].",
+      "summary": "The Hereafter is better for you than this world.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ٱلْـَٔاخِرَةُ", "translation": "The Hereafter" },
+        { "arabic": "ٱلْأُولَىٰ", "translation": "The first [life]" }
+      ],
+      "tafsirSummary": "And the Hereafter is better for you than the first life—this world. Whatever the Prophet experienced of difficulty, loss, or pause in this life, the next life holds something better for him. This is true for every believer: the best is yet to come. The verse lifts the gaze from present trial to eternal reward.",
+      "lessonReflection": "The Hereafter is better than this world—so let present hardship not make us forget that the best is with our Lord in the next life.",
+      "beforeThisAyah": "Allah had reassured the Prophet that He had not abandoned or detested him.",
+      "afterThisAyah": "Allah will give him and he will be satisfied."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ ٥",
+      "translation": "And your Lord is going to give you, and you will be satisfied.",
+      "summary": "Allah will give the Prophet and he will be satisfied.",
+      "theme": "divine_support",
+      "wordHighlights": [
+        { "arabic": "يُعْطِيكَ", "translation": "Give you" },
+        { "arabic": "تَرْضَىٰٓ", "translation": "Be satisfied" }
+      ],
+      "tafsirSummary": "And your Lord will give you, and you will be satisfied. The promise is direct: Allah will give—whether in this life or the next—and the Prophet will be satisfied. The greatest gift is nearness to Allah and the reward of the Hereafter. This verse completes the consolation: you are not abandoned, the next life is better, and your Lord will give until you are satisfied.",
+      "lessonReflection": "Allah's promise to give until we are satisfied is for those who trust Him—the gift may come in this world or the next, but it will come.",
+      "beforeThisAyah": "The Hereafter was said to be better than the first life.",
+      "afterThisAyah": "Allah reminds the Prophet of past favors: He found him an orphan and gave him refuge."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ ٦",
+      "translation": "Did He not find you an orphan and give [you] refuge?",
+      "summary": "Allah found the Prophet an orphan and gave him refuge.",
+      "theme": "mercy",
+      "wordHighlights": [
+        { "arabic": "يَتِيمًۭا", "translation": "An orphan" },
+        { "arabic": "فَـَٔاوَىٰ", "translation": "And give refuge" }
+      ],
+      "tafsirSummary": "Did He not find you an orphan and give you refuge? The Prophet lost his father before birth and his mother in childhood; he knew the vulnerability of the orphan. Allah took him in—through his grandfather, then his uncle, and through the broader care that shaped his life. The rhetorical question invites gratitude: your Lord has already proven His care; He will not abandon you now.",
+      "lessonReflection": "Allah's past care is proof of His present care—He who sheltered the orphan will not forsake the one who trusts in Him.",
+      "beforeThisAyah": "The Lord had promised to give and that the Prophet would be satisfied.",
+      "afterThisAyah": "He found him lost and guided him."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ ٧",
+      "translation": "And He found you lost and guided [you],",
+      "summary": "He found you lost and guided you.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "ضَآلًّۭا", "translation": "Lost" },
+        { "arabic": "فَهَدَىٰ", "translation": "And guided" }
+      ],
+      "tafsirSummary": "And He found you lost and guided you. Before revelation, the Prophet was in a state of spiritual seeking—the world of the Jahiliyyah offered no clear path. Allah guided him to the truth and made him the guide for all. Lostness here is not blame but the human condition before divine guidance; the emphasis is on Allah's mercy in guiding.",
+      "lessonReflection": "Allah finds us lost and guides us—so we who have been guided must never look down on those who are still seeking; we were once lost too.",
+      "beforeThisAyah": "Allah had found him an orphan and given him refuge.",
+      "afterThisAyah": "He found him poor and made him self-sufficient."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ ٨",
+      "translation": "And He found you poor and made [you] self-sufficient.",
+      "summary": "He found you poor and made you self-sufficient.",
+      "theme": "mercy",
+      "wordHighlights": [
+        { "arabic": "عَآئِلًۭا", "translation": "Poor" },
+        { "arabic": "فَأَغْنَىٰ", "translation": "And made self-sufficient" }
+      ],
+      "tafsirSummary": "And He found you in need and made you self-sufficient. The Prophet was not wealthy in his early life; Allah enriched him through Khadījah's support, through the respect and provision that came with prophethood, and through contentment. The three favors—refuge as an orphan, guidance when lost, and sufficiency when poor—show a pattern: Allah takes care of His servant at every stage. The response to such favor is gratitude and treating others with the same mercy.",
+      "lessonReflection": "He who was poor and was made sufficient by Allah should remember that sufficiency is a gift—and share with those who are still in need.",
+      "beforeThisAyah": "Allah had found him lost and guided him.",
+      "afterThisAyah": "Therefore: do not oppress the orphan."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ ٩",
+      "translation": "So as for the orphan, do not oppress [him].",
+      "summary": "Do not oppress the orphan.",
+      "theme": "mercy",
+      "wordHighlights": [
+        { "arabic": "ٱلْيَتِيمَ", "translation": "The orphan" },
+        { "arabic": "تَقْهَرْ", "translation": "Oppress" }
+      ],
+      "tafsirSummary": "So as for the orphan, do not oppress him. The one who was himself an orphan and was given refuge must not oppress other orphans—whether by seizing their property, neglecting their rights, or humiliating them. The command is direct and universal: the orphan has a claim on the community's care, not its abuse. Gratitude for Allah's favor is shown in how we treat the vulnerable.",
+      "lessonReflection": "We who have been sheltered must not oppress the orphan—our own experience of need should make us the first to protect those in need.",
+      "beforeThisAyah": "Allah had reminded the Prophet of three favors: refuge, guidance, and sufficiency.",
+      "afterThisAyah": "And as for the petitioner, do not repel him."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ ١٠",
+      "translation": "And as for the petitioner, do not repel [him].",
+      "summary": "Do not repel the one who asks (for aid or knowledge).",
+      "theme": "mercy",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّآئِلَ", "translation": "The petitioner" },
+        { "arabic": "تَنْهَرْ", "translation": "Repel" }
+      ],
+      "tafsirSummary": "And as for the one who asks, do not repel him. The petitioner may be one who asks for material help or one who asks for knowledge—the Prophet was both a source of provision and of guidance. To \"repel\" is to drive away with harshness or contempt. The one who received refuge, guidance, and sufficiency from Allah must not turn away those who come to him in need or in search of truth.",
+      "lessonReflection": "The one who asks—whether for help or for knowledge—deserves a gentle response; repelling him contradicts the mercy we ourselves received.",
+      "beforeThisAyah": "The Prophet was commanded not to oppress the orphan.",
+      "afterThisAyah": "And as for the favor of your Lord, speak of it."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ١١",
+      "translation": "But as for the favor of your Lord, report [it].",
+      "summary": "And as for the favor of your Lord, speak of it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "نِعْمَةِ رَبِّكَ", "translation": "Favor of your Lord" },
+        { "arabic": "فَحَدِّثْ", "translation": "Report [it]" }
+      ],
+      "tafsirSummary": "And as for the favor of your Lord, speak of it. Do not hide the blessings Allah has given you; mention them with gratitude. The \"favor\" includes revelation, prophethood, and every good that Allah has granted. To \"report\" it is to acknowledge it openly, to thank Allah, and to let the message be known. The surah ends with this positive command: gratitude expressed by words and by treating the orphan and the petitioner with mercy.",
+      "lessonReflection": "Speaking of Allah's favor is an act of gratitude and a reminder to ourselves and others that every good is from Him.",
+      "beforeThisAyah": "The Prophet was commanded not to repel the petitioner.",
+      "afterThisAyah": "The surah ends; the themes of consolation, remembrance of favor, and moral duty are left with the reader."
+    }
+  ]
+}

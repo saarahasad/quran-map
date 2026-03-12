@@ -1,0 +1,335 @@
+{
+  "surahId": 92,
+  "surahNameArabic": "الليل",
+  "surahNameEnglish": "The Night",
+  "revelationType": "Makki",
+  "totalAyahs": 21,
+  "thesis": "Efforts diverge: the one who gives, fears Allah, and believes in the best reward is eased to ease; the one who withholds and denies is eased to difficulty and the blazing Fire.",
+  "gist": [
+    "Oath by night, day, and the Creator of male and female",
+    "Efforts are diverse: giver and God-fearing vs. miser and denier",
+    "Guidance and the two abodes belong to Allah; warning of the blazing Fire",
+    "The most wretched will burn; the righteous who give for Allah's face will be satisfied"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "hereafter": "yellow",
+    "warning": "orange",
+    "guidance": "lime",
+    "disbelief": "gray"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ ١",
+      "translation": "By the night when it covers",
+      "summary": "Oath by the night when it covers with darkness.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلَّيْلِ", "translation": "The night" },
+        { "arabic": "يَغْشَىٰ", "translation": "Covers" }
+      ],
+      "tafsirSummary": "Allah swears by the night when it covers the world with darkness. Night is a sign of the Creator—it brings rest, reflection, and the alternation that sustains life. The oath draws attention to the truth that follows: human efforts are not the same; they diverge toward good or evil.",
+      "lessonReflection": "The night that covers the earth is from Allah; so too is the moral covering we choose—either the shade of His guidance or the darkness of turning away.",
+      "beforeThisAyah": "The surah opens with oaths that lead to a lesson on the two paths of human conduct.",
+      "afterThisAyah": "The day when it appears is sworn by next."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ ٢",
+      "translation": "And [by] the day when it appears",
+      "summary": "And by the day when it appears.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلنَّهَارِ", "translation": "The day" },
+        { "arabic": "تَجَلَّىٰ", "translation": "Appears" }
+      ],
+      "tafsirSummary": "Allah swears by the day when it appears—when light spreads and the world is revealed. Night and day together signify the rhythm of creation and the clarity that comes with light. The day makes things visible; in the same way, the message makes the path of good and evil visible.",
+      "lessonReflection": "As the day reveals the world, revelation reveals the path; we are not left in darkness about what is right and wrong.",
+      "beforeThisAyah": "The night when it covers was sworn by.",
+      "afterThisAyah": "The oath turns to the One who created male and female."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ ٣",
+      "translation": "And [by] He who created the male and female,",
+      "summary": "And by Him who created the male and female.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "خَلَقَ", "translation": "Created" },
+        { "arabic": "ٱلذَّكَرَ وَٱلْأُنثَىٰٓ", "translation": "The male and female" }
+      ],
+      "tafsirSummary": "Allah swears by the One who created the male and female—the diversity of humankind and the pairing that sustains life. Creation is not random; it is from a single Creator who knows what He created. The oath establishes that the same Lord who created us also distinguishes between our efforts—some lead to ease, some to destruction.",
+      "lessonReflection": "The One who created you male or female is the One who will judge how you used your life; creation and accountability are in His hand.",
+      "beforeThisAyah": "The day when it appears was sworn by.",
+      "afterThisAyah": "The surah states the main point: your efforts are diverse."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ ٤",
+      "translation": "Indeed, your efforts are diverse.",
+      "summary": "Your strivings are different from one another.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "سَعْيَكُمْ", "translation": "Your efforts" },
+        { "arabic": "لَشَتَّىٰ", "translation": "Are diverse" }
+      ],
+      "tafsirSummary": "Your efforts are truly diverse—some of you strive toward good: giving, fearing Allah, and believing in the best reward. Others strive toward evil: withholding, feeling self-sufficient, and denying the best. The surah will describe both groups and their ends. This verse is the pivot: creation is one, but human choice splits into two paths.",
+      "lessonReflection": "We are not all the same; our strivings divide us into those who give and fear Allah and those who withhold and deny—choose your path with care.",
+      "beforeThisAyah": "Allah swore by night, day, and the Creator of male and female.",
+      "afterThisAyah": "The first type of person is described: the one who gives and fears Allah."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ ٥",
+      "translation": "As for he who gives and fears Allāh",
+      "summary": "As for him who gives and is God-fearing.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "أَعْطَىٰ", "translation": "Gives" },
+        { "arabic": "ٱتَّقَىٰ", "translation": "Fears Allah" }
+      ],
+      "tafsirSummary": "As for the one who gives—of his wealth, his time, his self—and fears Allah, he has chosen the path of the best reward. Giving here is broad: it includes charity, kindness, and spending in the way of Allah. Taqwā is the consciousness that restrains from wrong and motivates toward good. Together they define the successful soul.",
+      "lessonReflection": "The combination that leads to ease is simple but profound: give freely and fear Allah—generosity and God-consciousness go hand in hand.",
+      "beforeThisAyah": "Human efforts were said to be diverse.",
+      "afterThisAyah": "He also believes in the best reward; then his outcome is stated."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ ٦",
+      "translation": "And believes in the best [reward].",
+      "summary": "And believes in the best reward.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "صَدَّقَ", "translation": "Believes" },
+        { "arabic": "ٱلْحُسْنَىٰ", "translation": "The best [reward]" }
+      ],
+      "tafsirSummary": "And believes in the best—the best reward from Allah, the promise of Paradise, and the truth of what the messengers brought. Belief in the best means trusting that Allah's reward is greater than any worldly cost of giving and obeying. This belief fuels the willingness to give and to fear Him.",
+      "lessonReflection": "Believing in the best reward from Allah makes giving and fearing Him a joy, not a loss—the heart is at peace because it trusts the Promise.",
+      "beforeThisAyah": "The one who gives and fears Allah was described.",
+      "afterThisAyah": "Allah will ease him toward ease."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ ٧",
+      "translation": "We will ease him toward ease.",
+      "summary": "We will make easy for him the path of ease.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "نُيَسِّرُهُۥ", "translation": "We will ease him" },
+        { "arabic": "ٱلْيُسْرَىٰ", "translation": "Ease" }
+      ],
+      "tafsirSummary": "We will ease him toward ease—Allah will smooth his path to what is easy and good, in this life and the next. Ease here means both the ease of doing good (Allah makes it possible and pleasant) and the ease of the final outcome: salvation and Paradise. The one who gives and fears Allah is not abandoned; he is helped.",
+      "lessonReflection": "Allah does not leave the giver and the God-fearing to struggle alone; He eases their way toward ease—so take heart and give.",
+      "beforeThisAyah": "The one who gives, fears Allah, and believes in the best was described.",
+      "afterThisAyah": "The opposite type is now described: the one who withholds and considers himself self-sufficient."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ ٨",
+      "translation": "But as for he who withholds and considers himself free of need",
+      "summary": "As for him who is stingy and deems himself self-sufficient.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "بَخِلَ", "translation": "Withholds" },
+        { "arabic": "ٱسْتَغْنَىٰ", "translation": "Considers himself free of need" }
+      ],
+      "tafsirSummary": "But as for the one who withholds—who is stingy with his wealth, his help, his faith—and considers himself free of need, he has chosen the path of loss. He thinks he does not need Allah, or that he does not need to give. This self-sufficiency is the arrogance that leads to denial of the best reward and ultimately to the Fire.",
+      "lessonReflection": "Stinginess and the illusion of self-sufficiency go together; both cut the soul off from Allah and from the path of ease.",
+      "beforeThisAyah": "The ease that Allah grants to the giver was stated.",
+      "afterThisAyah": "He also denies the best reward; then his outcome is stated."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ ٩",
+      "translation": "And denies the best [reward],",
+      "summary": "And denies the best reward.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "كَذَّبَ", "translation": "Denies" }
+      ],
+      "tafsirSummary": "And denies the best—he does not believe in the finest reward from Allah, or in the truth of the message. Denial of the best is denial of the Hereafter, of Paradise, and of the wisdom of giving and obeying. It is the closing of the heart to hope and to the promise of the Lord.",
+      "lessonReflection": "To deny the best reward is to deny the very motive for goodness; the heart that denies the best has chosen the path of loss.",
+      "beforeThisAyah": "The one who withholds and considers himself free of need was described.",
+      "afterThisAyah": "Allah will ease him toward difficulty."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ ١٠",
+      "translation": "We will ease him toward difficulty.",
+      "summary": "We will make easy for him the path of difficulty.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "ٱلْعُسْرَىٰ", "translation": "Difficulty" }
+      ],
+      "tafsirSummary": "We will ease him toward difficulty—Allah will smooth his path toward what is hard and harmful, in this life and the next. Just as He facilitates ease for the righteous, He facilitates the downward path for the one who chose stinginess and denial. The outcome is the blazing Fire, as the surah will soon state. The same verb \"yassara\" is used for both: Allah makes each path accessible according to the choice made.",
+      "lessonReflection": "Allah eases both paths—ease for the giver and the believer, difficulty for the miser and the denier; our choices determine which path is eased for us.",
+      "beforeThisAyah": "The one who withholds, feels self-sufficient, and denies the best was described.",
+      "afterThisAyah": "The futility of his wealth when he falls is stated."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ ١١",
+      "translation": "And what will his wealth avail him when he falls?",
+      "summary": "His wealth will not avail him when he falls (dies or is destroyed).",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "مَالُهُۥٓ", "translation": "His wealth" },
+        { "arabic": "تَرَدَّىٰٓ", "translation": "He falls" }
+      ],
+      "tafsirSummary": "What will his wealth avail him when he falls?—when he dies or is cast into the Fire. The wealth he hoarded will not ransom him, protect him, or accompany him. Only what he gave for the sake of Allah and the state of his soul will count. This is a sobering reminder for every soul that clings to wealth and denies the best reward.",
+      "lessonReflection": "Wealth that was withheld will be of no use when we fall—at death or into the Fire; only what we gave and how we lived will speak.",
+      "beforeThisAyah": "The miser and denier were said to be eased toward difficulty.",
+      "afterThisAyah": "Allah affirms that guidance is upon Him, and that the two abodes belong to Him."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ ١٢",
+      "translation": "Indeed, [incumbent] upon Us is guidance.",
+      "summary": "Upon Us is to show the way.",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "ٱلْهُدَىٰ", "translation": "Guidance" }
+      ],
+      "tafsirSummary": "Upon Us is guidance—Allah has taken upon Himself the responsibility to make the path clear. He sent messengers, revealed books, and placed in creation and in the soul signs that point to the truth. No one can say they were left without guidance; the obligation to guide is Allah's, and He has fulfilled it. The obligation to follow is ours.",
+      "lessonReflection": "Allah has made guidance His responsibility; He has shown the way—our part is to follow it and not turn away.",
+      "beforeThisAyah": "The futility of wealth when one falls was stated.",
+      "afterThisAyah": "The Hereafter and the first life are said to belong to Allah."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ ١٣",
+      "translation": "And indeed, to us belongs the Hereafter and the first [life].",
+      "summary": "To Us belong the Hereafter and this world.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلْـَٔاخِرَةَ", "translation": "The Hereafter" },
+        { "arabic": "ٱلْأُولَىٰ", "translation": "The first [life]" }
+      ],
+      "tafsirSummary": "To Allah belong the Hereafter and the first life—this world and the next are both His kingdom. He is the Lord of both; He gives in both and judges in both. So the one who gives for His sake is giving in a realm that belongs to Him, and the one who withholds is withholding what was never truly his—it was always Allah's. This verse grounds the entire surah in divine ownership and sovereignty.",
+      "lessonReflection": "Nothing we have is truly ours—both worlds belong to Allah; giving is only returning what is His, and withholding is rebellion against the Owner.",
+      "beforeThisAyah": "Allah stated that guidance is upon Him.",
+      "afterThisAyah": "The Prophet is told to warn of the blazing Fire."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ ١٤",
+      "translation": "So I have warned you of a Fire which is blazing.",
+      "summary": "I have warned you of a blazing Fire.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "أَنذَرْتُكُمْ", "translation": "I have warned you" },
+        { "arabic": "نَارًۭا تَلَظَّىٰ", "translation": "A blazing Fire" }
+      ],
+      "tafsirSummary": "So I have warned you of a Fire that blazes—the Fire of Hell, which is the end of the path of the one who withholds and denies. The warner has delivered the message; the choice remains with the people. The Fire is real, and the warning is sincere. Whoever takes it to heart and turns to giving and fearing Allah can still be saved.",
+      "lessonReflection": "The warning of the Fire is a mercy—it is given so that we may turn back before we reach the end of the path of loss.",
+      "beforeThisAyah": "The two abodes were said to belong to Allah.",
+      "afterThisAyah": "None will burn in it except the most wretched."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى ١٥",
+      "translation": "None will [enter to] burn therein except the most wretched one",
+      "summary": "None will burn in it except the most wretched.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "يَصْلَىٰهَآ", "translation": "Burn therein" },
+        { "arabic": "ٱلْأَشْقَى", "translation": "The most wretched" }
+      ],
+      "tafsirSummary": "None will burn in it except the most wretched—the one who chose the path of stinginess, self-sufficiency, and denial. The Fire is not arbitrary; it is the destination of the soul that refused to give, refused to fear Allah, and refused to believe in the best reward. The \"most wretched\" is the one who reached the furthest point on that path.",
+      "lessonReflection": "The Fire is for the most wretched—those who persisted in withholding and denial; let that definition keep us from ever qualifying.",
+      "beforeThisAyah": "The warner has warned of a blazing Fire.",
+      "afterThisAyah": "The most wretched is described: he who denied and turned away."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ ١٦",
+      "translation": "Who had denied and turned away.",
+      "summary": "Who denied the truth and turned away.",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "كَذَّبَ", "translation": "Denied" },
+        { "arabic": "تَوَلَّىٰ", "translation": "Turned away" }
+      ],
+      "tafsirSummary": "The one who denied the truth and turned away—from the message, from the warner, and from the path of good. Denial and turning away are the two acts that define the most wretched: he did not believe, and he turned his back. There is no ambiguity; the Qur'an names the cause of the worst fate.",
+      "lessonReflection": "Denial and turning away are the marks of the one who will burn; faith and turning toward Allah are the marks of the one who will be saved.",
+      "beforeThisAyah": "None will burn in the Fire except the most wretched.",
+      "afterThisAyah": "The righteous one will be kept far from it."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى ١٧",
+      "translation": "But the righteous one will avoid it –",
+      "summary": "The most God-fearing will be kept far from it.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "يُجَنَّبُهَا", "translation": "Will avoid it" },
+        { "arabic": "ٱلْأَتْقَى", "translation": "The righteous one" }
+      ],
+      "tafsirSummary": "The most God-fearing will be kept far from it—he will not enter the Fire; he will be spared and brought to safety. The \"atqā\" is the one who had the most taqwā: who gave, feared Allah, and believed in the best reward. His end is the opposite of the most wretched: he is brought near to mercy and kept far from punishment.",
+      "lessonReflection": "The righteous one is kept far from the Fire—not by chance, but because he chose the path of giving and fear of Allah.",
+      "beforeThisAyah": "The most wretched was described as he who denied and turned away.",
+      "afterThisAyah": "The righteous one is described: he gives his wealth to purify himself."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ ١٨",
+      "translation": "[He] who gives [from] his wealth to purify himself",
+      "summary": "Who gives his wealth to purify himself.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "يُؤْتِى مَالَهُۥ", "translation": "Gives his wealth" },
+        { "arabic": "يَتَزَكَّىٰ", "translation": "To purify himself" }
+      ],
+      "tafsirSummary": "He who gives his wealth to purify himself—to attain tazkiyah, the purification of the soul. He does not give for show or for repayment from people; he gives to draw nearer to Allah and to cleanse his soul from the stain of stinginess and love of wealth. Giving becomes an act of worship and a means of spiritual growth.",
+      "lessonReflection": "The one who gives his wealth to purify himself has understood that wealth is a tool for purifying the soul, not for hoarding.",
+      "beforeThisAyah": "The righteous one will be kept far from the Fire.",
+      "afterThisAyah": "He gives not seeking reward from any creature—only the face of his Lord."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ ١٩",
+      "translation": "And not [giving] for anyone who has [done him] a favor to be rewarded –",
+      "summary": "Not seeking reward from any creature for a favor.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "نِّعْمَةٍۢ", "translation": "Favor" },
+        { "arabic": "تُجْزَىٰٓ", "translation": "To be rewarded" }
+      ],
+      "tafsirSummary": "He does not give because someone did him a favor that he feels he must repay—his giving is not transactional with people. He is not seeking to settle a debt of gratitude to a creature; his only motive is to seek the countenance of his Lord. This is the purity of intention that distinguishes the righteous giver.",
+      "lessonReflection": "The best giving is when we do not seek repayment or thanks from people—only the acceptance and face of Allah.",
+      "beforeThisAyah": "The righteous one gives his wealth to purify himself.",
+      "afterThisAyah": "His only aim is the face of his Lord, the Most High."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ ٢٠",
+      "translation": "But only seeking the face [i.e., acceptance] of his Lord, Most High.",
+      "summary": "But only seeking the countenance of his Lord, the Most High.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "وَجْهِ رَبِّهِ", "translation": "Face of his Lord" },
+        { "arabic": "ٱلْأَعْلَىٰ", "translation": "Most High" }
+      ],
+      "tafsirSummary": "But only seeking the face of his Lord, the Most High—seeking Allah's pleasure and acceptance, nothing else. The \"face\" of Allah in the Qur'an often denotes His approval and nearness. The one who gives for the face of his Lord has lifted his intention above worldly motives and has attached his heart to the Most High.",
+      "lessonReflection": "When our giving is only for the face of our Lord, the Most High, we are free from the need for anyone else's approval.",
+      "beforeThisAyah": "He does not give to repay a favor from any creature.",
+      "afterThisAyah": "He will surely be satisfied—the surah ends with his reward."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "وَلَسَوْفَ يَرْضَىٰ ٢١",
+      "translation": "And he is going to be satisfied.",
+      "summary": "And he will indeed be satisfied.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "يَرْضَىٰ", "translation": "Be satisfied" }
+      ],
+      "tafsirSummary": "And he will surely be satisfied—in the Hereafter, when he sees his reward and attains the pleasure of his Lord. The one who gave for the face of Allah will not be disappointed; he will be satisfied with what Allah gives him. This is the wholesome end of the path of ease: satisfaction with the Lord and with the outcome He has prepared.",
+      "lessonReflection": "The one who gives for Allah's face will be satisfied—not with worldly reward, but with the approval and reward of the Lord, the Most High.",
+      "beforeThisAyah": "His only aim was the face of his Lord, the Most High.",
+      "afterThisAyah": "The surah ends here; the two paths and their ends have been made clear."
+    }
+  ]
+}

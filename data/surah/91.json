@@ -1,0 +1,256 @@
+{
+  "surahId": 91,
+  "surahNameArabic": "الشمس",
+  "surahNameEnglish": "The Sun",
+  "revelationType": "Makki",
+  "totalAyahs": 15,
+  "thesis": "Allah swears by the sun, moon, day, night, heaven, earth, and the soul—and by the One who built, spread, and proportioned them—to emphasize that He inspired the soul with knowledge of its wickedness and righteousness; success belongs to whoever purifies it (with Allah's help), and failure to whoever corrupts it, as the people of Thamūd demonstrated by rejecting the sign and earning collective destruction, while Allah fears no consequence of His judgment.",
+  "gist": [
+    "Surah Wāsh-Shamsi wa Ḍuḥāhā (Ash-Shams): Makkī; theme is purification and corruption of the soul (tazkiyatun nafs).",
+    "Allah swears by His creation (sun, moon, day, night, heaven, earth, soul) to highlight their greatness; Muslims may only swear by Allah.",
+    "The soul was proportioned (sawwāhā) and inspired (alhamahā) with its fujūr and taqwā—innate fitrah to know right and wrong.",
+    "Success (falāh) = whoever purifies the soul; failure (khab) = whoever corrupts/dishonours it. Both human effort and Allah's tawfīq are true.",
+    "Tazkiyah: purifying (tawbah, istighfar) and developing (good deeds); through taqwa and mujāhadatun nafs. Do not claim purity (An-Najm); do the actions.",
+    "Thamūd denied out of transgression; the most wretched hamstrung the she-camel; the messenger warned them; they defied and were crushed—collective responsibility for cooperation or consent.",
+    "Allah does not fear the consequence of His actions; He is not questioned—we are accountable to Him."
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "signs": "cyan",
+    "warning": "orange",
+    "stories": "fuchsia",
+    "guidance": "lime"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا ١",
+      "translation": "By the sun and its forenoon,",
+      "summary": "Oath by the sun and its ḍuḥā (forenoon).",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلشَّمْسِ", "translation": "The sun" },
+        { "arabic": "ضُحَىٰهَا", "translation": "Its forenoon (ḍuḥā)" }
+      ],
+      "tafsirSummary": "Allah swears by the sun and its ḍuḥāhā. Ḍuḥā primarily means the forenoon: from when the sun rises to the height of a spear until ẓuhr (midday). Scholars differed: Mujāhid interpreted it as the light of the sun; Qatādah and Ibn Jarīr as the whole day. The preferred meaning is the specific time of ḍuḥā—a blessed and significant time. The forenoon is attributed to the sun because the sun defines and marks this period. Allah swears by aspects of His creation to emphasize their greatness in His sight; unlike humans who may only swear by Allah, Allah may swear by whatever He wills from His creation.",
+      "lessonReflection": "The sun and its forenoon are signs of order and blessing; let the daily rise of the sun remind us that the One who made it also made the soul and will call it to account.",
+      "beforeThisAyah": "The surah opens with a series of oaths leading to the weighty conclusion about the soul, its purification, and its corruption.",
+      "afterThisAyah": "The oaths continue with the moon, then the day and the night—all part of one coherent creation pointing to the same Lord."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا ٢",
+      "translation": "and by the moon when it follows it,",
+      "summary": "And by the moon when it follows it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلْقَمَرِ", "translation": "The moon" },
+        { "arabic": "تَلَىٰهَا", "translation": "Follows it" }
+      ],
+      "tafsirSummary": "Allah swears by the moon when it follows it. The sun and moon are among the clearest signs (āyāt) of Allah, and this clarity relates to the clarity of Islam's message and its commands. Scholars differed on what \"it\" refers to: Ibn ʿAbbās held that the moon follows the day; Qatādah that the moon follows the sun, especially on the night of the crescent (hilāl); Imam Ibn Jarīr that the moon follows the sun during the first half of the month. The pronoun can be read consistently as referring to the sun in the series of oaths.",
+      "lessonReflection": "Creation is ordered and purposeful; the moon's following reflects a divine order—so too our lives have a path and a purpose when we align with the One who made the sun and moon.",
+      "beforeThisAyah": "The sun and its forenoon were sworn by.",
+      "afterThisAyah": "The day that displays, and the night that covers, are invoked next."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا ٣",
+      "translation": "and by the day when it displays it,",
+      "summary": "And by the day when it displays it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلنَّهَارِ", "translation": "The day" },
+        { "arabic": "جَلَّىٰهَا", "translation": "Displays / makes apparent it" }
+      ],
+      "tafsirSummary": "Jaalāhā means displays or makes apparent. Scholars differed on the pronoun: some hold that the day makes the sun's light apparent (keeping pronouns consistently referring to the sun); others that the day brightens the darkness; a third opinion that the day itself becomes apparent and bright. The preferred interpretation is to keep all pronouns in these verses referring to the sun: the day displays the sun (or its light). Day reveals what night conceals—a sign of clarity and guidance.",
+      "lessonReflection": "Just as the day unveils the world, guidance unveils the heart so we may see clearly and choose rightly.",
+      "beforeThisAyah": "The moon following the sun was mentioned.",
+      "afterThisAyah": "The night that covers it is sworn by next."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا ٤",
+      "translation": "and by the night when it covers it!",
+      "summary": "And by the night when it covers it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلَّيْلِ", "translation": "The night" },
+        { "arabic": "يَغْشَىٰهَا", "translation": "Covers it" }
+      ],
+      "tafsirSummary": "Yaghshāhā means covers up. The preferred interpretation is that the night covers the sun (again keeping the pronoun referring to the sun). Other opinions include the night covering the horizon. Night and day alternate by Allah's design—rest, reflection, and the rhythm of creation—and both are signs for people who reflect.",
+      "lessonReflection": "Night and day alternate by His command; ease and trial alternate in life, each with a wisdom.",
+      "beforeThisAyah": "The day that displays was sworn by.",
+      "afterThisAyah": "The oath turns to the heaven and that which built it."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا ٥",
+      "translation": "And by the heaven and that which built it,",
+      "summary": "And by the heaven and that which built it (its making / its Maker).",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّمَآءِ", "translation": "The heaven" },
+        { "arabic": "وَمَا بَنَىٰهَا", "translation": "And that which built it" }
+      ],
+      "tafsirSummary": "The word mā can be read in three ways: (1) masdariyya—the making or building of the heavens (by the heavens and their making); (2) as the subject of the verb—the Maker or Builder of the heavens (by the heavens and their Maker), which is the opinion of the majority of the Salaf; (3) Ibn Kathīr held that both meanings are intrinsically connected and true: the verse encompasses the heavens, their making, and their Maker. The principle: if an ayah has two or more possible meanings with an inherent connection and nothing prevents applying both, all meanings apply. The heaven is a canopy, a sign of majesty and precision; He who built it is the same who will call the soul to account.",
+      "lessonReflection": "The sky above us did not raise itself; the One who built it is the One we will return to—let creation remind us of the Creator.",
+      "beforeThisAyah": "Night covering was sworn by.",
+      "afterThisAyah": "The earth and that which spread it are sworn by next."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا ٦",
+      "translation": "and by the earth and that which spread it!",
+      "summary": "And by the earth and that which spread it (its spreading / the One who spread it).",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلْأَرْضِ", "translation": "The earth" },
+        { "arabic": "طَحَىٰهَا", "translation": "Spread it / made it level" }
+      ],
+      "tafsirSummary": "Ṭaḥāhā means spread it out or made it level. As with the heaven, mā encompasses the earth, its spreading, and the One who spread it (Allah). This spreading makes the earth suitable for building, travel, and vegetation. Sky and earth together frame the world we live in; both are from Allah and point to Him.",
+      "lessonReflection": "We walk on earth that He spread and look at a sky that He built; our environment is a continuous reminder of the Lord.",
+      "beforeThisAyah": "The heaven and that which built it were sworn by.",
+      "afterThisAyah": "The oath moves to the soul—the inner creation that each person carries."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا ٧",
+      "translation": "And by the soul and that which proportioned it,",
+      "summary": "And by the soul and that which proportioned it.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "نَفْسٍۢ", "translation": "The soul (nafs)" },
+        { "arabic": "سَوَّىٰهَا", "translation": "Proportioned / fashioned it" }
+      ],
+      "tafsirSummary": "Sawwāhā means proportioned or fashioned it. The next verse (91:8) clarifies that nafs here is the soul, not the physical body. Allah created the soul in a state of uprightness—the natural state of fitrah. The soul is the inner reality of the human being; Allah created it and made it capable of knowing good and evil. This is the pivot of the surah: from creation at large to the soul in particular.",
+      "lessonReflection": "Your soul was fashioned by the same Lord who fashioned the sun and the earth; it is precious and accountable.",
+      "beforeThisAyah": "The earth and that which spread it were sworn by.",
+      "afterThisAyah": "Allah states what He inspired in the soul—the knowledge of good and evil."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا ٨",
+      "translation": "then inspired it with its wickedness and its righteousness!",
+      "summary": "And inspired it with its wickedness and its righteousness.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "أَلْهَمَهَا", "translation": "Inspired it" },
+        { "arabic": "فُجُورَهَا", "translation": "Its wickedness" },
+        { "arabic": "تَقْوَىٰهَا", "translation": "Its righteousness" }
+      ],
+      "tafsirSummary": "Alhamahā means inspired it—gaining knowledge without effort or study. Allah created humans with an intrinsic, basic understanding of right and wrong (fitrah), even if this can be obscured by environment or disobedience. Ibn Kathīr and Ibn ʿAbbās stated that Allah guided the soul and made clear to it what is right and wicked; Saʿīd ibn Jubayr said Allah inspired the soul to know good and evil; some held that Allah placed wickedness and righteousness within the soul itself. Just as Allah made the celestial signs clear, He made the difference between good and evil, halāl and harām, clear to humanity. This explains common human values across societies (e.g. against killing, stealing, lying). Guidance is a favour and grace from Allah, not something deserved; misguidance is according to His wisdom and justice for those who turn away from the truth and do not strive.",
+      "lessonReflection": "Allah has placed in the soul the capacity to recognize both evil and good; the choice to purify or corrupt is ours, but the standard and the ability to succeed come from Him.",
+      "beforeThisAyah": "The soul and He who proportioned it were sworn by.",
+      "afterThisAyah": "The surah declares who succeeds and who fails based on that choice."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا ٩",
+      "translation": "Successful indeed is the one who purifies it,",
+      "summary": "He has succeeded who purifies it.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "أَفْلَحَ", "translation": "Has succeeded" },
+        { "arabic": "زَكَّىٰهَا", "translation": "Purifies it" }
+      ],
+      "tafsirSummary": "Al-falāh (success) means to achieve one's goal (Paradise) and be saved from what one fears (Hell). Two main interpretations: (1) The one who purifies their own soul has succeeded—the majority opinion; this is the fundamental principle for tazkiyatun nafs (soul purification). (2) The subject of purification is Allah—He purifies that person's soul. The combined meaning preferred by the speaker: both are true. Humans are required to strive to purify themselves, but ultimately Allah is the one who grants success (tawfīq) or withholds it. This highlights our desperate need for Allah's help. Reconciliation with Surah An-Najm (do not purify your souls): that verse forbids claiming purity for oneself or others (arrogance); this verse refers to doing the actions of purification. Tazkiyah derives from zakāh—meaning both purity and growth: purifying through tawbah and istighfar, and developing through good deeds; achieved through taqwa and mujāhadatun nafs (striving against the soul). The Prophet (peace be upon him) used to ask Allah to give his soul its taqwā and to purify it, for Allah is the best of those who purify. Those who strive for Allah—He guides them to His ways.",
+      "lessonReflection": "True success is the success of the soul. Strive to purify it with tawbah, good deeds, and taqwa—and ask Allah for tawfīq, for He is the best of those who purify.",
+      "beforeThisAyah": "The soul was described as inspired with knowledge of wickedness and righteousness.",
+      "afterThisAyah": "The fate of the one who corrupts the soul is stated."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا ١٠",
+      "translation": "and doomed is the one who corrupts it!",
+      "summary": "And he has failed who corrupts or dishonours it.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "خَابَ", "translation": "Has failed" },
+        { "arabic": "دَسَّىٰهَا", "translation": "Corrupts / dishonours it" }
+      ],
+      "tafsirSummary": "The one who does not purify the soul causes it to fall into a low and disgraced state (dassa). To corrupt the soul is to obscure its light and cover its fitrah with layers of sin and denial. Sins lead to lowness: disobedience to Allah lowers one's status in His sight and among people, while obedience raises it. As with success, both human action and divine decree can be read: the one who corrupts his soul fails, and Allah is the one who withholds purification from those who do not strive. The contrast is clear: purification leads to success; corruption leads to loss.",
+      "lessonReflection": "Whoever corrupts his soul has lost the most precious thing; the soul was given to us to elevate, not to bury. Strive and seek Allah's help so He does not leave you to your soul's corruption.",
+      "beforeThisAyah": "Success was promised for the one who purifies the soul.",
+      "afterThisAyah": "The surah turns to a people who chose corruption—Thamūd."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ ١١",
+      "translation": "Thamūd denied the truth out of their transgression,",
+      "summary": "Thamūd denied their prophet by reason of their transgression.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "ثَمُودُ", "translation": "Thamūd" },
+        { "arabic": "كَذَّبَتْ", "translation": "Denied" },
+        { "arabic": "طَغْوَىٰهَآ", "translation": "Their transgression" }
+      ],
+      "tafsirSummary": "Thamūd denied the truth out of their transgression—they exceeded the bounds and rejected the clear sign Allah sent them. They had a prophet, Ṣāliḥ (peace be upon him), and a she-camel (nāqat Allah) as a sign; but their arrogance and rebellion led them to deny both. The story is a living example of souls that chose corruption over purification. The Prophet (peace be upon him) advised Muʿādh ibn Jabal to lead his people in ʿIshā with surahs like Wāsh-Shamsi wa Ḍuḥāhā because of their tendency for long prayers.",
+      "lessonReflection": "Transgression and arrogance blind the heart; Thamūd had a clear sign and still denied—guard against pride and excess.",
+      "beforeThisAyah": "The fate of the one who corrupts his soul was stated.",
+      "afterThisAyah": "The most wretched among them is identified as the one who rose to kill the she-camel."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا ١٢",
+      "translation": "when the most wicked of them was roused to kill the she-camel.",
+      "summary": "When the most wretched of them was sent forth.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "ٱنۢبَعَثَ", "translation": "Was sent forth / roused" },
+        { "arabic": "أَشْقَىٰهَا", "translation": "The most wretched of them" }
+      ],
+      "tafsirSummary": "When the most wretched of them was sent forth—he rose to hamstring and kill the she-camel. The she-camel was a sign from Allah and a test of obedience and restraint. The most corrupt among Thamūd took the initiative to destroy it, and the people followed or consented. Wickedness often has a face and a name; it does not stay abstract.",
+      "lessonReflection": "Evil often has a champion; the most wretched step forward to destroy what is sacred—but the consequence falls on all who support or permit it.",
+      "beforeThisAyah": "Thamūd's denial out of transgression was mentioned.",
+      "afterThisAyah": "The messenger of Allah warns them to spare the she-camel and her drink."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا ١٣",
+      "translation": "The messenger of Allah said to them: Allah's she-camel and her turn to drink!",
+      "summary": "The messenger of Allah said: the she-camel of Allah and her drink.",
+      "theme": "stories",
+      "wordHighlights": [
+        { "arabic": "رَسُولُ ٱللَّهِ", "translation": "Messenger of Allah" },
+        { "arabic": "نَاقَةَ ٱللَّهِ", "translation": "She-camel of Allah" },
+        { "arabic": "وَسُقْيَـٰهَا", "translation": "And her drink" }
+      ],
+      "tafsirSummary": "The messenger of Allah, Ṣāliḥ, said to them: This is Allah's she-camel—do not harm her, and do not prevent her from her turn to drink. The camel had a right to water on alternate days; the people had their days. The prophet's warning was clear: respect the sign and the share Allah had assigned. They had a choice: obey and live, or defy and be destroyed.",
+      "lessonReflection": "The messenger warns clearly; the sign is from Allah and has a right to be respected. Disobedience to the warner is disobedience to the Lord who sent him.",
+      "beforeThisAyah": "The most wretched of Thamūd was sent forth to kill the she-camel.",
+      "afterThisAyah": "They denied the messenger and hamstrung the she-camel; their punishment is described."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا ١٤",
+      "translation": "But they denied him and hamstrung her. So their Lord crushed them for their crime and levelled them.",
+      "summary": "They denied him and hamstrung her; their Lord destroyed them for their sin and made it equal.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "عَقَرُوهَا", "translation": "Hamstrung / slaughtered her" },
+        { "arabic": "دَمْدَمَ", "translation": "Crushed / brought down" },
+        { "arabic": "فَسَوَّىٰهَا", "translation": "Made it equal / levelled" }
+      ],
+      "tafsirSummary": "They called him a liar and hamstrung the she-camel. So their Lord brought down upon them a punishment for their sin and levelled them—their civilization was destroyed. Although one person killed the camel, the punishment came upon the entire community because all of them cooperated with the sin and were content with it, making them equally responsible. Silence in the face of evil can amount to cooperation, as with Banū Isrāʾīl in other contexts. The story of Thamūd stands as a lesson for all time: do not corrupt your soul, and do not destroy the signs of Allah.",
+      "lessonReflection": "Defying the messenger and destroying the sign leads to a crushing punishment. Collective responsibility: cooperate not with sin, nor be content with it—speak or act against wrong.",
+      "beforeThisAyah": "The messenger had warned them about the she-camel and her drink.",
+      "afterThisAyah": "The surah closes with a reminder that Allah has no fear of the consequence of His judgment."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَلَا يَخَافُ عُقْبَـٰهَا ١٥",
+      "translation": "And He does not fear the consequence thereof.",
+      "summary": "And He does not fear the consequence thereof.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "يَخَافُ", "translation": "Fears" },
+        { "arabic": "عُقْبَـٰهَا", "translation": "Consequence thereof" }
+      ],
+      "tafsirSummary": "Allah does not fear the consequence of what He does—whether He destroys a people or saves them. He is not questioned about what He does, but they will be asked. This is the proper understanding of divine justice: He is the Judge, the Sovereign, and the only One with the right to recompense. The surah ends by grounding the entire lesson in the majesty and accountability of the Lord: fear Him and strive for self-purification, for no one is safe from His punishment if they disobey.",
+      "lessonReflection": "Allah is not accountable to anyone; we are accountable to Him. Let that awareness guide how we treat our soul and His signs.",
+      "beforeThisAyah": "Thamūd were destroyed for their crime.",
+      "afterThisAyah": "This concludes the surah; the theme of soul purification, corruption, and accountability is left with the reader."
+    }
+  ]
+}

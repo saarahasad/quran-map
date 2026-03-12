@@ -1,0 +1,485 @@
+{
+  "surahId": 67,
+  "surahNameArabic": "المُلك",
+  "surahNameEnglish": "The Sovereignty",
+  "revelationType": "Makki",
+  "totalAyahs": 30,
+  "thesis": "Blessed is He in whose hand is the dominion: He created death and life to test which of you is best in deed; He created the seven heavens without fault; those who fear Him unseen receive forgiveness and great reward, while those who disbelieve face the Blaze—and the Prophet is a clear warner; provision and resurrection belong to Allah alone.",
+  "gist": [
+    "Surah Al-Mulk is among the most important and forceful surahs as we near the end of the Quran—increasing urgency to obey now.",
+    "Allah's complete sovereignty: dominion in His hand, He is able to do all things; He created death and life to test which of you is best in deed (ahsanu amala).",
+    "Life as an examination: open book (Quran), model paper (Prophet's Sunnah), invigilators (recording angels), compulsory (fara'id) and bonus (nawafil); focus on best deeds, not minimum pass.",
+    "Seven heavens with no fault in the creation of the Most Merciful; stars as lamps and as missiles against devils; Hell for those who disbelieve—its keepers ask: Did a warner not come to you?",
+    "Those who fear their Lord unseen have forgiveness and great reward; He knows what is in the breasts; He who created is the Subtle, the Acquainted.",
+    "Earth made subservient—walk, eat of His provision, but to Him is the resurrection; do not feel secure from His causing the earth to swallow or sending a storm; birds upheld only by the Most Merciful.",
+    "Who can aid or provide if not Ar-Rahman? One who walks erect on a straight path is better guided; He gave you hearing, sight, hearts—little thanks; knowledge of the Hour is with Allah; He is Ar-Rahman—in Him we believe and rely; if your water sank, who would bring you flowing water?"
+  ],
+  "colorMapping": {
+    "tawhid": "emerald",
+    "faith": "emerald",
+    "hereafter": "amber",
+    "warning": "orange",
+    "signs": "cyan",
+    "guidance": "lime"
+  },
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ تَبَـٰرَكَ ٱلَّذِی بِیَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ",
+      "translation": "Blessed is He in whose hand is dominion, and He is over all things competent -",
+      "summary": "Blessed is He in whose hand is the dominion; He is capable of all things.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "تَبَـٰرَكَ", "translation": "Blessed is" },
+        { "arabic": "بِیَدِهِ ٱلۡمُلۡكُ", "translation": "In whose hand is the dominion" },
+        { "arabic": "قَدِیرٌ", "translation": "Competent / capable" }
+      ],
+      "tafsirSummary": "Allah opens with an assertion of His supreme sovereignty: Tabarakalladhi bi-yadihil mulk—blessed is the One in whose hand is the dominion. He is Rabbil âlameen; He is able to do all things (wa huwa ala kulli shay'in qadeer). This establishes that the King of all kings is the one who will take the \"exam\" of this life—there is no worldly exam that can be flunked and then fixed by pull; He is the Almighty and the All-Forgiving for those who try their best.",
+      "lessonReflection": "Every created thing points to the Creator; the dominion is in His hand alone—let that govern how we live the test of this life.",
+      "beforeThisAyah": "The surah opens with the basmalah and the theme of sovereignty and the purpose of creation.",
+      "afterThisAyah": "Allah states why He created death and life: to test which of you is best in deed."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "ٱلَّذِی خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَیَوٰةَ لِیَبۡلُوَكُمۡ أَیُّكُمۡ أَحۡسَنُ عَمَلࣰاۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡغَفُورُ",
+      "translation": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -",
+      "summary": "Who created death and life to test you—which of you is best in deed; He is the Almighty, the Forgiving.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَیَوٰةَ", "translation": "Created death and life" },
+        { "arabic": "لِیَبۡلُوَكُمۡ", "translation": "To test you" },
+        { "arabic": "أَحۡسَنُ عَمَلࣰا", "translation": "Best in deed" },
+        { "arabic": "ٱلۡعَزِیزُ ٱلۡغَفُورُ", "translation": "The Almighty, the Forgiving" }
+      ],
+      "tafsirSummary": "Allah answers the question people most often ask: why were we created? Alladhi khalaqal mawta wal hayah—who created death and life. Death is mentioned before life to remind us not to be obsessed with this world and to prepare for death. Liyabluwakum ayyukum ahsanu amala—so that He could test you, which of you is best in deed. Not which of you passes the minimum, but which of you is best—to be among the sabiqun. Ahsan amal means perfection in deeds: e.g. Salah with wudu, khushu, and not ruining it after with gossip or sin. Al-Aziz: He has the power to punish those who fail; Al-Ghafoor: for those who try their best despite mistakes, He forgives.",
+      "lessonReflection": "This life is an examination hall—open book (Quran), model paper (Sunnah), invigilators (angels). Focus on ahsanu amala; the Almighty will judge and the Forgiving will forgive the striving believer.",
+      "beforeThisAyah": "Sovereignty and capability of Allah were stated.",
+      "afterThisAyah": "Allah describes the creation of the seven heavens with no fault."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "ٱلَّذِی خَلَقَ سَبۡعَ سَمَـٰوَ ٰ⁠تࣲ طِبَاقࣰاۖ مَّا تَرَىٰ فِی خَلۡقِ ٱلرَّحۡمَـٰنِ مِن تَفَـٰوُتࣲۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورࣲ",
+      "translation": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?",
+      "summary": "Who created seven heavens in layers; no inconsistency in the creation of the Most Merciful—look again, do you see any rift?",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "سَبۡعَ سَمَـٰوَ ٰ⁠تࣲ طِبَاقࣰا", "translation": "Seven heavens in layers" },
+        { "arabic": "خَلۡقِ ٱلرَّحۡمَـٰنِ", "translation": "Creation of the Most Merciful" },
+        { "arabic": "تَفَـٰوُتࣲ", "translation": "Inconsistency" }
+      ],
+      "tafsirSummary": "He created the seven heavens one above another; you see no fault in the creation of Ar-Rahman. The link: everything He has given us is the best—so out of gratitude we should respond with our best. Look at the creation of Ar-Rahman; then look again and again—your sight will return humbled and worn out. There is no flaw in what He made.",
+      "lessonReflection": "When Allah has given nothing but beauty and perfection, we should respond with the best we have—no excuse for half-hearted worship.",
+      "beforeThisAyah": "The purpose of creation (test, best in deed) was stated.",
+      "afterThisAyah": "Your vision is told to return twice more—humbled and fatigued; then the nearest heaven and the Blaze are mentioned."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَیۡنِ یَنقَلِبۡ إِلَیۡكَ ٱلۡبَصَرُ خَاسِئࣰا وَهُوَ حَسِیرࣱ",
+      "translation": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued.",
+      "summary": "Return your vision again and again; it will return to you humbled and worn out.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "خَاسِئࣰا", "translation": "Humbled" },
+        { "arabic": "حَسِیرࣱ", "translation": "Fatigued" }
+      ],
+      "tafsirSummary": "Then look again and yet again—your sight will return to you in a state of humiliation and worn out. Human vision cannot find any defect in Allah's creation; the repeated looking underscores both the perfection of creation and the limits of the observer.",
+      "lessonReflection": "Creation overwhelms the observer; our inability to find fault should increase our gratitude and submission.",
+      "beforeThisAyah": "No inconsistency was seen in the creation of the Most Merciful.",
+      "afterThisAyah": "The nearest heaven is adorned with lamps (stars) and the punishment of the Blaze is prepared."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَلَقَدۡ زَیَّنَّا ٱلسَّمَاۤءَ ٱلدُّنۡیَا بِمَصَـٰبِیحَ وَجَعَلۡنَـٰهَا رُجُومࣰا لِّلشَّیَـٰطِینِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِیرِ",
+      "translation": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze.",
+      "summary": "We adorned the nearest heaven with lamps (stars), made them missiles against the devils, and prepared for them the punishment of the Blaze.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "مَصَـٰبِیحَ", "translation": "Lamps (stars)" },
+        { "arabic": "رُجُومࣰا لِّلشَّیَـٰطِینِ", "translation": "Missiles for the devils" },
+        { "arabic": "عَذَابَ ٱلسَّعِیرِ", "translation": "Punishment of the Blaze" }
+      ],
+      "tafsirSummary": "We have adorned the nearest heaven with lamps—the beauty of Allah's universe. We have made such lamps as missiles to drive away the devils, and We have prepared for them the torment of the blazing Fire. The heavens are both a sign of beauty and a realm guarded against evil.",
+      "lessonReflection": "The same creation that beautifies the sky is used to repel devils—Allah's design is both majestic and purposeful.",
+      "beforeThisAyah": "Vision was to return humbled and fatigued.",
+      "afterThisAyah": "Those who disbelieve in their Lord are told they will have the punishment of Hell."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَلِلَّذِینَ كَفَرُوا۟ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِیرُ",
+      "translation": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination.",
+      "summary": "For those who disbelieve in their Lord—the punishment of Hell; wretched is that destination.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "كَفَرُوا۟ بِرَبِّهِمۡ", "translation": "Disbelieved in their Lord" },
+        { "arabic": "عَذَابُ جَهَنَّمَ", "translation": "Punishment of Hell" },
+        { "arabic": "بِئۡسَ ٱلۡمَصِیرُ", "translation": "Wretched is the destination" }
+      ],
+      "tafsirSummary": "For those who deny that this exam is taking place—who want to study from another book, who reject the Quran—for them is the torment of Hell. Worst indeed is that destination. The choice is ours: accept the warner and the book, or face the consequence.",
+      "lessonReflection": "Denial of the Lord and His message leads to the worst destination; the choice to believe or disbelieve has a fixed outcome.",
+      "beforeThisAyah": "The Blaze was prepared for the devils.",
+      "afterThisAyah": "When they are cast into Hell, they hear its inhaling and it almost bursts with fury."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِذَاۤ أُلۡقُوا۟ فِیهَا سَمِعُوا۟ لَهَا شَهِیقࣰا وَهِیَ تَفُورُ",
+      "translation": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up.",
+      "summary": "When they are cast therein they hear its terrible drawing in of breath as it blazes forth.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "شَهِیقࣰا", "translation": "Inhaling / drawing in of breath" },
+        { "arabic": "تَفُورُ", "translation": "Boils up / blazes forth" }
+      ],
+      "tafsirSummary": "When they are cast therein, they hear the terrible drawing in of its breath as it blazes forth. The Fire is described as almost bursting with fury—a vivid image of the punishment that awaits the deniers.",
+      "lessonReflection": "The reality of the Fire is not metaphorical; its sound and fury are for those who chose denial—let the description move us to obedience.",
+      "beforeThisAyah": "The punishment of Hell for disbelievers was stated.",
+      "afterThisAyah": "Every time a group is cast in, the keepers ask: Did a warner not come to you?"
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "تَكَادُ تَمَیَّزُ مِنَ ٱلۡغَیۡظِۖ كُلَّمَاۤ أُلۡقِیَ فِیهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَاۤ أَلَمۡ یَأۡتِكُمۡ نَذِیرࣱ",
+      "translation": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+      "summary": "It almost bursts with fury; whenever a company is thrown in, its keepers ask: Did a warner not come to you?",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "تَمَیَّزُ", "translation": "Bursts (with rage)" },
+        { "arabic": "خَزَنَتُهَا", "translation": "Its keepers" },
+        { "arabic": "نَذِیرࣱ", "translation": "A warner" }
+      ],
+      "tafsirSummary": "It almost bursts with fury. Every time a group is cast therein, its keeper will say: Alam ya'tikum nazir?—Did there not come to you a warner? The angels know the prophets came; the question is to increase the bitterness and regret of the people of the Fire.",
+      "lessonReflection": "On that day they will be asked—and their answer will only deepen their regret; the warner did come, and they denied him.",
+      "beforeThisAyah": "They hear the Fire's inhaling as it boils up.",
+      "afterThisAyah": "They confess: Yes, a warner came but we denied and said Allah sent down nothing."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "قَالُوا۟ بَلَىٰ قَدۡ جَاۤءَنَا نَذِیرࣱ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَیۡءٍ إِنۡ أَنتُمۡ إِلَّا فِی ضَلَـٰلࣲ كَبِیرࣲ",
+      "translation": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'\"",
+      "summary": "They say: Yes, a warner came to us but we denied and said Allah sent down nothing; you are only in great error.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "فَكَذَّبۡنَا", "translation": "We denied" },
+        { "arabic": "مَا نَزَّلَ ٱللَّهُ مِن شَیۡءٍ", "translation": "Allah has not sent down anything" }
+      ],
+      "tafsirSummary": "They will say: Yes, indeed a warner came to us but we denied him and we said Allah never sent down anything of revelation; you are only in great error. Their admission in the Fire does not help them—it only adds to their anguish.",
+      "lessonReflection": "Confession in the Fire is too late; the time to accept the warner is in this life.",
+      "beforeThisAyah": "The keepers asked if a warner had come.",
+      "afterThisAyah": "They say: If only we had listened or used our reason we would not be among the companions of the Blaze."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَقَالُوا۟ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِیۤ أَصۡحَـٰبِ ٱلسَّعِیرِ",
+      "translation": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
+      "summary": "They say: If only we had listened or reasoned, we would not be among the companions of the Blaze.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "نَسۡمَعُ", "translation": "Listening" },
+        { "arabic": "نَعۡقِلُ", "translation": "Reasoning" }
+      ],
+      "tafsirSummary": "They will say: Had we but listened or used our brains we would not have been among the dwellers of the blazing Fire. On that day they will regret not having used their intellect. Many in the world regard those who give everything for Islam as fools—but on that day they will acknowledge that had they used their brains and listened (with reflection and attention), they would have been saved.",
+      "lessonReflection": "Listening and reasoning in this life lead to salvation; in the next life the deniers will admit they failed to do both.",
+      "beforeThisAyah": "They admitted they had denied the warner.",
+      "afterThisAyah": "They confess their sin; so away with the companions of the Blaze."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "فَٱعۡتَرَفُوا۟ بِذَنۢبِهِمۡ فَسُحۡقࣰا لِّأَصۡحَـٰبِ ٱلسَّعِیرِ",
+      "translation": "And they will admit their sin, so [it is] alienation for the companions of the Blaze.",
+      "summary": "They confess their sin; so away with the companions of the Blaze.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ٱعۡتَرَفُوا۟ بِذَنۢبِهِمۡ", "translation": "Admit their sin" },
+        { "arabic": "سُحۡقࣰا", "translation": "Away with / alienation" }
+      ],
+      "tafsirSummary": "They will confess their sin. So away with the dwellers of the blazing Fire—Allah dismisses them contemptuously just as they dismissed Allah, His book, and His Prophet in this world. Suhqan: He distances them far from His mercy.",
+      "lessonReflection": "Allah's dismissal of them is the mirror of their dismissal of the truth—do not dismiss the message lest you be dismissed from mercy.",
+      "beforeThisAyah": "They wished they had listened or reasoned.",
+      "afterThisAyah": "The contrast: those who fear their Lord unseen have forgiveness and great reward."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِنَّ ٱلَّذِینَ یَخۡشَوۡنَ رَبَّهُم بِٱلۡغَیۡبِ لَهُم مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرࣱ",
+      "translation": "Indeed, those who fear their Lord unseen will have forgiveness and great reward.",
+      "summary": "Those who fear their Lord unseen—theirs are forgiveness and a great reward.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "یَخۡشَوۡنَ رَبَّهُم بِٱلۡغَیۡبِ", "translation": "Fear their Lord unseen" },
+        { "arabic": "مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرࣱ", "translation": "Forgiveness and a great reward" }
+      ],
+      "tafsirSummary": "Indeed those who fear their Lord unseen—theirs will be forgiveness and a great reward. Fear their Lord unseen is the greatest test: to remember we are in an examination hall even when it does not seem like it, to remember the invigilators (the recording angels) even though we cannot see them, to remember that we will receive a report card. For such people there is forgiveness for any shortcomings and a great reward.",
+      "lessonReflection": "The test is to fear Allah when He is unseen—to live as if the angels are beside us and the Day is certain.",
+      "beforeThisAyah": "The people of the Fire were dismissed.",
+      "afterThisAyah": "Whether you conceal or disclose your speech, He knows what is in the breasts."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَأَسِرُّوا۟ قَوۡلَكُمۡ أَوِ ٱجۡهَرُوا۟ بِهِۦۤۖ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "translation": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts.",
+      "summary": "Whether you keep your talk secret or disclose it, He is All-Knowing of what is in the breasts.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ذَاتِ ٱلصُّدُورِ", "translation": "What is in the breasts" }
+      ],
+      "tafsirSummary": "Whether you keep your talk secret or disclose it—indeed He is All-Knowing of what is in the hearts. We cannot hide from Allah; sometimes we deceive ourselves with false excuses, but He knows the secrets of the hearts.",
+      "lessonReflection": "We cannot hide our intentions from Allah—so let our inner state match our outward claim of faith.",
+      "beforeThisAyah": "Forgiveness and great reward for those who fear Him unseen were stated.",
+      "afterThisAyah": "Should not He who created know? He is the Subtle, the Acquainted."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "أَلَا یَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ",
+      "translation": "Does He who created not know, while He is the Subtle, the Acquainted?",
+      "summary": "Should not He who created know? He is the Subtle, the Acquainted.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "مَنۡ خَلَقَ", "translation": "He who created" },
+        { "arabic": "ٱللَّطِیفُ ٱلۡخَبِیرُ", "translation": "The Subtle, the Acquainted" }
+      ],
+      "tafsirSummary": "Should not He who has created know? Just as a mother knows what her child is going through even when the child hides it, Allah—whose love for us is greater than that of seventy mothers—knows what we really think. Whatever false excuses we assert, He is al-Latif al-Khabir: the most subtle, the fully acquainted. He knows whether our action is ahsan or not.",
+      "lessonReflection": "The Creator knows every thought and excuse; we cannot rationalize our way out of accountability.",
+      "beforeThisAyah": "He knows what is in the breasts.",
+      "afterThisAyah": "He made the earth subservient—walk in its paths, eat of His provision; to Him is the resurrection."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "هُوَ ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولࣰا فَٱمۡشُوا۟ فِی مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزۡقِهِۦۖ وَإِلَیۡهِ ٱلنُّشُورُ",
+      "translation": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection.",
+      "summary": "He made the earth subservient to you—walk in its paths, eat of His provision; to Him is the resurrection.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "ذَلُولࣰا", "translation": "Tame / subservient" },
+        { "arabic": "رِّزۡقِهِۦ", "translation": "His provision" },
+        { "arabic": "ٱلنُّشُورُ", "translation": "The resurrection" }
+      ],
+      "tafsirSummary": "He it is who has made the earth subservient to you. So walk in the path thereof and eat of His provision—and remember, to Him will be the resurrection. Again and again the Quran reminds us of the blessings of the earth. In Islam we are not told to renounce the earth; we are told to eat of its provision but remember that the journey is back to Allah. Ibadur Rahman walk on the earth with softness (hauna)—they use the earth's resources but do not abuse them. The journey is back to Allah.",
+      "lessonReflection": "Use the earth and its provision with gratitude and restraint—and never forget that to Him is the resurrection.",
+      "beforeThisAyah": "The Creator knows all; He is the Subtle, the Acquainted.",
+      "afterThisAyah": "Do you feel secure that He who is in the heaven will not cause the earth to swallow you?"
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "ءَأَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِیَ تَمُورُ",
+      "translation": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway?",
+      "summary": "Do you feel secure that He who is in the heaven will not cause the earth to sink with you so that it sways?",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "یَخۡسِفَ", "translation": "Cause to sink/swallow" },
+        { "arabic": "تَمُورُ", "translation": "Sway / quake" }
+      ],
+      "tafsirSummary": "Do you feel secure then that He who is over the heaven will not cause the earth to sink with you and then it should quake? Look at the earthquakes that happen with such frightening intensity and frequency. We cannot even avert an earthquake—so we should always remain in fear of the punishment of Allah.",
+      "lessonReflection": "Do not feel secure from Allah's punishment; the earth cannot protect us—only His mercy can.",
+      "beforeThisAyah": "The earth was made subservient and the resurrection is to Him.",
+      "afterThisAyah": "Or that He will send against you a violent whirlwind? Then you would know how terrible was His warning."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "أَمۡ أَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یُرۡسِلَ عَلَیۡكُمۡ حَاصِبࣰاۖ فَسَتَعۡلَمُونَ كَیۡفَ نَذِیرِ",
+      "translation": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning.",
+      "summary": "Or do you feel secure that He will send against you a violent whirlwind? Then you would know how terrible was My warning.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "حَاصِبࣰا", "translation": "Storm of stones / violent whirlwind" },
+        { "arabic": "نَذِیرِ", "translation": "My warning" }
+      ],
+      "tafsirSummary": "Or do you feel secure that He who is over the heaven will not send against you a violent whirlwind? Then you shall know how terrible was My warning. Allah can use anything in His creation to punish—as with the story of Abraha and the elephants, when Allah sent birds against the army. We should remain in fear of His punishment.",
+      "lessonReflection": "Security from Allah's punishment is false security; He can send earthquake or storm—fear Him and obey.",
+      "beforeThisAyah": "Security from the earth swallowing was questioned.",
+      "afterThisAyah": "Those before them denied—and how terrible was His reproach."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "وَلَقَدۡ كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ فَكَیۡفَ كَانَ نَكِیرِ",
+      "translation": "And already had those before them denied, and how [terrible] was My reproach.",
+      "summary": "Those before them denied; and how terrible was My reproach.",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "مِن قَبۡلِهِمۡ", "translation": "Before them" },
+        { "arabic": "نَكِیرِ", "translation": "My reproach" }
+      ],
+      "tafsirSummary": "And already had those before them denied—and how terrible was My reproach. Past nations denied and were destroyed; the same fate awaits those who persist in denial.",
+      "lessonReflection": "History is full of deniers who were reproached—do not add yourself to their number.",
+      "beforeThisAyah": "Security from storm was questioned.",
+      "afterThisAyah": "Do they not see the birds—none upholds them except the Most Merciful?"
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "أَوَلَمۡ یَرَوۡا۟ إِلَى ٱلطَّیۡرِ فَوۡقَهُمۡ صَـٰۤفَّـٰتࣲ وَیَقۡبِضۡنَۚ مَا یُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَـٰنُۚ إِنَّهُۥ بِكُلِّ شَیۡءِۭ بَصِیرٌ",
+      "translation": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
+      "summary": "Do they not see the birds above them spreading and folding their wings? None upholds them except the Most Merciful; He is the overseer of everything.",
+      "theme": "signs",
+      "wordHighlights": [
+        { "arabic": "ٱلطَّیۡرِ", "translation": "The birds" },
+        { "arabic": "صَـٰۤفَّـٰتࣲ وَیَقۡبِضۡنَ", "translation": "Spreading and folding (wings)" },
+        { "arabic": "ٱلرَّحۡمَـٰنُ", "translation": "The Most Merciful" }
+      ],
+      "tafsirSummary": "Do they not see the birds above them spreading out their wings and folding them in? None upholds them except the Rahman. The birds and their amazing migratory journeys—e.g. the mutton bird travelling over 15,500 miles in figure-eight formation—show who has taught and programmed them. None upholds them except Ar-Rahman; indeed He is watching everything.",
+      "lessonReflection": "The birds are a sign: the same One who upholds them can send them (or other creation) against the wrongdoers—and He sees everything.",
+      "beforeThisAyah": "Those before them had denied and been reproached.",
+      "afterThisAyah": "Who besides the Most Merciful can be an army to help you?"
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "أَمَّنۡ هَـٰذَا ٱلَّذِی هُوَ جُندࣱ لَّكُمۡ یَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَـٰنِۚ إِنِ ٱلۡكَـٰفِرُونَ إِلَّا فِی غُرُورٍ",
+      "translation": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion.",
+      "summary": "Who besides the Most Merciful could be an army to help you? The disbelievers are only in delusion.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "جُندࣱ", "translation": "Army" },
+        { "arabic": "غُرُورٍ", "translation": "Delusion" }
+      ],
+      "tafsirSummary": "Who is he besides the Most Merciful that can be an army to you to help you? When an earthquake comes, people run for supplies—who can help except Ar-Rahman? The disbelievers are nothing but in delusion. Instead of running to Allah, the attitude of many is running away from Allah—disobedience and arrogance.",
+      "lessonReflection": "No one can aid us when Allah sends punishment; the disbelievers' sense of security is pure delusion.",
+      "beforeThisAyah": "The birds were cited as upheld only by the Most Merciful.",
+      "afterThisAyah": "Who can provide for you if He withholds His provision? They persist in pride and flee from the truth."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "أَمَّنۡ هَـٰذَا ٱلَّذِی یَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّوا۟ فِی عُتُوࣲّ وَنُفُورٍ",
+      "translation": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion.",
+      "summary": "Who can provide for you if He withholds His provision? They persist in pride and aversion.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "یَرۡزُقُكُمۡ", "translation": "Provide for you" },
+        { "arabic": "عُتُوࣲّ وَنُفُورٍ", "translation": "Insolence and aversion" }
+      ],
+      "tafsirSummary": "Who is he that can provide for you if He should withhold His provision? No one. But they continue in pride and they flee from the truth. Instead of running to Allah, people run away from Allah—disobedience and arrogance.",
+      "lessonReflection": "Provision is entirely from Allah; to persist in pride and aversion is to cut oneself off from the only Source.",
+      "beforeThisAyah": "No army can help besides the Most Merciful.",
+      "afterThisAyah": "Is he who walks prone on his face better guided or he who walks upright on a straight path?"
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "أَفَمَن یَمۡشِی مُكِبًّا عَلَىٰ وَجۡهِهِۦۤ أَهۡدَىٰۤ أَمَّن یَمۡشِی سَوِیًّا عَلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ",
+      "translation": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?",
+      "summary": "Is he who walks prone on his face better guided or he who walks upright on a straight path?",
+      "theme": "guidance",
+      "wordHighlights": [
+        { "arabic": "مُكِبًّا عَلَىٰ وَجۡهِهِۦۤ", "translation": "Fallen on his face" },
+        { "arabic": "سَوِیًّا عَلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ", "translation": "Erect on a straight path" }
+      ],
+      "tafsirSummary": "Is he who walks prone on his face more rightly guided or he who walks upright on the straight path? Two images: a man hunched, looking down—he cannot see ahead or to the sides. Another walking upright—his vision encompasses all around. The believer's vision encompasses this world and the hereafter; the disbeliever's vision is narrow—limited to this world, career, family—and then it is over. The one on the straight path is better guided.",
+      "lessonReflection": "The believer walks upright with vision for both worlds; the disbeliever is as if walking prone—limited and lost.",
+      "beforeThisAyah": "They persist in insolence and aversion.",
+      "afterThisAyah": "Say: It is He who created you and gave you hearing, sight, and hearts—little do you thank."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "قُلۡ هُوَ ٱلَّذِیۤ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَـٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِیلࣰا مَّا تَشۡكُرُونَ",
+      "translation": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful.\"",
+      "summary": "Say: It is He who created you and gave you hearing, sight, and hearts; little do you thank.",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "ٱلسَّمۡعَ وَٱلۡأَبۡصَـٰرَ وَٱلۡأَفۡـِٔدَةَ", "translation": "Hearing, vision, and hearts" },
+        { "arabic": "قَلِیلࣰا مَّا تَشۡكُرُونَ", "translation": "Little do you thank" }
+      ],
+      "tafsirSummary": "Say: It is He who has created you and endowed you with hearing and seeing and hearts. Qaleelan ma tashkuroon—little thanks do you give. The shukr we offer is very little; even the time we spend in gratitude is qaleel. We thank Allah by using the faculties He gave us in His path and in His obedience—not in satisfying our desires.",
+      "lessonReflection": "Use hearing, sight, and heart for Allah's obedience; that is true shukr—and we fall far short.",
+      "beforeThisAyah": "The two types of walkers were compared.",
+      "afterThisAyah": "Say: It is He who multiplied you on the earth and to Him you will be gathered."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "قُلۡ هُوَ ٱلَّذِی ذَرَأَكُمۡ فِی ٱلۡأَرۡضِ وَإِلَیۡهِ تُحۡشَرُونَ",
+      "translation": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered.\"",
+      "summary": "Say: It is He who created you on the earth and to Him you shall be gathered.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "ذَرَأَكُمۡ", "translation": "Multiplied / created you" },
+        { "arabic": "تُحۡشَرُونَ", "translation": "You will be gathered" }
+      ],
+      "tafsirSummary": "Say: It is He who has created you on the earth and to Him shall you be gathered. Creation and return are both in His hand; the same Lord who scattered you on the earth will gather you to Him.",
+      "lessonReflection": "From earth we came and to Him we return—let that govern our priorities.",
+      "beforeThisAyah": "He gave hearing, sight, hearts—little thanks.",
+      "afterThisAyah": "They say: When will this promise come to pass if you are truthful?"
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَـٰدِقِینَ",
+      "translation": "And they say, \"When is this promise, if you should be truthful?\"",
+      "summary": "They say: When will this promise come to pass if you are truthful?",
+      "theme": "disbelief",
+      "wordHighlights": [
+        { "arabic": "ٱلۡوَعۡدُ", "translation": "The promise" }
+      ],
+      "tafsirSummary": "They say: When will this promise come to pass if you are telling the truth? The deniers demand a date for the Hour—they are testing the Prophet and avoiding the real issue.",
+      "lessonReflection": "Demanding the date of the Hour is often a way to deflect from obedience; the answer is with Allah.",
+      "beforeThisAyah": "To Him you will be gathered.",
+      "afterThisAyah": "Say: The knowledge thereof is with Allah alone and I am only a plain warner."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَاۤ أَنَا۠ نَذِیرࣱ مُّبِینࣱ",
+      "translation": "Say, \"The knowledge is only with Allah, and I am only a clear warner.\"",
+      "summary": "Say: The knowledge is only with Allah; I am only a plain warner.",
+      "theme": "revelation",
+      "wordHighlights": [
+        { "arabic": "ٱلۡعِلۡمُ عِندَ ٱللَّهِ", "translation": "Knowledge is with Allah" },
+        { "arabic": "نَذِیرࣱ مُّبِینࣱ", "translation": "Plain warner" }
+      ],
+      "tafsirSummary": "Say: Innama al-ilmu indallah—the knowledge of its exact time is with Allah alone—and I am only a plain warner. The Prophet does not know when the Hour is; his role is to warn clearly.",
+      "lessonReflection": "We are not required to know the when; we are required to heed the warner and prepare.",
+      "beforeThisAyah": "They asked when the promise would come.",
+      "afterThisAyah": "When they see it approaching, the faces of the disbelievers will change and it will be said: This is what you were calling for."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "فَلَمَّا رَأَوۡهُ زُلۡفَةࣰ سِیۤـَٔتۡ وُجُوهُ ٱلَّذِینَ كَفَرُوا۟ وَقِیلَ هَـٰذَا ٱلَّذِی كُنتُم بِهِۦ تَدَّعُونَ",
+      "translation": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"",
+      "summary": "When they see it approaching, the faces of the disbelievers will be distressed and it will be said: This is what you were calling for.",
+      "theme": "hereafter",
+      "wordHighlights": [
+        { "arabic": "زُلۡفَةࣰ", "translation": "Approaching" },
+        { "arabic": "سِیۤـَٔتۡ وُجُوهُ", "translation": "Faces will be distressed" }
+      ],
+      "tafsirSummary": "But when they see it approaching, the faces of those who disbelieve will change and turn black with sadness and grief. This blackness reflects their anguish and inner darkness appearing on their faces. It will be said to them: This is what you were calling for—the Hour they had mocked.",
+      "lessonReflection": "The same Hour they demanded to know about will one day appear—and their faces will show the cost of denial.",
+      "beforeThisAyah": "Knowledge of the Hour is with Allah; the Prophet is a warner.",
+      "afterThisAyah": "Say: Whether Allah destroys me and those with me or has mercy on us, who can save the disbelievers from a painful torment?"
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "قُلۡ أَرَءَیۡتُمۡ إِنۡ أَهۡلَكَنِیَ ٱللَّهُ وَمَن مَّعِیَ أَوۡ رَحِمَنَا فَمَن یُجِیرُ ٱلۡكَـٰفِرِینَ مِنۡ عَذَابٍ أَلِیمࣲ",
+      "translation": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"",
+      "summary": "Say: If Allah destroys me and those with me or has mercy on us, who can protect the disbelievers from a painful torment?",
+      "theme": "warning",
+      "wordHighlights": [
+        { "arabic": "یُجِیرُ", "translation": "Protect / save" },
+        { "arabic": "عَذَابٍ أَلِیمࣲ", "translation": "Painful punishment" }
+      ],
+      "tafsirSummary": "Say: Have you considered—if Allah destroys me and those with me or He bestows His mercy upon us, who can save the disbelievers from a painful torment? It makes no difference to you whether the Prophet and the Muslims are destroyed or saved—who will save you from the painful torment? Allah exhorts us again and again: think about yourselves; we are so busy judging others instead of preparing ourselves.",
+      "lessonReflection": "The fate of the Prophet and the Muslims is in Allah's hands; the question that matters is: who will save you from the torment?",
+      "beforeThisAyah": "Their faces will be distressed when they see the Hour.",
+      "afterThisAyah": "Say: He is the Most Merciful; we believe in Him and upon Him we rely."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "قُلۡ هُوَ ٱلرَّحۡمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَیۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِی ضَلَـٰلࣲ مُّبِینࣲ",
+      "translation": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\"",
+      "summary": "Say: He is the Most Merciful; we believe in Him and upon Him we rely; you will know who is in manifest error.",
+      "theme": "faith",
+      "wordHighlights": [
+        { "arabic": "ٱلرَّحۡمَـٰنُ", "translation": "The Most Merciful" },
+        { "arabic": "تَوَكَّلۡنَا", "translation": "We have relied" },
+        { "arabic": "ضَلَـٰلࣲ مُّبِینࣲ", "translation": "Clear error" }
+      ],
+      "tafsirSummary": "Say: Huwa ar-Rahman—He is the Most Merciful. Amanna bihi—we believe in Him. Wa alayhi tawakkalna—and upon Him we put our trust. So you will come to know who it is that is in manifest error. The Prophet and the believers declare their creed and tawakkul; the outcome will show who was right.",
+      "lessonReflection": "Declare belief in Ar-Rahman and rely on Him alone; the end will show who was in clear error.",
+      "beforeThisAyah": "Who can save the disbelievers from torment was asked.",
+      "afterThisAyah": "Say: If your water were to sink away, who could bring you flowing water?"
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "قُلۡ أَرَءَیۡتُمۡ إِنۡ أَصۡبَحَ مَاۤؤُكُمۡ غَوۡرࣰا فَمَن یَأۡتِیكُم بِمَاۤءࣲ مَّعِینِۭ",
+      "translation": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"",
+      "summary": "Say: If your water were to sink away, who could bring you flowing water?",
+      "theme": "tawhid",
+      "wordHighlights": [
+        { "arabic": "غَوۡرࣰا", "translation": "Sunken (into the earth)" },
+        { "arabic": "مَاۤءࣲ مَّعِینِۭ", "translation": "Flowing water" }
+      ],
+      "tafsirSummary": "Say: Have you considered—if all your water were to sink away, who then could supply you with flowing water? The surah ends with a mention of water. The end of water means the end of life; man cannot go on living without it. Why is earth the only habitable planet? Because it is the only one with water. So Allah says: think about it—where is your source of life itself coming from? From Rabbul âlameen.",
+      "lessonReflection": "Every drop of water is from Allah; if He took it away, no one could bring it back—so recognize the Source of life and submit.",
+      "beforeThisAyah": "We believe in Him and rely on Him; you will know who is in error.",
+      "afterThisAyah": "The surah ends; the themes of sovereignty, the test of life, and the two destinations are left with the reader."
+    }
+  ]
+}
